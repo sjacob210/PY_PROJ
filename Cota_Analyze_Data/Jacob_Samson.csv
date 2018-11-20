@@ -1,0 +1,1926 @@
+,patient_id,date_of_birth,stage,rectal_or_colon_ca,braf_mutation,resection,lymph_nodes_removed,therapy_type,patient_preference,histological_grade
+0,patient_id_0,1953-12-28,iiia,Colon,nan,r0,nan,metastatic,nan,g2
+6,patient_id_6,1973-04-28,nan,Colon,nan,r0,21.0,adjuvant,False,g2
+10,patient_id_10,1959-06-09,ivb,Colon,nan,r1,9.0,adjuvant,False,g2
+15,patient_id_15,2009-05-20,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+16,patient_id_16,1973-09-05, iiib,Colon,nan,r0,nan,neoadjuvant,True,g2
+30,patient_id_30,1950-01-29, i,Colon,nan,r0,30.0,neoadjuvant,False,g1
+36,patient_id_36,2018-08-15,i,Colon,nan,r1,20.0,metastatic,False,g3
+46,patient_id_46,1984-10-07,ivb,Colon,nan,r0,16.0,neoadjuvant,False,g2
+64,patient_id_64,1956-10-27,nan,Colon,nan,r1,nan,adjuvant,nan,g2
+68,patient_id_68,1962-12-18, i,Colon,nan,r0,11.0,metastatic,False,g2
+71,patient_id_71,1969-09-26,iiic,Colon,nan,r0,nan,metastatic,False,g2
+81,patient_id_81,1974-06-29,i,Colon,nan,r0,11.0,neoadjuvant,nan,g2
+85,patient_id_85,1996-06-27, iia,Colon,nan,r0,7.0,adjuvant,False,g2
+87,patient_id_87,1953-01-02,nan,Colon,nan,r0,nan,adjuvant,False,g2
+88,patient_id_88,1961-09-01, iva,Rectal,nan,r0,16.0,metastatic,False,g2
+89,patient_id_89,1965-05-20,nan,Colon,nan,r0,13.0,metastatic,False,g3
+90,patient_id_90,2000-04-22, iib,Colon,nan,r2,17.0,adjuvant,True,g2
+102,patient_id_102,2009-08-30, iva,Rectal,nan,r0,16.0,neoadjuvant,False,g2
+109,patient_id_109,1973-06-04, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+110,patient_id_110,1974-02-01, iva,Colon,nan,r0,nan,adjuvant,False,g2
+112,patient_id_112,1949-08-22,nan,Colon,nan,r0,nan,metastatic,True,g3
+120,patient_id_120,1946-04-13,iia,Colon,nan,r0,nan,metastatic,nan,g2
+125,patient_id_125,1955-10-25,iiib,Colon,nan,r0,14.0,neoadjuvant,False,g1
+129,patient_id_129,1982-08-13, iva,Colon,nan,r0,12.0,metastatic,False,g2
+130,patient_id_130,1978-02-20, iva,Rectal,nan,r0,25.0,metastatic,False,g2
+139,patient_id_139,1952-05-07,iib,Rectal,nan,r0,nan,neoadjuvant,False,g2
+151,patient_id_151,1986-08-02,iia,Colon,nan,r0,16.0,metastatic,True,g1
+152,patient_id_152,2014-04-12,iiic,Rectal,nan,r0,nan,metastatic,True,g2
+154,patient_id_154,1970-09-04,nan,Rectal,nan,r0,30.0,metastatic,False,g2
+157,patient_id_157,1987-01-25, iiib,Rectal,nan,r0,nan,neoadjuvant,False,g2
+177,patient_id_177,1950-05-11,iia,Colon,nan,r0,nan,adjuvant,nan,g3
+178,patient_id_178,2016-02-07,iva,Colon,nan,r0,nan,neoadjuvant,False,g3
+179,patient_id_179,2011-09-25, iva,Colon,nan,r0,16.0,adjuvant,False,g3
+188,patient_id_188,1999-07-24, iia,Colon,nan,r1,nan,neoadjuvant,False,g2
+196,patient_id_196,1977-05-12,iiia,Colon,nan,r0,nan,metastatic,False,g1
+198,patient_id_198,2012-01-27,iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+203,patient_id_203,1969-03-21, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+209,patient_id_209,2008-07-06, iiia,Colon,nan,r0,13.0,neoadjuvant,False,g2
+210,patient_id_210,2011-08-17,nan,Colon,nan,r0,nan,neoadjuvant,False,g3
+214,patient_id_214,2000-11-01,nan,Rectal,nan,r0,nan,metastatic,False,g2
+217,patient_id_217,1955-07-12, iiib,Colon,nan,r0,46.0,metastatic,nan,g2
+220,patient_id_220,2020-08-23, iia,Colon,nan,r0,13.0,neoadjuvant,False,g1
+226,patient_id_226,1984-07-03, iiib,Rectal,nan,r0,16.0,metastatic,False,g3
+231,patient_id_231,1982-01-17,iia,Rectal,nan,r0,nan,neoadjuvant,False,g2
+237,patient_id_237,2018-03-16,iia,Rectal,nan,r0,36.0,adjuvant,False,g3
+241,patient_id_241,2011-11-24, ivb,Colon,nan,r0,52.0,metastatic,False,g3
+245,patient_id_245,1983-07-24,nan,Colon,nan,r0,nan,adjuvant,nan,g2
+259,patient_id_259,1966-02-28,i,Colon,nan,r0,nan,metastatic,False,g2
+266,patient_id_266,1999-09-26,iiia,Colon,nan,r0,nan,metastatic,True,g3
+282,patient_id_282,1977-02-27, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+283,patient_id_283,1994-12-22,iic,Rectal,nan,r0,nan,metastatic,False,g2
+294,patient_id_294,1995-07-20,iiib,Rectal,nan,r0,21.0,neoadjuvant,nan,g2
+304,patient_id_304,1957-05-23,iic,Rectal,nan,r0,nan,neoadjuvant,False,g2
+308,patient_id_308,1946-09-13,iva,Colon,nan,r0,nan,adjuvant,nan,g1
+318,patient_id_318,1997-07-15,ivb,Rectal,nan,r0,nan,metastatic,nan,g2
+326,patient_id_326,1972-09-08,iva,Colon,nan,r0,nan,metastatic,False,g3
+327,patient_id_327,1977-11-18, iib,Colon,nan,r0,20.0,metastatic,False,g2
+339,patient_id_339,1964-02-09,iva,Colon,nan,r0,nan,metastatic,False,g3
+345,patient_id_345,1951-05-02, iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+346,patient_id_346,2012-12-27, iva,Colon,nan,r1,19.0,neoadjuvant,False,g3
+355,patient_id_355,1948-02-22,iva,Colon,nan,r0,nan,adjuvant,False,g3
+363,patient_id_363,1987-03-05,nan,Colon,nan,r0,10.0,neoadjuvant,True,g1
+370,patient_id_370,1981-12-07, iia,Colon,nan,r0,nan,metastatic,False,g2
+371,patient_id_371,1984-03-06,ivb,Colon,nan,r0,nan,adjuvant,True,g2
+372,patient_id_372,1979-02-08, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+379,patient_id_379,1969-01-27, ivb,Colon,nan,r0,nan,neoadjuvant,False,g3
+380,patient_id_380,2006-04-28, iiic,Colon,nan,r0,nan,metastatic,False,g2
+389,patient_id_389,2016-04-03, ivb,Colon,nan,r0,nan,neoadjuvant,nan,g3
+392,patient_id_392,2000-05-12,iiib,Colon,nan,r0,18.0,neoadjuvant,nan,g2
+398,patient_id_398,1985-08-14,i,Rectal,nan,r1,14.0,adjuvant,False,g2
+407,patient_id_407,1985-05-03,nan,Colon,nan,r0,nan,adjuvant,True,g3
+409,patient_id_409,1996-09-28,ivb,Colon,nan,r0,nan,metastatic,False,g1
+410,patient_id_410,1982-12-18,iiib,Colon,nan,r0,22.0,neoadjuvant,False,g2
+413,patient_id_413,1994-07-10,iiic,Colon,nan,r0,16.0,neoadjuvant,False,g2
+417,patient_id_417,1953-03-23,nan,Colon,nan,r0,nan,metastatic,True,g2
+433,patient_id_433,1948-06-16,nan,Rectal,nan,r0,18.0,neoadjuvant,False,g2
+442,patient_id_442,1981-04-07,i,Colon,nan,r0,nan,neoadjuvant,False,g2
+444,patient_id_444,1947-03-25,nan,Rectal,nan,r0,52.0,metastatic,True,g2
+445,patient_id_445,1990-11-28,iiib,Colon,nan,r0,nan,metastatic,nan,g2
+457,patient_id_457,1969-12-26, iiib,Colon,nan,r0,22.0,metastatic,True,g2
+460,patient_id_460,1950-05-22,nan,Colon,nan,r0,47.0,adjuvant,False,g2
+463,patient_id_463,2014-08-11, iva,Colon,nan,r0,18.0,metastatic,False,g2
+480,patient_id_480,1990-12-25,ivb,Rectal,nan,r0,24.0,neoadjuvant,False,g3
+489,patient_id_489,1974-05-01,i,Colon,nan,r0,15.0,metastatic,True,g2
+492,patient_id_492,1954-01-20, iia,Colon,nan,r0,nan,adjuvant,False,g2
+498,patient_id_498,1949-06-01,iiic,Colon,nan,r0,nan,adjuvant,True,g3
+499,patient_id_499,1952-12-03, iia,Colon,nan,r0,nan,adjuvant,False,g3
+502,patient_id_502,2004-08-26,iia,Colon,nan,r0,12.0,metastatic,False,g3
+509,patient_id_509,1976-11-30,iiib,Rectal,nan,r0,20.0,metastatic,nan,g3
+512,patient_id_512,1993-11-20, iia,Colon,nan,r0,32.0,neoadjuvant,False,g2
+516,patient_id_516,1946-10-20,nan,Colon,nan,r0,0.0,metastatic,False,g2
+520,patient_id_520,1957-03-01,nan,Colon,nan,r0,12.0,neoadjuvant,False,g2
+523,patient_id_523,1989-05-03, ivb,Colon,nan,r0,16.0,metastatic,False,g2
+524,patient_id_524,1991-08-28,nan,Rectal,nan,r0,16.0,metastatic,True,g1
+530,patient_id_530,2008-11-21, iia,Rectal,nan,r0,nan,adjuvant,nan,g2
+533,patient_id_533,2010-07-16,ivb,Rectal,nan,r0,5.0,neoadjuvant,nan,g3
+539,patient_id_539,2011-04-10, iva,Colon,nan,r0,13.0,metastatic,False,g2
+540,patient_id_540,1996-10-31, iiib,Colon,nan,r0,13.0,metastatic,False,g3
+553,patient_id_553,2008-09-02,nan,Rectal,nan,r0,nan,adjuvant,False,g2
+556,patient_id_556,1948-07-23, iib,Colon,nan,r1,nan,neoadjuvant,False,g3
+583,patient_id_583,1985-01-30,nan,Colon,nan,r0,nan,metastatic,nan,g2
+593,patient_id_593,2008-12-11,iia,Colon,nan,r0,22.0,metastatic,False,g2
+596,patient_id_596,1948-08-15, iiib,Colon,nan,r0,30.0,metastatic,nan,g3
+602,patient_id_602,1968-08-27, iia,Colon,nan,r0,nan,neoadjuvant,False,g3
+605,patient_id_605,1967-05-06,iia,Colon,nan,r1,nan,neoadjuvant,True,g3
+609,patient_id_609,1974-05-30,nan,Colon,nan,r0,nan,metastatic,False,g2
+613,patient_id_613,2002-04-28, iiia,Colon,nan,r0,nan,metastatic,False,g2
+616,patient_id_616,1979-06-30, iiib,Colon,nan,r1,13.0,neoadjuvant,False,g3
+620,patient_id_620,2006-01-14, iiib,Rectal,nan,r0,16.0,adjuvant,True,g2
+629,patient_id_629,2015-09-01,nan,Colon,nan,r0,20.0,metastatic,False,g2
+640,patient_id_640,1946-05-19, iva,Rectal,nan,r0,nan,metastatic,False,g2
+648,patient_id_648,1957-08-26,nan,Colon,nan,r2,23.0,metastatic,False,g2
+649,patient_id_649,1965-01-31, iia,Colon,nan,r0,69.0,metastatic,True,g3
+650,patient_id_650,1962-11-16, ivb,Colon,nan,r0,13.0,neoadjuvant,False,g2
+658,patient_id_658,1968-04-28, iiib,Colon,nan,r0,0.0,neoadjuvant,nan,g3
+659,patient_id_659,1946-06-13,nan,Rectal,nan,r0,18.0,metastatic,False,g2
+660,patient_id_660,1986-07-16, iiib,Rectal,nan,r0,nan,adjuvant,False,g3
+663,patient_id_663,2011-09-02,nan,Rectal,nan,r1,33.0,metastatic,False,g2
+665,patient_id_665,2016-09-28,nan,Colon,nan,r0,17.0,neoadjuvant,False,g2
+675,patient_id_675,2010-06-15, iiia,Colon,nan,r0,17.0,metastatic,False,g2
+677,patient_id_677,1955-10-24,iva,Rectal,nan,r0,nan,adjuvant,nan,g2
+681,patient_id_681,2020-07-06,nan,Colon,nan,r0,nan,metastatic,False,g2
+687,patient_id_687,1957-09-01,nan,Colon,nan,r0,nan,metastatic,False,g1
+694,patient_id_694,1980-03-12,iia,Rectal,nan,r0,15.0,neoadjuvant,True,g3
+699,patient_id_699,1946-06-22,nan,Colon,nan,r0,17.0,neoadjuvant,False,g2
+703,patient_id_703,2002-08-17,ivb,Colon,nan,r0,30.0,neoadjuvant,False,g2
+708,patient_id_708,1990-04-16,nan,Rectal,nan,r0,12.0,neoadjuvant,False,g3
+712,patient_id_712,2019-07-14, iia,Colon,nan,r0,nan,metastatic,False,g2
+724,patient_id_724,1995-08-15,nan,Colon,nan,r0,nan,metastatic,nan,g3
+727,patient_id_727,2013-02-08,i,Colon,nan,r0,nan,neoadjuvant,False,g2
+731,patient_id_731,2002-06-25, iia,Colon,nan,r0,41.0,adjuvant,False,g1
+752,patient_id_752,1989-05-18,iva,Colon,nan,r0,24.0,adjuvant,False,g3
+753,patient_id_753,1962-09-08,iva,Rectal,nan,r1,18.0,adjuvant,True,g2
+762,patient_id_762,2004-03-30,iva,Rectal,nan,r0,17.0,adjuvant,False,g1
+770,patient_id_770,1971-08-04, ivb,Colon,nan,r0,nan,adjuvant,False,g2
+776,patient_id_776,2016-03-27,i,Colon,nan,r0,nan,metastatic,True,g2
+778,patient_id_778,2002-07-29, ivb,Colon,nan,r0,nan,metastatic,True,g3
+781,patient_id_781,1954-08-28,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+783,patient_id_783,1962-02-09,nan,Colon,nan,r0,nan,adjuvant,False,g2
+786,patient_id_786,1947-09-04,nan,Colon,nan,r0,nan,metastatic,False,g3
+791,patient_id_791,2019-08-10,i,Colon,nan,r0,nan,adjuvant,False,g2
+794,patient_id_794,1985-01-01,nan,Rectal,nan,r0,nan,adjuvant,True,g3
+809,patient_id_809,1961-01-27, iiib,Colon,nan,r0,11.0,metastatic,False,g2
+816,patient_id_816,1998-12-05, iiib,Colon,nan,r0,23.0,metastatic,False,g1
+836,patient_id_836,1957-05-29, iiia,Colon,nan,r0,30.0,neoadjuvant,False,g2
+837,patient_id_837,1985-05-27,iiib,Rectal,nan,r0,nan,neoadjuvant,False,g2
+847,patient_id_847,2019-09-28,ivb,Rectal,nan,r0,nan,neoadjuvant,False,g2
+850,patient_id_850,2004-06-11, iia,Rectal,nan,r0,nan,metastatic,False,g3
+851,patient_id_851,1960-04-21,iva,Colon,nan,r0,26.0,neoadjuvant,False,g1
+867,patient_id_867,2003-06-06, i,Colon,nan,r1,0.0,neoadjuvant,nan,g2
+881,patient_id_881,1975-05-05,iva,Colon,nan,r0,nan,metastatic,False,g2
+888,patient_id_888,2000-07-14,nan,Colon,nan,r2,12.0,metastatic,True,g3
+894,patient_id_894,1975-01-29, iiib,Colon,nan,r2,26.0,metastatic,False,g2
+911,patient_id_911,1963-07-07, iiia,Colon,nan,r0,0.0,neoadjuvant,nan,g2
+916,patient_id_916,1964-04-27,nan,Colon,nan,r0,15.0,adjuvant,True,g2
+918,patient_id_918,1979-04-28,nan,Colon,nan,r0,16.0,metastatic,nan,g2
+927,patient_id_927,1958-07-02,nan,Rectal,nan,r0,14.0,metastatic,False,g2
+932,patient_id_932,1977-12-13,nan,Colon,nan,r0,22.0,neoadjuvant,nan,g2
+934,patient_id_934,1984-10-31,iva,Colon,nan,r0,nan,metastatic,False,g3
+939,patient_id_939,1954-03-08,i,Colon,nan,r1,17.0,neoadjuvant,True,g2
+940,patient_id_940,2019-02-07,ivb,Colon,nan,r1,13.0,neoadjuvant,nan,g1
+944,patient_id_944,2014-02-09, iia,Rectal,nan,r0,16.0,adjuvant,True,g2
+951,patient_id_951,1975-11-28,iia,Rectal,nan,r0,28.0,metastatic,True,g3
+953,patient_id_953,1958-05-13, iia,Rectal,nan,r0,nan,metastatic,False,g1
+955,patient_id_955,1996-07-23,iiia,Colon,nan,r0,nan,neoadjuvant,True,g3
+963,patient_id_963,1948-02-29, iiib,Colon,nan,r0,16.0,metastatic,True,g2
+966,patient_id_966,1961-11-06,nan,Rectal,nan,r0,16.0,adjuvant,True,g2
+972,patient_id_972,2016-08-03, iiia,Colon,nan,r0,15.0,metastatic,False,g3
+986,patient_id_986,1969-08-25,nan,Colon,nan,r0,34.0,adjuvant,nan,g2
+987,patient_id_987,1968-12-09, iva,Colon,nan,r0,52.0,neoadjuvant,False,g3
+991,patient_id_991,1998-04-17,ivb,Colon,nan,r0,nan,adjuvant,False,g2
+993,patient_id_993,1967-08-16, ivb,Colon,nan,r0,12.0,metastatic,False,g3
+1006,patient_id_1006,2010-10-17,iva,Rectal,nan,r0,21.0,neoadjuvant,nan,g1
+1007,patient_id_1007,2018-04-06,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+1009,patient_id_1009,1975-11-05,iva,Colon,nan,r0,nan,metastatic,False,g2
+1015,patient_id_1015,1952-07-13,ivb,Colon,nan,r0,0.0,neoadjuvant,False,g2
+1018,patient_id_1018,1981-04-01, iva,Colon,nan,r0,22.0,adjuvant,False,g2
+1030,patient_id_1030,2011-08-07, iva,Colon,nan,r0,22.0,neoadjuvant,False,g2
+1031,patient_id_1031,1946-10-07,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+1033,patient_id_1033,1961-06-13,iva,Colon,nan,r0,12.0,neoadjuvant,nan,g3
+1038,patient_id_1038,1957-06-10,iia,Colon,nan,r0,nan,metastatic,False,g3
+1039,patient_id_1039,2003-09-05, iib,Colon,nan,r0,16.0,metastatic,True,g2
+1045,patient_id_1045,2019-10-01,ivb,Colon,nan,r0,14.0,adjuvant,False,g3
+1055,patient_id_1055,2006-05-23, iia,Rectal,nan,r0,69.0,metastatic,False,g1
+1057,patient_id_1057,1970-08-21,ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+1058,patient_id_1058,1972-12-19,nan,Colon,nan,r0,33.0,adjuvant,False,g3
+1079,patient_id_1079,1949-06-28, iiib,Colon,nan,r0,14.0,metastatic,False,g2
+1080,patient_id_1080,1978-05-09,nan,Colon,nan,r0,10.0,metastatic,False,g2
+1086,patient_id_1086,1960-10-29, iiib,Colon,nan,r0,nan,metastatic,True,g2
+1092,patient_id_1092,1964-10-01,iva,Colon,nan,r1,23.0,metastatic,False,g2
+1095,patient_id_1095,1983-02-15,iia,Rectal,nan,r0,nan,neoadjuvant,False,g1
+1114,patient_id_1114,1993-01-03,nan,Colon,nan,r0,nan,metastatic,False,g2
+1125,patient_id_1125,1996-01-15, i,Colon,nan,r0,nan,neoadjuvant,False,g2
+1127,patient_id_1127,2020-06-17,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+1130,patient_id_1130,2019-07-02,iia,Colon,nan,r1,nan,metastatic,False,g3
+1131,patient_id_1131,1955-02-27,iiic,Colon,nan,r0,nan,neoadjuvant,False,g2
+1136,patient_id_1136,2017-10-02,i,Rectal,nan,r0,6.0,neoadjuvant,nan,g2
+1145,patient_id_1145,1980-06-30,iva,Colon,nan,r0,13.0,metastatic,nan,g2
+1148,patient_id_1148,1963-03-21, iib,Colon,nan,r0,nan,adjuvant,False,g3
+1152,patient_id_1152,1965-02-28,iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+1155,patient_id_1155,1957-11-14, iia,Colon,nan,r0,25.0,metastatic,False,g1
+1158,patient_id_1158,2011-11-19, iiic,Colon,nan,r0,nan,adjuvant,False,g2
+1159,patient_id_1159,1997-06-17, iia,Colon,nan,r0,nan,neoadjuvant,True,g2
+1160,patient_id_1160,1973-08-07,iia,Rectal,nan,r0,29.0,metastatic,True,g2
+1173,patient_id_1173,2014-12-20, iiib,Colon,nan,r0,13.0,adjuvant,False,g1
+1187,patient_id_1187,2003-11-28,i,Rectal,nan,r0,13.0,neoadjuvant,True,g2
+1188,patient_id_1188,1948-01-11,i,Rectal,nan,r0,nan,metastatic,False,g3
+1192,patient_id_1192,1946-02-24, iib,Colon,nan,r0,nan,metastatic,True,g2
+1198,patient_id_1198,1958-10-22,iib,Colon,nan,r0,nan,metastatic,False,g2
+1205,patient_id_1205,2015-12-29,nan,Colon,nan,r0,16.0,adjuvant,False,g3
+1207,patient_id_1207,1948-04-29, iva,Colon,nan,r1,33.0,neoadjuvant,False,g2
+1210,patient_id_1210,2012-09-22, ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+1211,patient_id_1211,1995-07-21,nan,Rectal,nan,r0,nan,adjuvant,False,g2
+1212,patient_id_1212,1978-12-31,nan,Colon,nan,r0,52.0,neoadjuvant,nan,g2
+1215,patient_id_1215,1988-03-18,iia,Rectal,nan,r0,0.0,neoadjuvant,True,g2
+1216,patient_id_1216,1965-10-25,nan,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+1219,patient_id_1219,1981-02-28,iiib,Colon,nan,r0,0.0,neoadjuvant,False,g3
+1222,patient_id_1222,1956-07-01,iiib,Rectal,nan,r0,nan,adjuvant,True,g3
+1224,patient_id_1224,2015-04-07, iiib,Colon,nan,r2,19.0,metastatic,False,g2
+1225,patient_id_1225,1995-11-16,iia,Colon,nan,r0,nan,adjuvant,False,g2
+1227,patient_id_1227,1957-10-06, i,Colon,nan,r2,nan,metastatic,False,g3
+1228,patient_id_1228,2004-12-29,i,Colon,nan,r1,nan,metastatic,nan,g2
+1230,patient_id_1230,1997-10-18, iib,Colon,nan,r0,26.0,neoadjuvant,False,g2
+1238,patient_id_1238,1981-08-25,nan,Colon,nan,r0,26.0,adjuvant,nan,g2
+1254,patient_id_1254,1981-12-11, iia,Colon,nan,r0,nan,adjuvant,True,g2
+1272,patient_id_1272,1948-01-27,nan,Colon,nan,r0,nan,metastatic,False,g2
+1275,patient_id_1275,1985-12-21,iia,Colon,nan,r0,22.0,neoadjuvant,False,g2
+1276,patient_id_1276,1972-12-05,ivb,Rectal,nan,r0,25.0,adjuvant,nan,g1
+1294,patient_id_1294,1947-10-03,iiic,Colon,nan,r0,nan,neoadjuvant,True,g2
+1303,patient_id_1303,1977-12-21,iiib,Colon,nan,r0,nan,metastatic,False,g2
+1304,patient_id_1304,1999-08-31,ivb,Colon,nan,r0,nan,adjuvant,True,g2
+1325,patient_id_1325,2017-12-31, iia,Colon,nan,r0,19.0,neoadjuvant,False,g3
+1327,patient_id_1327,2001-10-12,ivb,Colon,nan,r0,11.0,adjuvant,True,g2
+1332,patient_id_1332,1956-08-06, ivb,Colon,nan,r1,nan,neoadjuvant,False,g3
+1333,patient_id_1333,1997-01-31,iia,Rectal,nan,r0,0.0,neoadjuvant,nan,g3
+1334,patient_id_1334,2017-11-20,nan,Colon,nan,r0,nan,metastatic,False,g2
+1336,patient_id_1336,1978-03-09, ivb,Rectal,nan,r0,16.0,metastatic,False,g2
+1337,patient_id_1337,1955-07-17,iiib,Colon,nan,r0,nan,metastatic,False,g3
+1343,patient_id_1343,1984-01-14, iiib,Colon,nan,r0,nan,metastatic,False,g1
+1344,patient_id_1344,1970-06-28, iiib,Colon,nan,r0,nan,metastatic,False,g2
+1349,patient_id_1349,1959-05-04,iva,Colon,nan,r0,13.0,adjuvant,False,g2
+1358,patient_id_1358,1950-02-08,iia,Colon,nan,r0,16.0,adjuvant,False,g2
+1369,patient_id_1369,1987-12-26,ivb,Colon,nan,r0,17.0,adjuvant,False,g2
+1378,patient_id_1378,1979-03-24,iiic,Rectal,nan,r0,26.0,adjuvant,nan,g2
+1382,patient_id_1382,1977-12-20,iva,Colon,nan,r0,nan,metastatic,False,g2
+1388,patient_id_1388,1973-02-28,iiib,Colon,nan,r0,8.0,neoadjuvant,False,g2
+1389,patient_id_1389,1961-12-25,iiic,Colon,nan,r1,nan,metastatic,nan,g1
+1392,patient_id_1392,2017-07-21, iia,Colon,nan,r0,20.0,metastatic,True,g3
+1396,patient_id_1396,2011-05-01,iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+1402,patient_id_1402,1961-04-15,nan,Rectal,nan,r0,22.0,metastatic,False,g2
+1408,patient_id_1408,1947-07-25,nan,Colon,nan,r0,24.0,adjuvant,True,g3
+1412,patient_id_1412,1968-03-15,nan,Colon,nan,r0,nan,metastatic,False,g3
+1413,patient_id_1413,1968-06-08,nan,Colon,nan,r0,nan,neoadjuvant,nan,g2
+1416,patient_id_1416,1998-06-06, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+1418,patient_id_1418,1976-10-10,nan,Colon,nan,r0,21.0,metastatic,False,g3
+1421,patient_id_1421,2005-09-26,nan,Colon,nan,r0,15.0,adjuvant,False,g3
+1431,patient_id_1431,2016-08-26, iiib,Rectal,nan,r0,nan,neoadjuvant,nan,g1
+1450,patient_id_1450,1974-04-15, iva,Rectal,nan,r0,18.0,metastatic,True,g2
+1451,patient_id_1451,1949-10-06, iva,Colon,nan,r1,0.0,metastatic,nan,g3
+1454,patient_id_1454,1948-08-01, iva,Colon,nan,r0,12.0,metastatic,True,g3
+1455,patient_id_1455,1964-03-06,iia,Rectal,nan,r0,14.0,metastatic,False,g3
+1456,patient_id_1456,1972-02-08, iva,Colon,nan,r0,25.0,adjuvant,False,g3
+1464,patient_id_1464,1953-10-13, iiib,Colon,nan,r0,15.0,metastatic,False,g3
+1465,patient_id_1465,2004-03-20,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+1466,patient_id_1466,1997-03-16,iva,Colon,nan,r0,nan,neoadjuvant,True,g2
+1468,patient_id_1468,1969-02-24,i,Colon,nan,r0,nan,metastatic,nan,g3
+1473,patient_id_1473,2018-11-19,ivb,Colon,nan,r0,14.0,neoadjuvant,False,g1
+1475,patient_id_1475,1953-04-16,iva,Colon,nan,r0,nan,neoadjuvant,nan,g3
+1479,patient_id_1479,1972-01-27, iib,Rectal,nan,r0,nan,metastatic,False,g2
+1482,patient_id_1482,1986-10-28,nan,Colon,nan,r0,16.0,adjuvant,False,g2
+1483,patient_id_1483,1949-06-04,iva,Colon,nan,r0,19.0,adjuvant,True,g3
+1484,patient_id_1484,1972-07-03,iiib,Colon,nan,r0,13.0,adjuvant,True,g2
+1485,patient_id_1485,1973-11-18,nan,Colon,nan,r0,nan,adjuvant,nan,g2
+1487,patient_id_1487,1973-03-10,iva,Colon,nan,r0,41.0,metastatic,False,g2
+1488,patient_id_1488,1992-10-14,ivb,Colon,nan,r0,nan,metastatic,False,g2
+1494,patient_id_1494,1949-01-07, iiib,Colon,nan,r0,nan,metastatic,False,g2
+1496,patient_id_1496,2019-01-23,nan,Colon,nan,r0,47.0,metastatic,False,g2
+1510,patient_id_1510,1995-09-03,nan,Colon,nan,r1,0.0,metastatic,False,g2
+1521,patient_id_1521,2020-04-04,nan,Colon,nan,r0,nan,metastatic,nan,g2
+1523,patient_id_1523,1990-07-16, iiib,Colon,nan,r0,nan,neoadjuvant,False,g1
+1536,patient_id_1536,1983-01-19, iib,Colon,nan,r0,nan,adjuvant,False,g2
+1542,patient_id_1542,1950-12-22,iiib,Colon,nan,r0,29.0,metastatic,False,g2
+1557,patient_id_1557,2008-05-29, iiic,Colon,nan,r0,19.0,metastatic,False,g2
+1563,patient_id_1563,1989-07-30, iva,Rectal,nan,r0,nan,adjuvant,False,g2
+1570,patient_id_1570,1957-03-02, iiib,Rectal,nan,r0,nan,metastatic,False,g2
+1572,patient_id_1572,1983-03-18, iiia,Colon,nan,r0,11.0,neoadjuvant,True,g2
+1573,patient_id_1573,1989-06-09,nan,Rectal,nan,r1,nan,adjuvant,False,g3
+1574,patient_id_1574,2019-08-25,ivb,Colon,nan,r0,nan,neoadjuvant,False,g3
+1582,patient_id_1582,1961-01-24, i,Rectal,nan,r0,11.0,metastatic,nan,g2
+1584,patient_id_1584,1983-05-01, ivb,Colon,nan,r0,nan,metastatic,False,g2
+1585,patient_id_1585,2002-03-13, iva,Colon,nan,r0,14.0,metastatic,nan,g2
+1599,patient_id_1599,1981-08-10,nan,Colon,nan,r0,nan,adjuvant,False,g2
+1604,patient_id_1604,1957-03-16,iiic,Colon,nan,r0,nan,metastatic,False,g3
+1606,patient_id_1606,1998-08-26, iiib,Colon,nan,r0,13.0,adjuvant,True,g2
+1614,patient_id_1614,1951-04-23,iiic,Colon,nan,r0,nan,neoadjuvant,nan,g2
+1615,patient_id_1615,1968-10-18, iia,Colon,nan,r0,nan,neoadjuvant,nan,g2
+1617,patient_id_1617,1991-06-23,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+1627,patient_id_1627,1971-11-09,i,Colon,nan,r0,nan,metastatic,False,g3
+1632,patient_id_1632,1968-08-09, ivb,Colon,nan,r0,nan,metastatic,False,g1
+1640,patient_id_1640,1961-08-30,iva,Colon,nan,r0,nan,metastatic,False,g2
+1651,patient_id_1651,2014-01-01,iiib,Rectal,nan,r1,nan,metastatic,False,g3
+1656,patient_id_1656,2015-04-28, iia,Colon,nan,r0,12.0,metastatic,True,g2
+1657,patient_id_1657,2010-11-07, i,Colon,nan,r0,nan,adjuvant,False,g1
+1662,patient_id_1662,1997-11-08, iib,Colon,nan,r0,20.0,metastatic,False,g2
+1673,patient_id_1673,1953-03-02, iva,Colon,nan,r0,33.0,metastatic,nan,g2
+1678,patient_id_1678,1949-07-01, ivb,Colon,nan,r0,0.0,metastatic,nan,g2
+1679,patient_id_1679,2020-09-25,iiia,Rectal,nan,r0,nan,metastatic,False,g2
+1681,patient_id_1681,1966-03-05,i,Colon,nan,r2,16.0,adjuvant,False,g3
+1684,patient_id_1684,1990-11-26, iva,Colon,nan,r0,27.0,metastatic,nan,g2
+1689,patient_id_1689,1986-01-04,iiia,Colon,nan,r0,18.0,adjuvant,False,g2
+1694,patient_id_1694,1971-04-26,i,Colon,nan,r0,16.0,metastatic,False,g1
+1697,patient_id_1697,1985-08-13,iia,Colon,nan,r0,nan,adjuvant,False,g2
+1704,patient_id_1704,1961-07-23, iib,Colon,nan,r0,nan,metastatic,False,g3
+1708,patient_id_1708,2004-12-23, iib,Colon,nan,r0,nan,metastatic,False,g2
+1709,patient_id_1709,2003-02-22, iiic,Colon,nan,r0,nan,adjuvant,False,g1
+1712,patient_id_1712,1953-10-10, iiib,Colon,nan,r0,21.0,adjuvant,False,g2
+1713,patient_id_1713,1983-12-09, iia,Rectal,nan,r0,nan,metastatic,nan,g2
+1720,patient_id_1720,1949-12-19,nan,Colon,nan,r0,25.0,neoadjuvant,False,g3
+1725,patient_id_1725,1981-09-07,iva,Rectal,nan,r0,nan,neoadjuvant,False,g2
+1726,patient_id_1726,2007-02-21, iva,Rectal,nan,r0,9.0,metastatic,False,g2
+1734,patient_id_1734,2008-06-09,nan,Colon,nan,r2,nan,adjuvant,nan,g2
+1742,patient_id_1742,1999-01-04, iiic,Colon,nan,r0,22.0,metastatic,nan,g3
+1749,patient_id_1749,1972-05-28,nan,Colon,nan,r0,nan,adjuvant,True,g2
+1751,patient_id_1751,1975-10-01, iia,Colon,nan,r0,14.0,neoadjuvant,False,g2
+1758,patient_id_1758,1984-05-27,iva,Colon,nan,r0,0.0,metastatic,False,g2
+1769,patient_id_1769,1968-05-13, iiib,Colon,nan,r0,56.0,neoadjuvant,False,g3
+1772,patient_id_1772,2017-04-27, iva,Colon,nan,r0,18.0,neoadjuvant,True,g2
+1774,patient_id_1774,1999-12-11, iva,Rectal,nan,r0,nan,metastatic,True,g3
+1781,patient_id_1781,1954-05-12,iiic,Colon,nan,r0,nan,metastatic,False,g2
+1785,patient_id_1785,1998-10-17, i,Colon,nan,r0,nan,metastatic,True,g1
+1789,patient_id_1789,1955-06-20,nan,Colon,nan,r0,nan,metastatic,False,g2
+1797,patient_id_1797,2004-03-24, iia,Colon,nan,r0,32.0,neoadjuvant,False,g1
+1813,patient_id_1813,1950-05-09, iva,Colon,nan,r0,nan,metastatic,False,g2
+1817,patient_id_1817,1966-12-17,iva,Colon,nan,r0,18.0,adjuvant,nan,g2
+1826,patient_id_1826,1990-12-25,nan,Colon,nan,r0,nan,metastatic,nan,g2
+1834,patient_id_1834,1985-07-29,iiib,Colon,nan,r0,nan,metastatic,False,g2
+1838,patient_id_1838,1959-05-25,iia,Colon,nan,r0,nan,metastatic,False,g3
+1865,patient_id_1865,1998-02-28,iva,Colon,nan,r0,13.0,metastatic,True,g3
+1869,patient_id_1869,1949-01-31,iia,Colon,nan,r0,nan,metastatic,nan,g3
+1874,patient_id_1874,1989-01-02,iva,Colon,nan,r0,25.0,metastatic,False,g3
+1879,patient_id_1879,2007-06-02, iiib,Colon,nan,r0,20.0,adjuvant,False,g3
+1882,patient_id_1882,1994-03-23,nan,Colon,nan,r0,nan,metastatic,nan,g3
+1889,patient_id_1889,1948-02-11,iva,Colon,nan,r0,nan,neoadjuvant,False,g3
+1891,patient_id_1891,1977-02-21,iva,Colon,nan,r0,nan,adjuvant,False,g1
+1895,patient_id_1895,1958-02-06, ivb,Colon,nan,r0,nan,metastatic,True,g3
+1898,patient_id_1898,1953-09-13,nan,Colon,nan,r0,23.0,metastatic,nan,g3
+1901,patient_id_1901,1948-03-03,ivb,Colon,nan,r0,24.0,metastatic,False,g2
+1928,patient_id_1928,1975-07-28,iva,Colon,nan,r0,26.0,metastatic,False,g2
+1935,patient_id_1935,1959-12-24,iiic,Colon,nan,r2,0.0,metastatic,nan,g1
+1939,patient_id_1939,2001-06-16,i,Colon,nan,r0,nan,metastatic,nan,g1
+1949,patient_id_1949,1988-06-22,nan,Colon,nan,r0,19.0,adjuvant,False,g3
+1953,patient_id_1953,1952-02-20, ivb,Colon,nan,r0,nan,metastatic,False,g2
+1956,patient_id_1956,2019-08-28,ivb,Colon,nan,r0,nan,neoadjuvant,nan,g3
+1962,patient_id_1962,1980-12-17, iiib,Colon,nan,r0,32.0,adjuvant,True,g2
+1967,patient_id_1967,1956-01-18,nan,Colon,nan,r0,nan,metastatic,True,g2
+1969,patient_id_1969,1951-08-04,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+1971,patient_id_1971,1948-01-11,iic,Colon,nan,r0,20.0,metastatic,True,g2
+1980,patient_id_1980,1958-07-30,iva,Colon,nan,r0,18.0,neoadjuvant,nan,g1
+1987,patient_id_1987,1946-04-28,iva,Colon,nan,r0,nan,adjuvant,False,g2
+1991,patient_id_1991,1999-09-13,nan,Colon,nan,r0,nan,metastatic,False,g3
+2004,patient_id_2004,1954-02-14,nan,Colon,nan,r0,14.0,metastatic,False,g2
+2005,patient_id_2005,1979-12-15, ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+2006,patient_id_2006,1952-02-09,nan,Colon,nan,r0,24.0,metastatic,False,g3
+2010,patient_id_2010,1949-08-20, ivb,Colon,nan,r0,nan,neoadjuvant,False,g3
+2011,patient_id_2011,1996-12-17, iia,Colon,nan,r0,12.0,neoadjuvant,nan,g2
+2013,patient_id_2013,1997-12-06, iva,Colon,nan,r0,41.0,metastatic,nan,g2
+2020,patient_id_2020,1954-05-05,iiib,Colon,nan,r0,nan,neoadjuvant,nan,g1
+2026,patient_id_2026,1974-10-04, ivb,Rectal,nan,r0,nan,neoadjuvant,False,g2
+2027,patient_id_2027,1990-02-09,nan,Rectal,nan,r0,nan,adjuvant,False,g2
+2028,patient_id_2028,2011-11-23,nan,Colon,nan,r2,7.0,neoadjuvant,False,g3
+2029,patient_id_2029,1986-07-16,ivb,Rectal,nan,r0,nan,metastatic,False,g2
+2034,patient_id_2034,1956-11-28,nan,Rectal,nan,r0,nan,metastatic,False,g1
+2036,patient_id_2036,1971-02-13,iiic,Colon,nan,r0,nan,adjuvant,False,g2
+2049,patient_id_2049,1974-12-03,iia,Colon,nan,r0,nan,metastatic,False,g2
+2051,patient_id_2051,1985-06-08,iva,Colon,nan,r0,nan,adjuvant,False,g3
+2068,patient_id_2068,2019-04-13,iia,Colon,nan,r0,nan,adjuvant,nan,g2
+2074,patient_id_2074,2001-02-13,iva,Colon,nan,r2,nan,metastatic,nan,g2
+2075,patient_id_2075,1953-01-30,iva,Colon,nan,r0,nan,metastatic,True,g2
+2083,patient_id_2083,1950-07-02,iva,Colon,nan,r1,nan,metastatic,False,g2
+2085,patient_id_2085,2007-03-31,iva,Colon,nan,r0,nan,metastatic,False,g2
+2093,patient_id_2093,2011-12-20,iiib,Colon,nan,r0,nan,adjuvant,False,g3
+2094,patient_id_2094,1990-03-26,nan,Rectal,nan,r0,24.0,adjuvant,False,g2
+2108,patient_id_2108,1953-01-27,ivb,Colon,nan,r0,32.0,metastatic,False,g3
+2112,patient_id_2112,1946-03-18,nan,Colon,nan,r0,26.0,neoadjuvant,nan,g2
+2114,patient_id_2114,1987-05-23,iiib,Colon,nan,r1,25.0,metastatic,False,g2
+2123,patient_id_2123,1975-11-04, i,Rectal,nan,r0,nan,neoadjuvant,False,g2
+2135,patient_id_2135,1974-11-30, iiic,Rectal,nan,r0,23.0,metastatic,False,g2
+2140,patient_id_2140,1965-05-14, iiia,Colon,nan,r0,15.0,metastatic,False,g2
+2143,patient_id_2143,1963-09-18,i,Rectal,nan,r1,nan,metastatic,False,g3
+2145,patient_id_2145,1997-04-08,nan,Colon,nan,r0,23.0,neoadjuvant,False,g2
+2147,patient_id_2147,2015-02-12, iiib,Rectal,nan,r0,nan,metastatic,False,g2
+2148,patient_id_2148,1956-06-22, iia,Colon,nan,r0,nan,adjuvant,nan,g2
+2151,patient_id_2151,2004-07-16,iiib,Colon,nan,r1,nan,adjuvant,False,g2
+2158,patient_id_2158,1975-03-09,iia,Colon,nan,r1,23.0,metastatic,nan,g3
+2160,patient_id_2160,1985-05-01,nan,Colon,nan,r0,30.0,neoadjuvant,True,g3
+2162,patient_id_2162,2014-08-22,ivb,Colon,nan,r0,nan,adjuvant,False,g2
+2165,patient_id_2165,2007-09-20,iva,Colon,nan,r0,13.0,metastatic,True,g2
+2167,patient_id_2167,2004-01-14,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+2178,patient_id_2178,2001-08-02,iia,Rectal,nan,r1,nan,metastatic,nan,g2
+2179,patient_id_2179,1981-02-12, iva,Colon,nan,r0,nan,adjuvant,False,g2
+2182,patient_id_2182,2008-10-26, ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+2192,patient_id_2192,2010-01-09,iiib,Rectal,nan,r0,15.0,metastatic,False,g2
+2196,patient_id_2196,2014-01-29, iiib,Colon,nan,r0,32.0,adjuvant,False,g1
+2206,patient_id_2206,1946-07-05, iva,Colon,nan,r0,12.0,metastatic,False,g2
+2208,patient_id_2208,1964-08-03,nan,Rectal,nan,r0,nan,adjuvant,False,g2
+2213,patient_id_2213,1987-10-19,iva,Colon,nan,r0,18.0,adjuvant,False,g2
+2214,patient_id_2214,1948-03-04,iia,Colon,nan,r0,30.0,metastatic,False,g2
+2216,patient_id_2216,1988-08-29, iia,Colon,nan,r0,13.0,adjuvant,False,g3
+2220,patient_id_2220,1950-03-31, i,Rectal,nan,r1,nan,neoadjuvant,False,g2
+2227,patient_id_2227,1947-09-14, iva,Colon,nan,r0,17.0,adjuvant,False,g2
+2240,patient_id_2240,1973-03-22, iva,Colon,nan,r0,24.0,neoadjuvant,nan,g3
+2243,patient_id_2243,2016-04-06,nan,Colon,nan,r0,nan,metastatic,True,g2
+2244,patient_id_2244,2015-07-28,i,Colon,nan,r1,0.0,adjuvant,nan,g2
+2247,patient_id_2247,1978-01-28, i,Colon,nan,r0,nan,adjuvant,False,g2
+2249,patient_id_2249,1948-08-24,iva,Colon,nan,r0,nan,adjuvant,nan,g2
+2253,patient_id_2253,1988-06-21,iiia,Colon,nan,r0,30.0,metastatic,False,g2
+2263,patient_id_2263,1968-08-10, iiib,Colon,nan,r0,nan,metastatic,False,g2
+2264,patient_id_2264,1984-11-09,iiic,Colon,nan,r0,nan,adjuvant,False,g2
+2267,patient_id_2267,1946-08-20,iva,Rectal,nan,r0,nan,neoadjuvant,False,g3
+2272,patient_id_2272,1999-09-12, iia,Colon,nan,r0,20.0,adjuvant,nan,g2
+2274,patient_id_2274,2007-07-07,iiib,Colon,nan,r0,12.0,metastatic,False,g2
+2284,patient_id_2284,2009-11-12,i,Colon,nan,r0,nan,neoadjuvant,False,g2
+2298,patient_id_2298,2003-12-30,nan,Colon,nan,r0,19.0,adjuvant,False,g2
+2303,patient_id_2303,1948-02-21,nan,Colon,nan,r0,3.0,neoadjuvant,False,g3
+2305,patient_id_2305,2013-11-21, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+2306,patient_id_2306,2018-09-19, iva,Colon,nan,r0,10.0,neoadjuvant,nan,g2
+2313,patient_id_2313,1972-05-05, iiia,Colon,nan,r0,nan,neoadjuvant,False,g2
+2320,patient_id_2320,1963-12-06,iiic,Colon,nan,r0,nan,neoadjuvant,True,g1
+2322,patient_id_2322,2016-08-14,i,Colon,nan,r0,12.0,metastatic,nan,g2
+2336,patient_id_2336,1969-03-08,iiib,Colon,nan,r0,nan,metastatic,True,g2
+2345,patient_id_2345,1957-06-11,nan,Colon,nan,r0,12.0,metastatic,True,g2
+2351,patient_id_2351,1949-11-07, iva,Colon,nan,r0,33.0,adjuvant,False,g3
+2362,patient_id_2362,1958-09-26,ivb,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+2364,patient_id_2364,2006-11-08,iia,Rectal,nan,r0,nan,neoadjuvant,False,g3
+2374,patient_id_2374,1987-10-22,iiic,Colon,nan,r0,22.0,neoadjuvant,False,g2
+2382,patient_id_2382,1971-05-16, iva,Colon,nan,r0,8.0,neoadjuvant,True,g2
+2384,patient_id_2384,1976-07-16, iia,Colon,nan,r0,15.0,neoadjuvant,False,g2
+2394,patient_id_2394,1970-06-10,iva,Colon,nan,r0,13.0,adjuvant,False,g3
+2396,patient_id_2396,1997-06-08,iva,Colon,nan,r0,12.0,metastatic,False,g2
+2402,patient_id_2402,2011-09-23,i,Colon,nan,r0,23.0,metastatic,False,g2
+2403,patient_id_2403,2004-02-23, ivb,Colon,nan,r0,24.0,neoadjuvant,False,g2
+2417,patient_id_2417,1980-08-10,nan,Colon,nan,r0,25.0,neoadjuvant,True,g2
+2437,patient_id_2437,1990-10-12,ivb,Colon,nan,r0,9.0,adjuvant,False,g2
+2447,patient_id_2447,2010-11-21,ivb,Rectal,nan,r0,nan,metastatic,False,g1
+2450,patient_id_2450,2002-05-31,iiib,Colon,nan,r0,18.0,adjuvant,False,g2
+2452,patient_id_2452,1956-02-11,nan,Rectal,nan,r0,nan,adjuvant,False,g3
+2453,patient_id_2453,2006-04-23, iva,Colon,nan,r0,33.0,metastatic,True,g3
+2454,patient_id_2454,1959-04-04,nan,Colon,nan,r0,10.0,metastatic,False,g2
+2465,patient_id_2465,1989-04-04,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+2467,patient_id_2467,2016-02-22, iiia,Colon,nan,r1,15.0,metastatic,False,g2
+2472,patient_id_2472,2004-05-04,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+2480,patient_id_2480,1980-02-14, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+2484,patient_id_2484,1960-12-27,nan,Colon,nan,r0,nan,adjuvant,False,g2
+2485,patient_id_2485,2017-10-09, iva,Colon,nan,r1,18.0,metastatic,True,g2
+2487,patient_id_2487,1977-06-15,iiib,Colon,nan,r0,6.0,metastatic,False,g2
+2495,patient_id_2495,1997-03-02,nan,Colon,nan,r0,nan,metastatic,False,g2
+2499,patient_id_2499,1983-01-20,nan,Colon,nan,r0,nan,neoadjuvant,True,g2
+2502,patient_id_2502,1959-11-22,nan,Rectal,nan,r0,14.0,adjuvant,False,g3
+2511,patient_id_2511,1975-01-31,nan,Rectal,nan,r0,nan,neoadjuvant,True,g2
+2514,patient_id_2514,1956-06-10, iva,Colon,nan,r0,18.0,metastatic,False,g3
+2521,patient_id_2521,1963-07-31, iiia,Colon,nan,r0,nan,adjuvant,False,g3
+2524,patient_id_2524,2015-05-11,iiic,Colon,nan,r0,nan,neoadjuvant,False,g2
+2527,patient_id_2527,1970-10-24,iva,Rectal,nan,r1,26.0,metastatic,False,g2
+2531,patient_id_2531,2009-08-05,iia,Colon,nan,r0,nan,metastatic,False,g2
+2533,patient_id_2533,1948-01-03, iiib,Colon,nan,r0,18.0,metastatic,True,g3
+2547,patient_id_2547,1993-03-02,iiib,Colon,nan,r0,nan,neoadjuvant,False,g3
+2560,patient_id_2560,1955-01-21,iiib,Colon,nan,r0,18.0,metastatic,False,g3
+2563,patient_id_2563,1947-02-12,nan,Rectal,nan,r0,nan,adjuvant,True,g3
+2580,patient_id_2580,2020-06-18,nan,Colon,nan,r1,nan,metastatic,False,g1
+2581,patient_id_2581,1994-06-11,nan,Colon,nan,r0,16.0,neoadjuvant,nan,g2
+2584,patient_id_2584,1958-10-23,nan,Rectal,nan,r0,nan,metastatic,False,g3
+2587,patient_id_2587,1963-10-23, ivb,Rectal,nan,r0,21.0,metastatic,True,g2
+2593,patient_id_2593,1979-08-16,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+2602,patient_id_2602,1970-03-15,i,Rectal,nan,r0,15.0,metastatic,False,g3
+2608,patient_id_2608,1947-05-04,iva,Colon,nan,r0,17.0,metastatic,False,g3
+2613,patient_id_2613,2002-01-27,iiia,Colon,nan,r0,17.0,adjuvant,False,g3
+2621,patient_id_2621,1962-10-19, iia,Colon,nan,r0,nan,metastatic,False,g2
+2632,patient_id_2632,1973-05-22,iiib,Colon,nan,r0,9.0,metastatic,True,g2
+2636,patient_id_2636,1955-09-26, iva,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+2646,patient_id_2646,1988-01-21,iia,Colon,nan,r0,nan,adjuvant,False,g1
+2660,patient_id_2660,2005-09-24,iva,Colon,nan,r0,7.0,neoadjuvant,False,g3
+2661,patient_id_2661,1995-04-04, iia,Colon,nan,r0,30.0,adjuvant,False,g2
+2668,patient_id_2668,2006-11-15, ivb,Colon,nan,r2,nan,neoadjuvant,False,g2
+2675,patient_id_2675,1997-01-04,i,Colon,nan,r0,nan,metastatic,False,g3
+2693,patient_id_2693,1978-10-01, iib,Colon,nan,r0,nan,metastatic,nan,g2
+2702,patient_id_2702,1992-12-06,iiia,Colon,nan,r0,nan,adjuvant,False,g3
+2704,patient_id_2704,1946-03-29,ivb,Colon,nan,r0,nan,metastatic,True,g2
+2708,patient_id_2708,2018-01-07,iia,Colon,nan,r0,21.0,neoadjuvant,False,g2
+2709,patient_id_2709,1991-12-15,i,Colon,nan,r0,17.0,neoadjuvant,False,g2
+2712,patient_id_2712,1998-12-07, iva,Colon,nan,r0,16.0,adjuvant,False,g2
+2716,patient_id_2716,1993-05-21,iia,Colon,nan,r1,0.0,adjuvant,False,g3
+2722,patient_id_2722,1972-02-15,iiia,Rectal,nan,r0,nan,metastatic,False,g2
+2724,patient_id_2724,1959-07-01, iia,Colon,nan,r0,28.0,metastatic,False,g3
+2728,patient_id_2728,1972-08-14,nan,Colon,nan,r0,18.0,adjuvant,False,g3
+2738,patient_id_2738,2002-09-22,iia,Colon,nan,r0,13.0,adjuvant,False,g1
+2747,patient_id_2747,1969-09-28, iiia,Colon,nan,r0,nan,metastatic,False,g2
+2749,patient_id_2749,1976-01-04,iiia,Colon,nan,r0,0.0,adjuvant,False,g1
+2750,patient_id_2750,1987-05-12,iva,Colon,nan,r0,33.0,adjuvant,True,g3
+2751,patient_id_2751,2002-03-15,ivb,Colon,nan,r2,0.0,neoadjuvant,False,g3
+2765,patient_id_2765,1990-04-02,iiib,Colon,nan,r0,11.0,neoadjuvant,nan,g2
+2768,patient_id_2768,1958-04-17, ivb,Colon,nan,r0,18.0,metastatic,True,g3
+2770,patient_id_2770,2014-02-03, iia,Colon,nan,r0,17.0,neoadjuvant,nan,g2
+2771,patient_id_2771,1996-08-04, iiib,Colon,nan,r0,nan,adjuvant,False,g3
+2773,patient_id_2773,1948-01-11, iiib,Colon,nan,r0,nan,metastatic,False,g2
+2780,patient_id_2780,1985-06-09,nan,Colon,nan,r0,26.0,neoadjuvant,True,g2
+2782,patient_id_2782,1974-02-21,i,Colon,nan,r0,22.0,metastatic,False,g2
+2785,patient_id_2785,1975-03-16, ivb,Colon,nan,r0,nan,adjuvant,True,g2
+2788,patient_id_2788,2015-01-19,iia,Rectal,nan,r0,13.0,adjuvant,False,g2
+2792,patient_id_2792,2003-02-13,ivb,Rectal,nan,r0,17.0,adjuvant,False,g3
+2797,patient_id_2797,2015-07-17,nan,Colon,nan,r1,0.0,adjuvant,False,g2
+2801,patient_id_2801,1954-02-10, iiib,Colon,nan,r0,25.0,adjuvant,False,g2
+2805,patient_id_2805,2000-04-13,iiib,Colon,nan,r0,nan,metastatic,nan,g2
+2806,patient_id_2806,1958-03-23,iiib,Rectal,nan,r1,nan,adjuvant,False,g2
+2810,patient_id_2810,1974-12-05, ivb,Colon,nan,r0,nan,metastatic,True,g2
+2811,patient_id_2811,1969-09-07,iia,Colon,nan,r1,nan,metastatic,False,g2
+2813,patient_id_2813,1989-04-24, iva,Colon,nan,r0,18.0,adjuvant,nan,g2
+2821,patient_id_2821,1993-07-27,i,Colon,nan,r0,32.0,metastatic,True,g2
+2823,patient_id_2823,2019-03-07, ivb,Rectal,nan,r0,18.0,adjuvant,nan,g2
+2832,patient_id_2832,1950-03-08, iva,Colon,nan,r0,nan,metastatic,False,g2
+2836,patient_id_2836,1971-08-01,i,Colon,nan,r0,24.0,adjuvant,False,g3
+2841,patient_id_2841,1953-07-13,iia,Rectal,nan,r0,23.0,adjuvant,False,g2
+2864,patient_id_2864,2001-03-13, iva,Colon,nan,r0,13.0,neoadjuvant,False,g3
+2865,patient_id_2865,1979-05-10,nan,Colon,nan,r0,nan,adjuvant,nan,g3
+2870,patient_id_2870,1971-01-16,iia,Colon,nan,r0,14.0,adjuvant,nan,g3
+2887,patient_id_2887,2019-04-14, iva,Rectal,nan,r0,16.0,adjuvant,False,g3
+2890,patient_id_2890,1980-10-17, ivb,Colon,nan,r0,nan,adjuvant,False,g2
+2897,patient_id_2897,1984-03-21,iva,Colon,nan,r0,nan,neoadjuvant,nan,g2
+2898,patient_id_2898,1982-09-07,iiia,Colon,nan,r0,16.0,metastatic,False,g2
+2911,patient_id_2911,1985-07-11,iva,Colon,nan,r0,14.0,adjuvant,False,g3
+2917,patient_id_2917,1953-02-24,nan,Rectal,nan,r0,nan,metastatic,False,g2
+2918,patient_id_2918,1953-12-08,iva,Rectal,nan,r0,12.0,metastatic,False,g3
+2925,patient_id_2925,1966-06-30,iiia,Colon,nan,r0,12.0,metastatic,True,g2
+2931,patient_id_2931,1990-10-18,iia,Colon,nan,r0,11.0,neoadjuvant,nan,g2
+2935,patient_id_2935,1971-03-27,nan,Colon,nan,r1,nan,adjuvant,False,g2
+2945,patient_id_2945,1970-11-07, ivb,Rectal,nan,r2,30.0,adjuvant,False,g2
+2946,patient_id_2946,1961-11-10,iiib,Colon,nan,r0,0.0,metastatic,nan,g2
+2953,patient_id_2953,1967-11-20,iia,Colon,nan,r1,nan,neoadjuvant,nan,g2
+2962,patient_id_2962,1968-03-03, iiic,Colon,nan,r0,nan,adjuvant,False,g2
+2966,patient_id_2966,2020-05-12,nan,Rectal,nan,r0,nan,adjuvant,False,g2
+2973,patient_id_2973,2007-09-08, iiib,Colon,nan,r0,11.0,neoadjuvant,nan,g2
+2980,patient_id_2980,1994-04-21, i,Colon,nan,r1,28.0,metastatic,nan,g3
+2999,patient_id_2999,1972-01-08,iic,Colon,nan,r0,13.0,adjuvant,False,g3
+3006,patient_id_3006,2013-08-15, iiic,Rectal,nan,r0,nan,metastatic,False,g2
+3018,patient_id_3018,2016-11-15, iiib,Colon,nan,r1,15.0,neoadjuvant,False,g2
+3019,patient_id_3019,1995-01-02,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+3025,patient_id_3025,1956-07-19, iiib,Rectal,nan,r0,nan,adjuvant,False,g2
+3048,patient_id_3048,1995-01-24, ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+3051,patient_id_3051,1986-01-07,iva,Colon,nan,r0,18.0,neoadjuvant,False,g2
+3058,patient_id_3058,2006-04-29,iiia,Colon,nan,r1,nan,neoadjuvant,False,g3
+3062,patient_id_3062,1963-07-27,nan,Colon,nan,r0,22.0,adjuvant,True,g2
+3077,patient_id_3077,1994-01-08,nan,Colon,nan,r0,nan,metastatic,False,g2
+3095,patient_id_3095,1953-04-11,nan,Colon,nan,r0,21.0,neoadjuvant,False,g2
+3096,patient_id_3096,1953-06-07, iva,Colon,nan,r0,26.0,neoadjuvant,nan,g2
+3097,patient_id_3097,1984-02-28,ivb,Rectal,nan,r0,12.0,neoadjuvant,True,g3
+3098,patient_id_3098,2016-04-16,iva,Colon,nan,r0,nan,adjuvant,nan,g1
+3105,patient_id_3105,1972-02-04, iiib,Colon,nan,r0,32.0,neoadjuvant,False,g3
+3108,patient_id_3108,1951-01-14,iiib,Colon,nan,r1,nan,neoadjuvant,False,g2
+3109,patient_id_3109,1949-04-07,iva,Colon,nan,r0,18.0,metastatic,False,g3
+3111,patient_id_3111,1997-08-05,nan,Colon,nan,r0,26.0,metastatic,nan,g2
+3118,patient_id_3118,1950-11-13,nan,Rectal,nan,r0,13.0,neoadjuvant,False,g1
+3131,patient_id_3131,1952-09-19, iva,Rectal,nan,r0,nan,adjuvant,nan,g1
+3143,patient_id_3143,1985-08-06,i,Colon,nan,r0,nan,metastatic,False,g2
+3144,patient_id_3144,1989-10-17,iva,Colon,nan,r0,14.0,neoadjuvant,False,g3
+3172,patient_id_3172,1985-03-21,ivb,Colon,nan,r0,nan,adjuvant,False,g2
+3174,patient_id_3174,2013-05-05, iia,Colon,nan,r0,27.0,metastatic,False,g2
+3178,patient_id_3178,1978-04-13,iiib,Rectal,nan,r0,17.0,metastatic,False,g2
+3179,patient_id_3179,1962-04-26,iiia,Colon,nan,r0,nan,neoadjuvant,False,g3
+3181,patient_id_3181,1994-05-15, i,Colon,nan,r1,nan,neoadjuvant,False,g2
+3188,patient_id_3188,2014-04-09,iia,Colon,nan,r0,19.0,neoadjuvant,False,g1
+3198,patient_id_3198,1957-05-19, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+3200,patient_id_3200,1969-05-21,nan,Colon,nan,r0,nan,metastatic,False,g3
+3201,patient_id_3201,2020-03-27, iva,Colon,nan,r1,34.0,metastatic,False,g3
+3205,patient_id_3205,2001-05-07,ivb,Colon,nan,r0,20.0,metastatic,False,g3
+3211,patient_id_3211,1952-12-16,iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+3219,patient_id_3219,1963-05-26, iiia,Colon,nan,r0,26.0,adjuvant,False,g2
+3220,patient_id_3220,1956-07-12,nan,Colon,nan,r1,nan,neoadjuvant,False,g3
+3223,patient_id_3223,1972-12-24,nan,Colon,nan,r0,0.0,metastatic,False,g1
+3226,patient_id_3226,1952-12-07,nan,Colon,nan,r0,21.0,adjuvant,False,g2
+3237,patient_id_3237,1990-10-22, ivb,Colon,nan,r0,12.0,adjuvant,False,g3
+3238,patient_id_3238,1986-11-13,iia,Colon,nan,r0,14.0,metastatic,False,g2
+3245,patient_id_3245,2008-03-20,ivb,Colon,nan,r0,23.0,neoadjuvant,nan,g3
+3247,patient_id_3247,1954-10-18, iva,Rectal,nan,r0,nan,metastatic,False,g2
+3250,patient_id_3250,1956-11-12,iia,Colon,nan,r0,16.0,metastatic,True,g2
+3251,patient_id_3251,1954-12-24,nan,Colon,nan,r0,nan,neoadjuvant,True,g3
+3254,patient_id_3254,1995-09-22,iiic,Colon,nan,r0,33.0,metastatic,False,g2
+3258,patient_id_3258,2006-04-11,iiib,Colon,nan,r0,33.0,adjuvant,False,g3
+3272,patient_id_3272,1981-02-15,nan,Rectal,nan,r0,nan,adjuvant,False,g3
+3281,patient_id_3281,1971-08-30, ivb,Colon,nan,r0,26.0,metastatic,False,g3
+3282,patient_id_3282,2020-06-18,iiib,Colon,nan,r0,nan,metastatic,False,g2
+3287,patient_id_3287,1997-05-27,nan,Colon,nan,r0,18.0,adjuvant,False,g3
+3298,patient_id_3298,1977-12-18,nan,Colon,nan,r0,nan,neoadjuvant,True,g2
+3299,patient_id_3299,2012-07-02, iiib,Colon,nan,r0,20.0,neoadjuvant,False,g1
+3314,patient_id_3314,1994-04-07, i,Colon,nan,r0,nan,adjuvant,nan,g2
+3318,patient_id_3318,1964-01-25,nan,Colon,nan,r1,32.0,metastatic,False,g3
+3326,patient_id_3326,2019-05-06,iiib,Colon,nan,r0,nan,neoadjuvant,nan,g2
+3327,patient_id_3327,2004-04-12,i,Colon,nan,r0,nan,neoadjuvant,False,g2
+3329,patient_id_3329,1977-12-16, iiib,Colon,nan,r0,23.0,adjuvant,nan,g2
+3345,patient_id_3345,2003-11-23, iva,Rectal,nan,r0,nan,adjuvant,True,g2
+3346,patient_id_3346,1971-08-30,nan,Colon,nan,r0,21.0,neoadjuvant,nan,g1
+3352,patient_id_3352,1980-05-30, iva,Colon,nan,r0,18.0,adjuvant,nan,g2
+3353,patient_id_3353,1962-11-24,iiic,Colon,nan,r1,nan,metastatic,True,g2
+3355,patient_id_3355,1952-04-03,iva,Colon,nan,r0,17.0,neoadjuvant,False,g2
+3370,patient_id_3370,1948-11-23,ivb,Rectal,nan,r0,nan,metastatic,nan,g1
+3371,patient_id_3371,1991-07-23,iva,Colon,nan,r0,13.0,neoadjuvant,False,g2
+3381,patient_id_3381,2003-04-15, i,Colon,nan,r1,13.0,metastatic,False,g2
+3383,patient_id_3383,1991-12-17,iiic,Colon,nan,r0,nan,neoadjuvant,True,g3
+3384,patient_id_3384,1982-03-05,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+3392,patient_id_3392,2001-03-15, ivb,Colon,nan,r0,15.0,metastatic,False,g2
+3398,patient_id_3398,2019-04-19,iva,Colon,nan,r0,9.0,metastatic,nan,g3
+3404,patient_id_3404,1960-09-30,ivb,Colon,nan,r0,nan,metastatic,False,g2
+3409,patient_id_3409,1951-05-26,nan,Colon,nan,r0,19.0,adjuvant,False,g2
+3414,patient_id_3414,2013-11-26, iiia,Colon,nan,r0,nan,metastatic,True,g2
+3416,patient_id_3416,1948-08-31,nan,Colon,nan,r0,32.0,adjuvant,False,g2
+3420,patient_id_3420,1987-02-06,i,Colon,nan,r0,41.0,adjuvant,True,g2
+3421,patient_id_3421,1986-02-12,iia,Colon,nan,r0,15.0,adjuvant,True,g2
+3425,patient_id_3425,1978-06-07,nan,Colon,nan,r0,nan,adjuvant,False,g2
+3433,patient_id_3433,1954-06-06,nan,Colon,nan,r0,nan,metastatic,False,g3
+3439,patient_id_3439,1964-08-19,iib,Rectal,nan,r0,nan,metastatic,False,g1
+3444,patient_id_3444,1958-07-18, iia,Colon,nan,r0,13.0,adjuvant,False,g3
+3447,patient_id_3447,2002-01-09, iia,Rectal,nan,r0,nan,metastatic,nan,g2
+3451,patient_id_3451,1959-05-15, iiib,Rectal,nan,r2,nan,metastatic,False,g2
+3456,patient_id_3456,2015-12-27,ivb,Colon,nan,r0,22.0,adjuvant,False,g2
+3467,patient_id_3467,2020-12-25,nan,Colon,nan,r0,nan,metastatic,False,g2
+3468,patient_id_3468,2001-11-02, iia,Rectal,nan,r0,12.0,metastatic,nan,g2
+3477,patient_id_3477,1975-12-03,iiib,Colon,nan,r0,19.0,neoadjuvant,True,g2
+3483,patient_id_3483,1990-09-07,nan,Colon,nan,r1,23.0,metastatic,False,g2
+3490,patient_id_3490,1998-08-17, iiic,Colon,nan,r0,12.0,metastatic,False,g2
+3491,patient_id_3491,1968-07-05,i,Rectal,nan,r0,29.0,neoadjuvant,False,g2
+3492,patient_id_3492,1967-07-13,iiic,Colon,nan,r0,nan,neoadjuvant,True,g3
+3495,patient_id_3495,1985-11-09,iiic,Colon,nan,r0,nan,metastatic,False,g2
+3504,patient_id_3504,2010-07-30,iia,Colon,nan,r0,19.0,neoadjuvant,False,g2
+3506,patient_id_3506,2014-11-27,i,Rectal,nan,r1,nan,adjuvant,False,g2
+3508,patient_id_3508,1985-12-22,iia,Colon,nan,r2,19.0,neoadjuvant,False,g2
+3509,patient_id_3509,1978-01-11, iia,Colon,nan,r0,nan,metastatic,False,g3
+3513,patient_id_3513,1971-10-16, iiib,Rectal,nan,r0,nan,metastatic,nan,g2
+3514,patient_id_3514,1995-12-28, iva,Colon,nan,r0,17.0,adjuvant,False,g2
+3526,patient_id_3526,2008-05-31, i,Colon,nan,r0,nan,neoadjuvant,True,g2
+3530,patient_id_3530,1966-09-18, iiib,Colon,nan,r1,23.0,metastatic,nan,g2
+3535,patient_id_3535,2005-10-07,iia,Rectal,nan,r0,nan,adjuvant,False,g2
+3537,patient_id_3537,1998-08-27, iib,Colon,nan,r0,nan,metastatic,False,g2
+3547,patient_id_3547,1974-09-06,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+3550,patient_id_3550,2010-01-08, iiib,Rectal,nan,r0,13.0,adjuvant,nan,g2
+3558,patient_id_3558,1969-06-08,ivb,Colon,nan,r0,19.0,metastatic,False,g2
+3575,patient_id_3575,1991-08-18, iva,Rectal,nan,r0,15.0,metastatic,True,g2
+3584,patient_id_3584,1984-11-07,nan,Colon,nan,r0,nan,metastatic,False,g2
+3586,patient_id_3586,2014-10-31,nan,Colon,nan,r0,25.0,metastatic,False,g3
+3590,patient_id_3590,1969-11-22,iva,Colon,nan,r2,18.0,metastatic,False,g2
+3600,patient_id_3600,1950-02-07,iiib,Rectal,nan,r0,17.0,adjuvant,nan,g2
+3603,patient_id_3603,2011-09-27, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+3609,patient_id_3609,1990-06-11, i,Rectal,nan,r0,nan,metastatic,False,g2
+3612,patient_id_3612,2019-02-19, iiia,Colon,nan,r0,11.0,adjuvant,nan,g2
+3614,patient_id_3614,1999-12-23,ivb,Colon,nan,r1,nan,metastatic,True,g3
+3618,patient_id_3618,1970-06-02,nan,Colon,nan,r0,nan,metastatic,False,g2
+3622,patient_id_3622,2011-04-18, iiic,Colon,nan,r0,12.0,metastatic,False,g3
+3626,patient_id_3626,1984-11-08,ivb,Colon,nan,r0,nan,adjuvant,False,g3
+3631,patient_id_3631,1987-06-19,nan,Colon,nan,r0,nan,neoadjuvant,nan,g2
+3633,patient_id_3633,1968-04-29,nan,Colon,nan,r0,0.0,metastatic,False,g3
+3641,patient_id_3641,2010-02-10, iva,Rectal,nan,r0,16.0,neoadjuvant,nan,g2
+3643,patient_id_3643,1967-04-30, iia,Colon,nan,r0,13.0,metastatic,False,g2
+3650,patient_id_3650,1974-11-28, iia,Colon,nan,r0,nan,neoadjuvant,nan,g2
+3654,patient_id_3654,1968-01-12, iia,Rectal,nan,r0,17.0,metastatic,nan,g1
+3659,patient_id_3659,1999-07-19,ivb,Colon,nan,r0,nan,adjuvant,False,g3
+3665,patient_id_3665,2013-10-13, iva,Colon,nan,r0,nan,metastatic,False,g2
+3667,patient_id_3667,1972-02-27,iia,Colon,nan,r0,33.0,adjuvant,False,g2
+3670,patient_id_3670,2001-09-22, iia,Colon,nan,r0,12.0,metastatic,nan,g2
+3672,patient_id_3672,2000-04-11,iva,Colon,nan,r0,41.0,adjuvant,False,g3
+3678,patient_id_3678,2010-02-21, iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+3684,patient_id_3684,1992-01-14,nan,Colon,nan,r0,26.0,neoadjuvant,False,g2
+3692,patient_id_3692,2018-05-25, iiib,Colon,nan,r0,30.0,adjuvant,False,g2
+3707,patient_id_3707,2008-09-30,ivb,Colon,nan,r0,12.0,metastatic,nan,g2
+3715,patient_id_3715,1977-04-28, iva,Colon,nan,r0,14.0,metastatic,False,g2
+3725,patient_id_3725,1970-05-07, iib,Colon,nan,r0,20.0,adjuvant,False,g2
+3728,patient_id_3728,1975-03-30,iva,Colon,nan,r0,nan,metastatic,False,g2
+3729,patient_id_3729,2005-03-15,iva,Colon,nan,r0,24.0,metastatic,False,g2
+3731,patient_id_3731,2013-12-27, ivb,Colon,nan,r0,17.0,metastatic,False,g2
+3735,patient_id_3735,1999-02-27, iiib,Rectal,nan,r0,nan,metastatic,False,g2
+3736,patient_id_3736,1961-10-12, iiia,Colon,nan,r1,nan,metastatic,False,g2
+3743,patient_id_3743,1947-06-10,nan,Colon,nan,r0,16.0,metastatic,False,g1
+3744,patient_id_3744,2015-08-01,iva,Colon,nan,r0,nan,adjuvant,nan,g3
+3745,patient_id_3745,2002-10-06, iia,Colon,nan,r0,28.0,metastatic,False,g2
+3753,patient_id_3753,1979-01-29, iib,Colon,nan,r0,0.0,adjuvant,False,g2
+3754,patient_id_3754,1987-03-06, iia,Colon,nan,r0,nan,metastatic,False,g2
+3761,patient_id_3761,1964-10-13,iiia,Rectal,nan,r0,11.0,adjuvant,False,g2
+3777,patient_id_3777,2007-01-21,nan,Rectal,nan,r0,nan,metastatic,False,g2
+3782,patient_id_3782,2018-01-04,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+3795,patient_id_3795,1947-11-21,nan,Colon,nan,r0,14.0,metastatic,nan,g2
+3804,patient_id_3804,1958-09-30, iva,Colon,nan,r0,12.0,neoadjuvant,False,g2
+3807,patient_id_3807,1959-09-17,nan,Rectal,nan,r0,nan,adjuvant,True,g2
+3808,patient_id_3808,1962-04-10, iiic,Rectal,nan,r0,nan,metastatic,False,g2
+3809,patient_id_3809,2011-04-17,ivb,Colon,nan,r0,nan,metastatic,False,g1
+3812,patient_id_3812,2002-12-30,iia,Rectal,nan,r0,nan,adjuvant,False,g3
+3820,patient_id_3820,1953-05-16,nan,Colon,nan,r0,18.0,metastatic,False,g2
+3829,patient_id_3829,1996-04-16, ivb,Rectal,nan,r0,16.0,neoadjuvant,False,g2
+3830,patient_id_3830,2005-08-27,iia,Rectal,nan,r0,9.0,neoadjuvant,False,g3
+3831,patient_id_3831,2002-04-24, ivb,Rectal,nan,r0,28.0,neoadjuvant,False,g2
+3839,patient_id_3839,2014-02-03,nan,Colon,nan,r0,0.0,adjuvant,False,g2
+3843,patient_id_3843,2002-12-23,ivb,Colon,nan,r0,20.0,neoadjuvant,False,g2
+3844,patient_id_3844,1986-03-04,ivb,Colon,nan,r0,30.0,neoadjuvant,False,g3
+3846,patient_id_3846,2010-02-27,nan,Colon,nan,r0,18.0,neoadjuvant,True,g2
+3847,patient_id_3847,2010-05-22,nan,Colon,nan,r0,18.0,neoadjuvant,False,g2
+3854,patient_id_3854,2015-06-08, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+3856,patient_id_3856,1983-07-05,i,Colon,nan,r0,18.0,neoadjuvant,False,g3
+3862,patient_id_3862,2008-11-26, iib,Colon,nan,r0,14.0,adjuvant,False,g2
+3875,patient_id_3875,1966-04-03, iva,Colon,nan,r1,17.0,metastatic,False,g3
+3883,patient_id_3883,1975-02-28,nan,Rectal,nan,r0,0.0,metastatic,False,g1
+3884,patient_id_3884,1993-06-07,iia,Colon,nan,r0,24.0,metastatic,nan,g2
+3885,patient_id_3885,1993-09-27,nan,Rectal,nan,r2,nan,metastatic,False,g2
+3895,patient_id_3895,1989-10-17,iia,Colon,nan,r0,nan,metastatic,nan,g2
+3896,patient_id_3896,1998-08-28,ivb,Colon,nan,r0,nan,metastatic,nan,g2
+3897,patient_id_3897,1946-08-05, iiia,Colon,nan,r0,16.0,adjuvant,False,g3
+3909,patient_id_3909,1950-06-16, iiib,Colon,nan,r0,nan,metastatic,True,g2
+3914,patient_id_3914,1956-06-02, iia,Colon,nan,r0,nan,metastatic,False,g2
+3917,patient_id_3917,1975-06-25, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+3930,patient_id_3930,2015-04-14,iva,Colon,nan,r0,20.0,neoadjuvant,False,g2
+3931,patient_id_3931,1974-02-02,iva,Colon,nan,r0,nan,adjuvant,False,g2
+3945,patient_id_3945,1979-04-03, iia,Colon,nan,r0,27.0,neoadjuvant,False,g2
+3947,patient_id_3947,1956-03-28,nan,Rectal,nan,r0,19.0,neoadjuvant,False,g2
+3949,patient_id_3949,1986-11-17,nan,Colon,nan,r0,14.0,adjuvant,False,g1
+3956,patient_id_3956,2002-04-27,nan,Colon,nan,r0,29.0,adjuvant,False,g2
+3966,patient_id_3966,2002-05-10, iiib,Rectal,nan,r0,nan,metastatic,True,g2
+3967,patient_id_3967,1954-06-16,ivb,Colon,nan,r0,26.0,neoadjuvant,True,g2
+3974,patient_id_3974,2002-01-20, ivb,Colon,nan,r0,29.0,metastatic,True,g1
+3975,patient_id_3975,1961-09-06,nan,Colon,nan,r0,nan,metastatic,False,g2
+3981,patient_id_3981,1978-05-03, iva,Colon,nan,r0,nan,adjuvant,False,g2
+3989,patient_id_3989,2008-04-11,iva,Colon,nan,r1,nan,neoadjuvant,False,g1
+4002,patient_id_4002,1967-07-27,iiib,Colon,nan,r0,0.0,metastatic,False,g3
+4004,patient_id_4004,1991-03-12,iiib,Colon,nan,r0,nan,neoadjuvant,False,g1
+4010,patient_id_4010,2016-01-25, iva,Colon,nan,r0,nan,adjuvant,nan,g2
+4014,patient_id_4014,1991-04-22,iiib,Colon,nan,r0,18.0,adjuvant,True,g2
+4015,patient_id_4015,2002-03-31,iiic,Colon,nan,r0,3.0,adjuvant,False,g2
+4022,patient_id_4022,2000-10-13, iva,Colon,nan,r0,9.0,adjuvant,False,g2
+4027,patient_id_4027,2006-02-02,iva,Colon,nan,r0,0.0,neoadjuvant,False,g2
+4028,patient_id_4028,1973-10-12, iiib,Colon,nan,r0,nan,adjuvant,True,g2
+4033,patient_id_4033,1966-03-17, i,Colon,nan,r0,nan,adjuvant,False,g3
+4034,patient_id_4034,2017-02-08, iib,Rectal,nan,r0,nan,neoadjuvant,False,g2
+4038,patient_id_4038,1962-05-26,ivb,Colon,nan,r0,20.0,adjuvant,nan,g2
+4042,patient_id_4042,1994-02-08,nan,Rectal,nan,r0,nan,adjuvant,False,g2
+4062,patient_id_4062,1947-06-03,iva,Colon,nan,r0,nan,metastatic,False,g2
+4066,patient_id_4066,1956-12-29, iiic,Colon,nan,r0,21.0,metastatic,False,g2
+4068,patient_id_4068,1963-10-02,iia,Colon,nan,r0,12.0,neoadjuvant,nan,g1
+4069,patient_id_4069,2012-08-13,nan,Colon,nan,r0,23.0,neoadjuvant,nan,g2
+4072,patient_id_4072,1949-10-12, ivb,Colon,nan,r0,13.0,metastatic,False,g3
+4091,patient_id_4091,1982-04-07,nan,Colon,nan,r0,14.0,adjuvant,nan,g2
+4093,patient_id_4093,1957-11-27,nan,Colon,nan,r0,nan,metastatic,False,g2
+4099,patient_id_4099,1946-12-25, iva,Rectal,nan,r0,14.0,adjuvant,True,g2
+4108,patient_id_4108,2004-08-25,nan,Colon,nan,r0,26.0,neoadjuvant,False,g2
+4114,patient_id_4114,1992-06-07,ivb,Rectal,nan,r0,nan,neoadjuvant,False,g2
+4118,patient_id_4118,1952-05-15,nan,Colon,nan,r0,nan,neoadjuvant,False,g3
+4124,patient_id_4124,1979-02-28,nan,Colon,nan,r0,nan,metastatic,False,g1
+4127,patient_id_4127,1949-08-11,nan,Colon,nan,r0,12.0,neoadjuvant,nan,g2
+4131,patient_id_4131,1967-05-23, iia,Colon,nan,r0,nan,metastatic,False,g2
+4132,patient_id_4132,2017-04-17,nan,Colon,nan,r0,12.0,metastatic,False,g1
+4134,patient_id_4134,1963-09-22, iia,Colon,nan,r0,15.0,adjuvant,False,g2
+4141,patient_id_4141,1994-08-30,iiic,Colon,nan,r0,22.0,adjuvant,False,g2
+4167,patient_id_4167,1967-04-25,nan,Colon,nan,r0,18.0,adjuvant,False,g2
+4168,patient_id_4168,1960-07-27,iiic,Colon,nan,r0,14.0,adjuvant,False,g2
+4177,patient_id_4177,2011-12-17,iiib,Colon,nan,r1,16.0,metastatic,False,g3
+4190,patient_id_4190,1992-10-30,nan,Colon,nan,r1,nan,neoadjuvant,False,g2
+4192,patient_id_4192,2019-04-14,iiic,Colon,nan,r0,14.0,adjuvant,nan,g3
+4200,patient_id_4200,1951-09-21,nan,Colon,nan,r0,16.0,neoadjuvant,False,g2
+4208,patient_id_4208,1947-08-14,iiib,Colon,nan,r0,13.0,neoadjuvant,nan,g2
+4215,patient_id_4215,2003-02-20, iib,Colon,nan,r0,21.0,adjuvant,nan,g3
+4218,patient_id_4218,2019-02-07,iia,Colon,nan,r0,nan,metastatic,False,g3
+4222,patient_id_4222,1968-10-05, iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+4226,patient_id_4226,1980-12-15, i,Colon,nan,r0,nan,adjuvant,False,g2
+4230,patient_id_4230,1962-04-22,nan,Colon,nan,r0,nan,neoadjuvant,False,g3
+4231,patient_id_4231,1993-10-16,iva,Colon,nan,r0,12.0,neoadjuvant,True,g3
+4234,patient_id_4234,1990-10-07,nan,Rectal,nan,r0,nan,neoadjuvant,False,g2
+4253,patient_id_4253,1992-11-19,ivb,Colon,nan,r0,23.0,adjuvant,nan,g2
+4255,patient_id_4255,1960-07-31,nan,Rectal,nan,r0,nan,metastatic,False,g2
+4259,patient_id_4259,1983-11-27,nan,Colon,nan,r0,nan,metastatic,False,g2
+4266,patient_id_4266,1967-10-17,nan,Colon,nan,r0,nan,adjuvant,False,g2
+4267,patient_id_4267,2016-03-26, iia,Colon,nan,r0,7.0,metastatic,False,g2
+4270,patient_id_4270,1990-05-03, iib,Rectal,nan,r0,0.0,metastatic,False,g2
+4272,patient_id_4272,1993-02-18, iia,Rectal,nan,r0,30.0,metastatic,False,g2
+4273,patient_id_4273,2012-05-04,nan,Rectal,nan,r0,nan,metastatic,False,g2
+4282,patient_id_4282,1972-06-28,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+4298,patient_id_4298,1955-12-02, i,Colon,nan,r0,nan,metastatic,True,g2
+4301,patient_id_4301,1984-06-24,nan,Rectal,nan,r0,52.0,neoadjuvant,False,g2
+4303,patient_id_4303,2018-07-12, iiib,Colon,nan,r0,nan,metastatic,False,g2
+4311,patient_id_4311,1984-11-03,iva,Rectal,nan,r0,16.0,adjuvant,False,g2
+4316,patient_id_4316,1953-09-17,ivb,Colon,nan,r0,14.0,metastatic,False,g3
+4317,patient_id_4317,1960-05-22, i,Colon,nan,r0,26.0,neoadjuvant,nan,g2
+4332,patient_id_4332,1988-08-20,ivb,Colon,nan,r0,nan,metastatic,False,g2
+4336,patient_id_4336,1981-06-05,nan,Colon,nan,r0,0.0,metastatic,True,g3
+4339,patient_id_4339,1991-06-07, iiib,Colon,nan,r0,21.0,metastatic,False,g2
+4352,patient_id_4352,2009-06-13, iib,Colon,nan,r0,28.0,neoadjuvant,False,g2
+4355,patient_id_4355,1990-09-17,iiic,Colon,nan,r1,nan,adjuvant,True,g1
+4364,patient_id_4364,2004-01-16, iva,Colon,nan,r0,12.0,adjuvant,nan,g2
+4368,patient_id_4368,2013-01-26, iia,Colon,nan,r1,nan,adjuvant,True,g2
+4376,patient_id_4376,2014-05-22,iiia,Colon,nan,r0,nan,metastatic,False,g2
+4385,patient_id_4385,1985-09-17,nan,Colon,nan,r1,6.0,neoadjuvant,False,g2
+4389,patient_id_4389,1961-12-08,iva,Rectal,nan,r0,13.0,metastatic,False,g2
+4391,patient_id_4391,2007-02-28, iva,Rectal,nan,r0,nan,adjuvant,nan,g2
+4395,patient_id_4395,1980-11-20,iva,Colon,nan,r0,6.0,adjuvant,True,g3
+4398,patient_id_4398,1948-12-16,nan,Rectal,nan,r0,nan,adjuvant,False,g2
+4399,patient_id_4399,1992-02-19,nan,Colon,nan,r0,20.0,neoadjuvant,False,g3
+4411,patient_id_4411,1966-01-20, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+4412,patient_id_4412,1979-06-02, iia,Rectal,nan,r0,33.0,adjuvant,False,g2
+4418,patient_id_4418,1977-02-18,iia,Rectal,nan,r0,nan,neoadjuvant,False,g3
+4422,patient_id_4422,1950-01-04,nan,Rectal,nan,r0,nan,metastatic,False,g2
+4447,patient_id_4447,1963-02-13,ivb,Rectal,nan,r0,nan,adjuvant,False,g1
+4457,patient_id_4457,1955-04-30,nan,Colon,nan,r1,nan,adjuvant,False,g3
+4458,patient_id_4458,1971-08-13, iiib,Colon,nan,r0,nan,adjuvant,nan,g2
+4459,patient_id_4459,1989-09-10,iva,Colon,nan,r0,12.0,adjuvant,False,g2
+4464,patient_id_4464,1959-08-29,iia,Colon,nan,r0,nan,metastatic,False,g3
+4469,patient_id_4469,1956-05-09,ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+4475,patient_id_4475,1973-06-21, iib,Rectal,nan,r0,15.0,neoadjuvant,False,g3
+4477,patient_id_4477,1993-08-10,iiib,Colon,nan,r0,24.0,metastatic,True,g3
+4479,patient_id_4479,1988-11-11,iva,Colon,nan,r0,10.0,adjuvant,False,g3
+4493,patient_id_4493,1954-08-27,nan,Colon,nan,r0,nan,metastatic,False,g3
+4496,patient_id_4496,1980-03-25, ivb,Colon,nan,r0,nan,adjuvant,False,g3
+4505,patient_id_4505,1990-09-30, iva,Colon,nan,r0,3.0,metastatic,False,g3
+4507,patient_id_4507,1949-08-03, iiib,Colon,nan,r0,nan,metastatic,nan,g2
+4508,patient_id_4508,1986-02-06,iiic,Colon,nan,r0,nan,neoadjuvant,nan,g1
+4510,patient_id_4510,2001-01-25,nan,Colon,nan,r0,nan,metastatic,False,g2
+4517,patient_id_4517,2016-12-16,ivb,Colon,nan,r1,nan,metastatic,nan,g2
+4520,patient_id_4520,2013-05-01,nan,Colon,nan,r0,19.0,adjuvant,nan,g1
+4523,patient_id_4523,2002-08-09, iiib,Colon,nan,r0,22.0,metastatic,False,g2
+4526,patient_id_4526,2007-06-05, iiia,Colon,nan,r0,nan,neoadjuvant,False,g3
+4533,patient_id_4533,2002-01-30, iib,Colon,nan,r0,nan,metastatic,False,g2
+4541,patient_id_4541,1999-01-28, ivb,Colon,nan,r0,41.0,adjuvant,False,g2
+4545,patient_id_4545,1953-05-10,iiib,Colon,nan,r0,56.0,adjuvant,nan,g2
+4566,patient_id_4566,1980-04-09,ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+4568,patient_id_4568,1984-10-01, iva,Rectal,nan,r0,nan,adjuvant,False,g3
+4576,patient_id_4576,1990-07-23,nan,Colon,nan,r0,52.0,metastatic,nan,g2
+4579,patient_id_4579,2005-07-20, iiib,Rectal,nan,r0,0.0,metastatic,False,g2
+4587,patient_id_4587,1947-08-09,iia,Rectal,nan,r0,nan,metastatic,False,g2
+4589,patient_id_4589,1999-07-25, iva,Colon,nan,r0,16.0,adjuvant,False,g2
+4590,patient_id_4590,1957-11-12,nan,Colon,nan,r0,nan,metastatic,False,g2
+4593,patient_id_4593,1983-09-30, iva,Colon,nan,r0,21.0,adjuvant,nan,g2
+4595,patient_id_4595,2017-07-15,i,Colon,nan,r0,nan,metastatic,False,g2
+4601,patient_id_4601,1981-08-02, ivb,Colon,nan,r0,11.0,neoadjuvant,False,g2
+4604,patient_id_4604,1965-10-01, iia,Rectal,nan,r0,nan,neoadjuvant,False,g2
+4610,patient_id_4610,1954-10-24,iia,Colon,nan,r0,20.0,adjuvant,True,g2
+4617,patient_id_4617,2001-11-15,nan,Rectal,nan,r0,10.0,neoadjuvant,False,g2
+4636,patient_id_4636,1948-11-06,nan,Rectal,nan,r0,nan,adjuvant,False,g3
+4639,patient_id_4639,1986-05-31, iva,Colon,nan,r0,16.0,neoadjuvant,False,g3
+4642,patient_id_4642,1948-09-09,iiia,Rectal,nan,r0,24.0,metastatic,nan,g3
+4648,patient_id_4648,1979-08-06,nan,Colon,nan,r0,nan,metastatic,False,g3
+4650,patient_id_4650,1964-10-05, iiia,Colon,nan,r0,nan,metastatic,False,g2
+4651,patient_id_4651,1962-10-13,iiia,Colon,nan,r0,nan,metastatic,False,g3
+4653,patient_id_4653,2004-11-06,ivb,Colon,nan,r0,0.0,metastatic,True,g3
+4657,patient_id_4657,1976-10-26, iva,Colon,nan,r0,nan,adjuvant,False,g2
+4658,patient_id_4658,1995-02-10,i,Colon,nan,r0,nan,adjuvant,False,g2
+4659,patient_id_4659,2008-05-14, ivb,Colon,nan,r0,nan,neoadjuvant,False,g3
+4662,patient_id_4662,2000-11-14,iva,Colon,nan,r0,nan,metastatic,True,g2
+4663,patient_id_4663,1950-05-14,iiib,Colon,nan,r0,12.0,metastatic,False,g2
+4670,patient_id_4670,1972-02-06,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+4671,patient_id_4671,1978-05-05,iiib,Colon,nan,r0,14.0,metastatic,False,g2
+4674,patient_id_4674,1962-12-18,iia,Colon,nan,r0,nan,adjuvant,False,g2
+4681,patient_id_4681,1990-01-29,ivb,Rectal,nan,r0,nan,neoadjuvant,False,g3
+4682,patient_id_4682,1987-03-26, iiib,Rectal,nan,r0,nan,adjuvant,False,g3
+4683,patient_id_4683,1974-05-05, iiia,Colon,nan,r0,15.0,adjuvant,False,g3
+4686,patient_id_4686,1977-07-19,iiia,Colon,nan,r0,20.0,adjuvant,False,g2
+4687,patient_id_4687,2013-01-03, iiib,Colon,nan,r1,nan,adjuvant,False,g2
+4689,patient_id_4689,1966-12-09, iva,Colon,nan,r0,15.0,neoadjuvant,True,g3
+4691,patient_id_4691,1979-02-14, iva,Colon,nan,r0,16.0,adjuvant,True,g3
+4692,patient_id_4692,2005-01-06,nan,Rectal,nan,r0,18.0,metastatic,False,g2
+4694,patient_id_4694,2011-05-12,iiib,Colon,nan,r2,13.0,adjuvant,False,g2
+4695,patient_id_4695,2016-03-07, ivb,Rectal,nan,r0,26.0,metastatic,True,g2
+4696,patient_id_4696,2017-07-19,ivb,Colon,nan,r0,nan,adjuvant,False,g2
+4697,patient_id_4697,1950-09-03, iib,Colon,nan,r0,nan,metastatic,False,g1
+4702,patient_id_4702,1997-01-15,i,Colon,nan,r0,20.0,adjuvant,False,g3
+4703,patient_id_4703,1978-02-02,nan,Colon,nan,r0,21.0,metastatic,nan,g2
+4712,patient_id_4712,2001-04-22,iic,Colon,nan,r0,nan,neoadjuvant,False,g2
+4714,patient_id_4714,2020-05-26, iiic,Colon,nan,r0,10.0,metastatic,True,g2
+4716,patient_id_4716,1996-04-25, iiib,Rectal,nan,r0,nan,neoadjuvant,False,g2
+4721,patient_id_4721,2019-02-08,nan,Colon,nan,r0,nan,neoadjuvant,nan,g2
+4722,patient_id_4722,1969-02-08,iva,Rectal,nan,r0,25.0,metastatic,nan,g1
+4726,patient_id_4726,1957-03-12, ivb,Colon,nan,r0,18.0,neoadjuvant,False,g3
+4727,patient_id_4727,1962-06-25,nan,Colon,nan,r0,nan,metastatic,False,g2
+4740,patient_id_4740,2012-02-01,nan,Colon,nan,r1,nan,neoadjuvant,False,g2
+4745,patient_id_4745,1990-10-02,iiib,Rectal,nan,r0,13.0,metastatic,True,g2
+4750,patient_id_4750,2012-08-29,nan,Colon,nan,r0,nan,metastatic,nan,g1
+4756,patient_id_4756,2002-06-11, ivb,Rectal,nan,r0,nan,adjuvant,False,g2
+4759,patient_id_4759,1963-01-17,iva,Colon,nan,r0,16.0,neoadjuvant,False,g1
+4763,patient_id_4763,1976-04-16,iva,Colon,nan,r0,nan,neoadjuvant,nan,g3
+4764,patient_id_4764,1964-01-26,nan,Colon,nan,r0,21.0,metastatic,False,g2
+4776,patient_id_4776,1957-11-29,iiic,Colon,nan,r0,nan,metastatic,True,g2
+4780,patient_id_4780,1972-06-19,nan,Colon,nan,r0,12.0,adjuvant,False,g2
+4782,patient_id_4782,1963-10-07,nan,Colon,nan,r1,nan,neoadjuvant,True,g3
+4785,patient_id_4785,2018-04-26,iiib,Colon,nan,r0,0.0,metastatic,False,g2
+4790,patient_id_4790,1981-01-26, ivb,Colon,nan,r1,16.0,metastatic,False,g1
+4797,patient_id_4797,1995-10-22,iva,Rectal,nan,r0,nan,neoadjuvant,False,g2
+4799,patient_id_4799,1974-08-07, ivb,Colon,nan,r0,nan,metastatic,False,g3
+4813,patient_id_4813,1965-09-28,ivb,Rectal,nan,r0,12.0,adjuvant,False,g2
+4816,patient_id_4816,1956-05-31,nan,Colon,nan,r0,22.0,adjuvant,True,g3
+4827,patient_id_4827,1986-09-30, iib,Colon,nan,r0,16.0,neoadjuvant,True,g3
+4828,patient_id_4828,1981-03-31,iia,Colon,nan,r0,nan,adjuvant,False,g1
+4829,patient_id_4829,1958-05-05, iia,Colon,nan,r0,nan,metastatic,False,g2
+4838,patient_id_4838,1962-08-03,iia,Colon,nan,r2,nan,adjuvant,True,g2
+4840,patient_id_4840,2020-08-08,iiib,Colon,nan,r1,19.0,metastatic,False,g3
+4841,patient_id_4841,1970-08-29,ivb,Colon,nan,r0,nan,adjuvant,False,g2
+4845,patient_id_4845,1963-12-07,ivb,Colon,nan,r0,28.0,metastatic,False,g3
+4847,patient_id_4847,2014-01-19,i,Rectal,nan,r0,nan,adjuvant,False,g2
+4848,patient_id_4848,2000-07-08,nan,Colon,nan,r0,27.0,neoadjuvant,False,g2
+4854,patient_id_4854,2006-09-28, iiia,Rectal,nan,r0,16.0,adjuvant,False,g3
+4856,patient_id_4856,1968-03-16,nan,Rectal,nan,r0,nan,metastatic,False,g2
+4858,patient_id_4858,2009-03-25, ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+4860,patient_id_4860,1989-03-16,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+4869,patient_id_4869,2014-03-12,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+4881,patient_id_4881,1996-11-07, i,Colon,nan,r0,22.0,neoadjuvant,False,g2
+4894,patient_id_4894,1953-06-10, iia,Colon,nan,r0,nan,metastatic,nan,g2
+4906,patient_id_4906,1973-03-28,iva,Rectal,nan,r0,13.0,metastatic,nan,g1
+4911,patient_id_4911,1954-06-08, iva,Colon,nan,r0,nan,metastatic,False,g2
+4920,patient_id_4920,1980-04-02,iia,Rectal,nan,r0,nan,adjuvant,True,g2
+4930,patient_id_4930,2006-06-29,ivb,Colon,nan,r0,0.0,metastatic,False,g2
+4959,patient_id_4959,1970-08-25,nan,Colon,nan,r0,nan,neoadjuvant,True,g2
+4964,patient_id_4964,1999-07-27,nan,Colon,nan,r0,nan,metastatic,nan,g1
+4967,patient_id_4967,1967-12-11, iiib,Colon,nan,r0,nan,metastatic,False,g2
+4968,patient_id_4968,1949-12-26, ivb,Colon,nan,r1,0.0,metastatic,False,g2
+4971,patient_id_4971,1964-02-16, i,Colon,nan,r0,14.0,neoadjuvant,False,g2
+4973,patient_id_4973,1969-09-09, ivb,Colon,nan,r1,10.0,neoadjuvant,False,g2
+4974,patient_id_4974,1964-09-01,nan,Colon,nan,r0,nan,neoadjuvant,False,g3
+4976,patient_id_4976,2012-09-06,nan,Colon,nan,r0,21.0,neoadjuvant,False,g3
+4988,patient_id_4988,2019-08-03,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+4999,patient_id_4999,2013-05-10, i,Colon,nan,r0,9.0,neoadjuvant,nan,g3
+5005,patient_id_5005,1965-12-12,i,Colon,nan,r0,nan,neoadjuvant,False,g2
+5007,patient_id_5007,1971-05-29,iia,Colon,nan,r0,nan,adjuvant,False,g2
+5024,patient_id_5024,1950-09-07,nan,Colon,nan,r0,12.0,metastatic,False,g2
+5026,patient_id_5026,2010-10-25, iib,Colon,nan,r0,nan,adjuvant,False,g2
+5036,patient_id_5036,1989-01-29, ivb,Colon,nan,r0,14.0,neoadjuvant,nan,g1
+5038,patient_id_5038,1962-07-12,iva,Rectal,nan,r0,16.0,neoadjuvant,False,g2
+5049,patient_id_5049,1968-09-19,ivb,Rectal,nan,r0,15.0,metastatic,nan,g1
+5058,patient_id_5058,1984-08-25,nan,Colon,nan,r2,26.0,adjuvant,nan,g2
+5060,patient_id_5060,1979-06-02,nan,Colon,nan,r0,28.0,neoadjuvant,False,g2
+5062,patient_id_5062,2000-07-03, iiib,Colon,nan,r0,10.0,adjuvant,False,g2
+5075,patient_id_5075,1968-02-23,iiib,Colon,nan,r2,33.0,adjuvant,False,g3
+5079,patient_id_5079,1994-08-06, ivb,Colon,nan,r0,15.0,metastatic,False,g2
+5080,patient_id_5080,1963-08-04,iiic,Colon,nan,r0,nan,metastatic,True,g2
+5082,patient_id_5082,1958-08-21,ivb,Colon,nan,r0,17.0,metastatic,False,g3
+5086,patient_id_5086,2009-01-31, iiic,Colon,nan,r0,15.0,metastatic,True,g1
+5087,patient_id_5087,1994-08-09, i,Colon,nan,r0,12.0,metastatic,False,g2
+5092,patient_id_5092,2019-01-10, iiib,Colon,nan,r0,nan,metastatic,False,g2
+5094,patient_id_5094,2013-01-07, iia,Colon,nan,r1,nan,metastatic,False,g2
+5100,patient_id_5100,1984-05-16,nan,Colon,nan,r2,nan,adjuvant,False,g2
+5104,patient_id_5104,1990-07-14,nan,Rectal,nan,r0,15.0,neoadjuvant,False,g2
+5105,patient_id_5105,1962-02-10,nan,Colon,nan,r0,9.0,adjuvant,False,g2
+5111,patient_id_5111,1950-11-12,nan,Colon,nan,r1,nan,neoadjuvant,False,g2
+5113,patient_id_5113,1992-01-14,ivb,Colon,nan,r0,nan,adjuvant,False,g3
+5115,patient_id_5115,1946-08-16,iva,Colon,nan,r0,19.0,metastatic,False,g2
+5116,patient_id_5116,1955-02-07,i,Colon,nan,r2,nan,neoadjuvant,nan,g2
+5118,patient_id_5118,2000-03-11,iiia,Rectal,nan,r0,nan,adjuvant,False,g3
+5122,patient_id_5122,1996-03-30,nan,Rectal,nan,r0,nan,adjuvant,nan,g3
+5137,patient_id_5137,2019-06-09,iiib,Rectal,nan,r0,nan,adjuvant,True,g2
+5138,patient_id_5138,1967-06-07,iva,Colon,nan,r0,14.0,metastatic,False,g2
+5145,patient_id_5145,1981-08-25,iva,Colon,nan,r0,nan,neoadjuvant,True,g3
+5147,patient_id_5147,1994-01-10,i,Colon,nan,r1,12.0,adjuvant,False,g2
+5150,patient_id_5150,1983-04-13,nan,Colon,nan,r1,nan,metastatic,nan,g2
+5154,patient_id_5154,1977-09-03, iiib,Colon,nan,r0,23.0,adjuvant,False,g3
+5161,patient_id_5161,1989-01-22,nan,Rectal,nan,r0,nan,adjuvant,False,g3
+5169,patient_id_5169,1952-02-14,nan,Colon,nan,r0,nan,adjuvant,False,g3
+5177,patient_id_5177,1969-06-09,iiib,Rectal,nan,r0,20.0,metastatic,nan,g2
+5178,patient_id_5178,1989-08-29,nan,Colon,nan,r0,nan,adjuvant,True,g3
+5186,patient_id_5186,1949-08-16,iva,Colon,nan,r0,nan,metastatic,False,g3
+5188,patient_id_5188,1993-10-06,nan,Colon,nan,r0,9.0,adjuvant,False,g3
+5191,patient_id_5191,1998-08-11,ivb,Rectal,nan,r0,0.0,metastatic,True,g2
+5193,patient_id_5193,1957-08-14,iva,Colon,nan,r0,0.0,neoadjuvant,True,g2
+5194,patient_id_5194,2000-11-11,nan,Colon,nan,r0,0.0,neoadjuvant,False,g2
+5197,patient_id_5197,1995-09-18,i,Colon,nan,r0,11.0,neoadjuvant,False,g2
+5200,patient_id_5200,1975-04-27,iiic,Colon,nan,r0,13.0,adjuvant,False,g2
+5204,patient_id_5204,1970-11-12, ivb,Colon,nan,r1,13.0,neoadjuvant,False,g2
+5214,patient_id_5214,1956-03-07, iiib,Colon,nan,r0,nan,metastatic,nan,g1
+5215,patient_id_5215,1948-03-28,iic,Colon,nan,r0,17.0,neoadjuvant,False,g3
+5236,patient_id_5236,1961-08-04,nan,Rectal,nan,r0,17.0,metastatic,True,g2
+5242,patient_id_5242,1958-10-23,nan,Colon,nan,r0,13.0,adjuvant,False,g2
+5245,patient_id_5245,1993-01-25,iva,Colon,nan,r0,30.0,metastatic,False,g2
+5252,patient_id_5252,2009-09-26,iiib,Colon,nan,r0,nan,neoadjuvant,False,g3
+5256,patient_id_5256,1947-04-18,iia,Colon,nan,r0,nan,adjuvant,True,g3
+5259,patient_id_5259,1964-10-16,iva,Colon,nan,r0,nan,metastatic,nan,g2
+5270,patient_id_5270,1964-03-20,ivb,Colon,nan,r0,nan,neoadjuvant,nan,g2
+5273,patient_id_5273,1961-07-13, iib,Colon,nan,r0,nan,adjuvant,nan,g3
+5290,patient_id_5290,1958-03-22, iia,Colon,nan,r0,nan,metastatic,False,g2
+5291,patient_id_5291,1986-11-19,nan,Colon,nan,r0,22.0,neoadjuvant,True,g2
+5292,patient_id_5292,1981-08-25,nan,Rectal,nan,r0,13.0,metastatic,False,g2
+5300,patient_id_5300,1954-02-17,iiic,Colon,nan,r0,nan,neoadjuvant,False,g2
+5303,patient_id_5303,1983-03-11,iia,Colon,nan,r2,nan,metastatic,False,g2
+5305,patient_id_5305,1946-10-27,iiic,Colon,nan,r0,0.0,adjuvant,nan,g2
+5308,patient_id_5308,1968-05-19,nan,Colon,nan,r0,nan,neoadjuvant,True,g3
+5314,patient_id_5314,2010-03-07,iva,Colon,nan,r0,12.0,metastatic,False,g2
+5316,patient_id_5316,1972-05-21,iva,Rectal,nan,r0,30.0,metastatic,False,g2
+5326,patient_id_5326,1948-09-23, iiib,Rectal,nan,r0,nan,metastatic,False,g2
+5330,patient_id_5330,1978-08-28,nan,Colon,nan,r0,nan,metastatic,nan,g3
+5334,patient_id_5334,1960-08-09,iiib,Rectal,nan,r0,25.0,metastatic,False,g2
+5337,patient_id_5337,1970-10-30, iia,Colon,nan,r0,0.0,metastatic,False,g2
+5347,patient_id_5347,1949-11-25,ivb,Rectal,nan,r0,nan,neoadjuvant,False,g2
+5351,patient_id_5351,2018-03-27,iiib,Colon,nan,r0,36.0,neoadjuvant,False,g2
+5353,patient_id_5353,1996-05-27,iva,Colon,nan,r0,28.0,neoadjuvant,True,g2
+5355,patient_id_5355,2008-03-24,iia,Colon,nan,r0,13.0,metastatic,False,g2
+5358,patient_id_5358,2008-04-29, ivb,Rectal,nan,r0,nan,metastatic,nan,g2
+5362,patient_id_5362,1975-03-03,nan,Colon,nan,r0,nan,adjuvant,False,g2
+5363,patient_id_5363,2006-06-28,iiic,Colon,nan,r0,10.0,metastatic,nan,g3
+5364,patient_id_5364,2007-06-22, iva,Colon,nan,r0,9.0,adjuvant,False,g2
+5377,patient_id_5377,1966-10-17, iia,Colon,nan,r0,14.0,adjuvant,False,g2
+5392,patient_id_5392,1989-04-24, i,Rectal,nan,r0,18.0,neoadjuvant,True,g2
+5393,patient_id_5393,2010-01-19, i,Colon,nan,r0,15.0,adjuvant,False,g3
+5397,patient_id_5397,1992-08-31,iva,Colon,nan,r0,nan,adjuvant,False,g2
+5401,patient_id_5401,2016-09-29,ivb,Colon,nan,r0,29.0,metastatic,False,g2
+5402,patient_id_5402,1995-12-06,iia,Colon,nan,r0,nan,adjuvant,nan,g3
+5407,patient_id_5407,1989-09-13,iia,Rectal,nan,r2,17.0,adjuvant,False,g3
+5409,patient_id_5409,1952-06-15, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+5413,patient_id_5413,2008-03-04,ivb,Colon,nan,r0,13.0,adjuvant,True,g2
+5415,patient_id_5415,1999-05-27, iva,Colon,nan,r0,14.0,adjuvant,False,g3
+5425,patient_id_5425,1967-06-08,ivb,Rectal,nan,r0,12.0,metastatic,False,g2
+5430,patient_id_5430,1959-05-15, iiic,Colon,nan,r0,nan,adjuvant,False,g2
+5433,patient_id_5433,1974-11-04, iib,Colon,nan,r0,16.0,metastatic,False,g2
+5438,patient_id_5438,1976-10-17, iib,Colon,nan,r0,nan,neoadjuvant,False,g1
+5442,patient_id_5442,2003-07-11,iiib,Colon,nan,r0,0.0,adjuvant,False,g2
+5443,patient_id_5443,2013-07-08,iia,Colon,nan,r0,20.0,neoadjuvant,False,g3
+5447,patient_id_5447,1954-03-28,iiic,Rectal,nan,r0,0.0,neoadjuvant,False,g3
+5451,patient_id_5451,2006-04-10, iia,Rectal,nan,r0,13.0,adjuvant,False,g2
+5456,patient_id_5456,1977-12-19,iiib,Colon,nan,r0,33.0,metastatic,False,g2
+5464,patient_id_5464,2006-02-10, iiib,Rectal,nan,r0,12.0,adjuvant,False,g2
+5465,patient_id_5465,1972-09-17, iva,Colon,nan,r0,12.0,metastatic,False,g2
+5467,patient_id_5467,1969-12-25, iva,Colon,nan,r0,16.0,neoadjuvant,False,g2
+5469,patient_id_5469,1971-03-17,ivb,Colon,nan,r1,nan,metastatic,False,g3
+5482,patient_id_5482,1964-07-28,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+5497,patient_id_5497,2012-11-26,ivb,Colon,nan,r0,6.0,metastatic,False,g2
+5502,patient_id_5502,1970-08-03,nan,Colon,nan,r0,nan,metastatic,False,g2
+5512,patient_id_5512,2004-09-25,ivb,Colon,nan,r0,9.0,neoadjuvant,False,g2
+5513,patient_id_5513,1978-11-13, iiib,Colon,nan,r0,nan,neoadjuvant,False,g3
+5519,patient_id_5519,2004-10-25, iva,Colon,nan,r0,nan,metastatic,True,g2
+5532,patient_id_5532,1997-01-07, iva,Rectal,nan,r0,nan,adjuvant,False,g3
+5536,patient_id_5536,1964-02-16, iia,Colon,nan,r1,26.0,adjuvant,False,g3
+5537,patient_id_5537,1990-07-02,ivb,Colon,nan,r0,14.0,metastatic,False,g2
+5539,patient_id_5539,1974-04-14,iiib,Colon,nan,r1,15.0,neoadjuvant,False,g3
+5544,patient_id_5544,2004-05-13,iiic,Colon,nan,r0,51.0,metastatic,nan,g2
+5545,patient_id_5545,2014-02-08,iva,Colon,nan,r1,29.0,metastatic,False,g3
+5548,patient_id_5548,2011-12-12,i,Colon,nan,r0,nan,adjuvant,nan,g2
+5551,patient_id_5551,1970-09-12,nan,Colon,nan,r0,nan,metastatic,True,g2
+5552,patient_id_5552,1946-10-11, iva,Colon,nan,r0,26.0,neoadjuvant,False,g1
+5555,patient_id_5555,2005-04-06,ivb,Colon,nan,r0,nan,adjuvant,True,g3
+5557,patient_id_5557,1981-12-12, iva,Rectal,nan,r0,13.0,neoadjuvant,False,g3
+5558,patient_id_5558,2011-11-01,ivb,Colon,nan,r0,11.0,metastatic,nan,g2
+5569,patient_id_5569,1951-09-29, iiia,Rectal,nan,r1,21.0,adjuvant,False,g2
+5573,patient_id_5573,1949-03-31,iva,Rectal,nan,r0,16.0,adjuvant,False,g1
+5577,patient_id_5577,2011-09-30, ivb,Colon,nan,r0,nan,metastatic,False,g2
+5578,patient_id_5578,1986-09-26, iva,Colon,nan,r0,nan,neoadjuvant,True,g2
+5587,patient_id_5587,1967-02-17, iia,Rectal,nan,r0,nan,adjuvant,False,g2
+5589,patient_id_5589,2002-12-22, iiic,Colon,nan,r0,nan,neoadjuvant,False,g2
+5590,patient_id_5590,2008-01-24,nan,Colon,nan,r0,19.0,adjuvant,True,g2
+5595,patient_id_5595,2010-02-19, i,Colon,nan,r1,16.0,neoadjuvant,False,g2
+5596,patient_id_5596,2005-02-20,iiic,Colon,nan,r0,9.0,metastatic,False,g1
+5597,patient_id_5597,1956-12-21,iiib,Colon,nan,r0,15.0,neoadjuvant,False,g2
+5599,patient_id_5599,2005-07-08,i,Colon,nan,r2,nan,adjuvant,True,g2
+5606,patient_id_5606,2000-09-08,iia,Colon,nan,r0,19.0,neoadjuvant,True,g1
+5615,patient_id_5615,1977-02-28,ivb,Colon,nan,r0,7.0,neoadjuvant,False,g3
+5621,patient_id_5621,1959-07-19,iia,Colon,nan,r0,nan,metastatic,False,g3
+5623,patient_id_5623,1987-04-10,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+5646,patient_id_5646,1958-02-05, iva,Colon,nan,r0,16.0,metastatic,nan,g2
+5649,patient_id_5649,1953-11-03,nan,Rectal,nan,r0,14.0,metastatic,True,g2
+5663,patient_id_5663,1982-06-28,iva,Colon,nan,r0,nan,metastatic,False,g2
+5667,patient_id_5667,1958-07-10,iva,Rectal,nan,r0,18.0,metastatic,True,g3
+5670,patient_id_5670,1968-11-18,nan,Colon,nan,r1,nan,adjuvant,False,g2
+5677,patient_id_5677,1978-07-20, iiia,Colon,nan,r0,nan,neoadjuvant,True,g2
+5679,patient_id_5679,1962-10-31,nan,Colon,nan,r0,18.0,adjuvant,False,g1
+5686,patient_id_5686,1988-03-09, iiib,Colon,nan,r0,nan,metastatic,False,g2
+5687,patient_id_5687,1974-08-11, i,Colon,nan,r0,33.0,neoadjuvant,nan,g2
+5693,patient_id_5693,1989-09-12,nan,Colon,nan,r0,nan,neoadjuvant,nan,g2
+5695,patient_id_5695,1995-03-25,nan,Colon,nan,r0,0.0,metastatic,False,g1
+5696,patient_id_5696,2007-08-31,iiic,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+5703,patient_id_5703,2017-09-15, iiia,Colon,nan,r0,nan,neoadjuvant,False,g1
+5704,patient_id_5704,2010-05-12,iiia,Colon,nan,r0,41.0,metastatic,False,g2
+5705,patient_id_5705,2004-02-20, i,Colon,nan,r0,nan,metastatic,True,g2
+5709,patient_id_5709,2012-01-25,iiib,Colon,nan,r0,nan,metastatic,nan,g2
+5712,patient_id_5712,2006-08-08,nan,Colon,nan,r0,9.0,metastatic,False,g2
+5713,patient_id_5713,2018-05-30,iiia,Colon,nan,r0,nan,adjuvant,False,g2
+5714,patient_id_5714,1995-01-07, iiib,Rectal,nan,r0,22.0,adjuvant,True,g3
+5715,patient_id_5715,1990-11-07,iiib,Rectal,nan,r0,nan,neoadjuvant,True,g2
+5722,patient_id_5722,1987-01-28, iiia,Colon,nan,r0,nan,metastatic,nan,g3
+5724,patient_id_5724,2006-08-07,nan,Colon,nan,r0,nan,metastatic,False,g2
+5735,patient_id_5735,1972-09-29,iia,Colon,nan,r0,14.0,metastatic,False,g3
+5738,patient_id_5738,2017-07-26, iiia,Colon,nan,r0,nan,metastatic,False,g3
+5741,patient_id_5741,2003-12-25,iia,Colon,nan,r0,nan,adjuvant,False,g3
+5748,patient_id_5748,2002-02-12, iia,Rectal,nan,r0,nan,neoadjuvant,False,g2
+5756,patient_id_5756,1996-02-23, ivb,Colon,nan,r0,10.0,adjuvant,False,g2
+5760,patient_id_5760,2010-09-06, iva,Rectal,nan,r0,15.0,metastatic,False,g2
+5764,patient_id_5764,1960-07-18,iiib,Colon,nan,r0,nan,metastatic,False,g1
+5767,patient_id_5767,1972-11-25, i,Colon,nan,r0,26.0,adjuvant,False,g2
+5770,patient_id_5770,1951-11-20,nan,Colon,nan,r0,7.0,metastatic,True,g2
+5776,patient_id_5776,1979-09-02, ivb,Colon,nan,r0,nan,metastatic,False,g3
+5781,patient_id_5781,1988-01-17,ivb,Rectal,nan,r1,21.0,adjuvant,False,g2
+5782,patient_id_5782,1948-08-28,ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+5783,patient_id_5783,1978-03-25, iiib,Colon,nan,r0,28.0,metastatic,False,g2
+5790,patient_id_5790,1955-04-18,iva,Colon,nan,r0,nan,neoadjuvant,True,g1
+5796,patient_id_5796,2019-01-31, iiib,Rectal,nan,r0,18.0,neoadjuvant,False,g2
+5812,patient_id_5812,2015-08-08,nan,Colon,nan,r0,52.0,metastatic,nan,g2
+5815,patient_id_5815,1974-10-03, iiib,Rectal,nan,r0,nan,metastatic,False,g2
+5818,patient_id_5818,1959-04-14,ivb,Colon,nan,r0,19.0,metastatic,nan,g2
+5829,patient_id_5829,2012-07-16,nan,Colon,nan,r0,nan,metastatic,False,g2
+5835,patient_id_5835,2006-09-18,iiic,Colon,nan,r0,nan,metastatic,False,g2
+5837,patient_id_5837,1975-03-08, ivb,Colon,nan,r0,17.0,metastatic,False,g1
+5839,patient_id_5839,2010-09-05,iiia,Rectal,nan,r1,8.0,neoadjuvant,False,g3
+5845,patient_id_5845,2016-04-06,iva,Colon,nan,r0,nan,metastatic,False,g2
+5860,patient_id_5860,1992-03-04,nan,Rectal,nan,r0,13.0,metastatic,False,g2
+5864,patient_id_5864,2014-02-02,ivb,Colon,nan,r1,nan,neoadjuvant,False,g3
+5875,patient_id_5875,2017-04-22,iiib,Rectal,nan,r0,12.0,adjuvant,False,g3
+5885,patient_id_5885,2016-06-23,nan,Colon,nan,r0,33.0,metastatic,False,g2
+5891,patient_id_5891,1948-03-02,iiib,Colon,nan,r0,nan,metastatic,True,g2
+5893,patient_id_5893,1966-10-15,iva,Rectal,nan,r0,nan,adjuvant,False,g2
+5899,patient_id_5899,1946-03-10, iva,Colon,nan,r0,18.0,adjuvant,False,g3
+5900,patient_id_5900,1958-04-14, iia,Colon,nan,r0,24.0,adjuvant,True,g2
+5903,patient_id_5903,2020-03-05, iva,Colon,nan,r0,21.0,neoadjuvant,False,g3
+5913,patient_id_5913,2005-08-18,nan,Rectal,nan,r0,26.0,metastatic,False,g3
+5915,patient_id_5915,1974-05-22, iva,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+5916,patient_id_5916,1949-06-26,iiib,Colon,nan,r0,nan,adjuvant,False,g3
+5921,patient_id_5921,1997-05-06, iva,Colon,nan,r0,nan,metastatic,nan,g2
+5926,patient_id_5926,1986-02-05, iva,Rectal,nan,r0,nan,adjuvant,False,g2
+5943,patient_id_5943,1998-01-26,ivb,Colon,nan,r0,0.0,adjuvant,True,g2
+5945,patient_id_5945,1993-04-23,iva,Rectal,nan,r0,24.0,adjuvant,False,g2
+5946,patient_id_5946,1994-05-17, iiia,Colon,nan,r0,9.0,metastatic,nan,g2
+5951,patient_id_5951,1970-12-09, iva,Colon,nan,r0,0.0,adjuvant,False,g2
+5955,patient_id_5955,2012-03-12, iva,Colon,nan,r0,28.0,metastatic,nan,g2
+5956,patient_id_5956,1985-09-17,ivb,Colon,nan,r0,nan,adjuvant,True,g2
+5959,patient_id_5959,1993-12-04, iva,Colon,nan,r0,14.0,adjuvant,False,g3
+5965,patient_id_5965,1990-04-08,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+5969,patient_id_5969,1994-06-21,ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+5972,patient_id_5972,1992-10-31, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+5977,patient_id_5977,1946-12-02,nan,Colon,nan,r0,30.0,adjuvant,False,g2
+5978,patient_id_5978,1957-11-02,iva,Colon,nan,r0,nan,neoadjuvant,True,g2
+5980,patient_id_5980,1951-12-15,iva,Colon,nan,r0,nan,adjuvant,False,g2
+5997,patient_id_5997,1968-09-10, iia,Colon,nan,r0,15.0,neoadjuvant,False,g2
+6003,patient_id_6003,1996-02-14, iib,Rectal,nan,r0,nan,metastatic,False,g2
+6004,patient_id_6004,1966-10-27, iib,Rectal,nan,r0,nan,neoadjuvant,True,g2
+6006,patient_id_6006,1980-10-10,nan,Colon,nan,r0,11.0,metastatic,nan,g1
+6009,patient_id_6009,2010-10-19,iiib,Colon,nan,r0,0.0,adjuvant,True,g2
+6012,patient_id_6012,1991-06-15,iib,Rectal,nan,r0,nan,neoadjuvant,True,g2
+6013,patient_id_6013,1947-09-17,nan,Rectal,nan,r0,26.0,adjuvant,False,g2
+6014,patient_id_6014,2005-07-08, iiib,Rectal,nan,r0,nan,metastatic,True,g2
+6019,patient_id_6019,1964-02-23,i,Colon,nan,r0,26.0,adjuvant,False,g2
+6020,patient_id_6020,1972-01-03,nan,Rectal,nan,r0,18.0,neoadjuvant,False,g2
+6026,patient_id_6026,1971-03-15,nan,Rectal,nan,r0,nan,neoadjuvant,False,g2
+6027,patient_id_6027,2003-05-31, iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+6028,patient_id_6028,1979-10-14,i,Colon,nan,r1,nan,metastatic,True,g2
+6031,patient_id_6031,1993-01-25,ivb,Colon,nan,r0,15.0,adjuvant,False,g2
+6033,patient_id_6033,1969-07-25,nan,Colon,nan,r0,nan,adjuvant,True,g2
+6034,patient_id_6034,1974-03-13,i,Colon,nan,r0,15.0,neoadjuvant,True,g2
+6042,patient_id_6042,1972-01-19,nan,Colon,nan,r0,nan,adjuvant,False,g2
+6045,patient_id_6045,1993-10-30,iva,Colon,nan,r2,12.0,adjuvant,False,g3
+6052,patient_id_6052,1967-06-30,iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+6056,patient_id_6056,1949-07-02, iva,Colon,nan,r0,nan,metastatic,False,g3
+6058,patient_id_6058,1963-11-20,nan,Colon,nan,r1,nan,neoadjuvant,False,g2
+6071,patient_id_6071,1982-12-05,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+6076,patient_id_6076,1978-04-17,ivb,Rectal,nan,r0,nan,metastatic,False,g2
+6081,patient_id_6081,2019-01-29,ivb,Rectal,nan,r0,23.0,neoadjuvant,nan,g2
+6083,patient_id_6083,2000-02-02,nan,Colon,nan,r0,nan,metastatic,False,g2
+6086,patient_id_6086,2003-02-27, iiib,Colon,nan,r0,11.0,metastatic,False,g2
+6092,patient_id_6092,1972-04-06,nan,Colon,nan,r0,nan,adjuvant,True,g3
+6094,patient_id_6094,1973-03-14,iiib,Colon,nan,r1,13.0,metastatic,False,g2
+6104,patient_id_6104,1980-11-28, iiia,Colon,nan,r0,9.0,metastatic,False,g3
+6121,patient_id_6121,1971-07-27, iiib,Colon,nan,r0,30.0,adjuvant,False,g2
+6140,patient_id_6140,1988-06-19, iiia,Colon,nan,r0,nan,adjuvant,False,g3
+6141,patient_id_6141,1966-05-12,ivb,Colon,nan,r1,18.0,adjuvant,False,g2
+6146,patient_id_6146,1990-07-03,ivb,Colon,nan,r1,nan,metastatic,False,g2
+6150,patient_id_6150,2014-06-14,iia,Colon,nan,r1,23.0,metastatic,False,g2
+6151,patient_id_6151,1946-10-10,iva,Colon,nan,r0,11.0,neoadjuvant,True,g2
+6152,patient_id_6152,1981-08-19, iiib,Colon,nan,r0,nan,metastatic,False,g2
+6154,patient_id_6154,2005-05-04, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+6156,patient_id_6156,1970-09-14,i,Colon,nan,r0,16.0,adjuvant,nan,g2
+6158,patient_id_6158,1985-06-11,iiib,Rectal,nan,r0,nan,metastatic,nan,g2
+6161,patient_id_6161,1950-04-23,nan,Rectal,nan,r0,nan,neoadjuvant,False,g2
+6165,patient_id_6165,1957-01-07,iva,Colon,nan,r0,9.0,neoadjuvant,True,g1
+6167,patient_id_6167,1966-09-13,nan,Colon,nan,r2,26.0,neoadjuvant,nan,g2
+6172,patient_id_6172,1980-09-06,iva,Colon,nan,r0,0.0,adjuvant,False,g2
+6173,patient_id_6173,1997-02-11,iiib,Colon,nan,r1,21.0,metastatic,True,g3
+6174,patient_id_6174,2012-12-25, iia,Colon,nan,r0,nan,metastatic,False,g2
+6178,patient_id_6178,1995-11-02, ivb,Rectal,nan,r0,nan,adjuvant,True,g3
+6181,patient_id_6181,1959-06-23, iia,Colon,nan,r0,12.0,metastatic,False,g1
+6184,patient_id_6184,1959-05-01,iiib,Colon,nan,r0,nan,metastatic,True,g2
+6185,patient_id_6185,2009-02-27, iva,Colon,nan,r1,19.0,neoadjuvant,False,g2
+6187,patient_id_6187,1986-02-21, ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+6190,patient_id_6190,1994-04-19,iiib,Colon,nan,r0,23.0,metastatic,nan,g2
+6195,patient_id_6195,2020-05-24,iva,Colon,nan,r0,nan,metastatic,True,g3
+6202,patient_id_6202,2020-04-02, iia,Colon,nan,r0,13.0,metastatic,True,g3
+6204,patient_id_6204,1991-11-02, iva,Colon,nan,r0,26.0,adjuvant,False,g3
+6205,patient_id_6205,1997-12-22,i,Colon,nan,r0,nan,metastatic,False,g3
+6208,patient_id_6208,1975-09-08, iiib,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+6210,patient_id_6210,2019-11-02,iia,Rectal,nan,r0,15.0,adjuvant,True,g2
+6219,patient_id_6219,1962-07-24,ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+6220,patient_id_6220,1982-10-18, iva,Colon,nan,r1,nan,neoadjuvant,False,g2
+6221,patient_id_6221,1972-04-02,ivb,Colon,nan,r0,21.0,metastatic,nan,g3
+6226,patient_id_6226,1977-03-12, iib,Colon,nan,r0,nan,adjuvant,nan,g2
+6234,patient_id_6234,1990-09-28,ivb,Rectal,nan,r0,nan,neoadjuvant,True,g3
+6235,patient_id_6235,1993-03-26,nan,Rectal,nan,r0,nan,neoadjuvant,False,g2
+6236,patient_id_6236,1994-10-18, i,Colon,nan,r0,17.0,metastatic,False,g2
+6239,patient_id_6239,1991-11-13, iia,Colon,nan,r0,nan,adjuvant,False,g2
+6241,patient_id_6241,1986-06-03,iia,Colon,nan,r0,0.0,adjuvant,nan,g3
+6253,patient_id_6253,1964-01-08, iiib,Colon,nan,r0,20.0,neoadjuvant,nan,g2
+6255,patient_id_6255,2020-06-28,iiic,Rectal,nan,r0,nan,metastatic,False,g3
+6257,patient_id_6257,2001-02-14, iva,Colon,nan,r0,19.0,metastatic,False,g2
+6259,patient_id_6259,2002-05-21,iiib,Rectal,nan,r0,12.0,metastatic,False,g2
+6264,patient_id_6264,1976-10-14,ivb,Colon,nan,r0,nan,metastatic,nan,g3
+6270,patient_id_6270,1949-12-08, iiia,Colon,nan,r1,12.0,metastatic,nan,g2
+6273,patient_id_6273,2000-01-28,iiib,Colon,nan,r1,20.0,neoadjuvant,False,g3
+6276,patient_id_6276,1946-03-02, iiib,Colon,nan,r1,13.0,adjuvant,False,g3
+6280,patient_id_6280,1953-01-17, iia,Colon,nan,r0,18.0,neoadjuvant,False,g2
+6284,patient_id_6284,1999-12-25, iiib,Colon,nan,r0,nan,metastatic,False,g2
+6287,patient_id_6287,1996-05-15,iva,Colon,nan,r0,6.0,neoadjuvant,False,g2
+6288,patient_id_6288,1953-07-14, iiib,Colon,nan,r0,nan,metastatic,False,g3
+6289,patient_id_6289,2006-12-31,i,Colon,nan,r0,17.0,adjuvant,False,g3
+6292,patient_id_6292,1980-12-17, iiib,Rectal,nan,r0,10.0,adjuvant,nan,g2
+6301,patient_id_6301,1991-06-17,iiib,Rectal,nan,r0,nan,adjuvant,False,g3
+6307,patient_id_6307,2015-12-27, iiib,Rectal,nan,r0,0.0,neoadjuvant,False,g2
+6319,patient_id_6319,2017-03-05, iib,Colon,nan,r1,nan,metastatic,False,g3
+6324,patient_id_6324,1964-09-09,ivb,Rectal,nan,r0,20.0,adjuvant,False,g2
+6333,patient_id_6333,1952-02-03, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+6336,patient_id_6336,1956-03-07,iib,Colon,nan,r0,nan,metastatic,False,g2
+6342,patient_id_6342,1995-10-12,nan,Colon,nan,r0,24.0,metastatic,nan,g2
+6345,patient_id_6345,1987-10-01,nan,Rectal,nan,r0,18.0,adjuvant,nan,g1
+6350,patient_id_6350,1959-03-06,ivb,Colon,nan,r0,13.0,metastatic,False,g2
+6355,patient_id_6355,2006-08-08,ivb,Rectal,nan,r0,nan,adjuvant,False,g3
+6356,patient_id_6356,1999-07-28,nan,Rectal,nan,r0,nan,adjuvant,False,g3
+6357,patient_id_6357,1969-11-24,iiib,Colon,nan,r0,13.0,metastatic,True,g2
+6358,patient_id_6358,1997-12-29, iia,Rectal,nan,r0,13.0,metastatic,False,g3
+6360,patient_id_6360,1979-12-08,nan,Colon,nan,r0,nan,adjuvant,False,g3
+6361,patient_id_6361,1999-05-11,ivb,Colon,nan,r0,nan,metastatic,False,g3
+6368,patient_id_6368,1979-06-27,nan,Colon,nan,r0,30.0,adjuvant,False,g2
+6377,patient_id_6377,2000-09-20, iiib,Colon,nan,r0,18.0,neoadjuvant,False,g2
+6381,patient_id_6381,2016-03-07, iiia,Colon,nan,r0,nan,adjuvant,False,g3
+6384,patient_id_6384,1988-03-24,ivb,Colon,nan,r0,16.0,neoadjuvant,False,g2
+6389,patient_id_6389,2014-05-18, iiib,Colon,nan,r0,0.0,metastatic,False,g3
+6394,patient_id_6394,1951-12-01, iiib,Rectal,nan,r0,13.0,metastatic,False,g3
+6398,patient_id_6398,1992-01-22, i,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+6405,patient_id_6405,1999-05-07, iib,Rectal,nan,r0,16.0,metastatic,False,g2
+6408,patient_id_6408,1953-02-19,iia,Colon,nan,r0,nan,neoadjuvant,False,g3
+6418,patient_id_6418,2013-03-10,nan,Rectal,nan,r0,nan,metastatic,False,g2
+6423,patient_id_6423,1997-11-01, ivb,Colon,nan,r0,nan,metastatic,False,g2
+6424,patient_id_6424,2006-04-12,i,Colon,nan,r0,17.0,neoadjuvant,False,g2
+6425,patient_id_6425,1974-05-18,iva,Colon,nan,r0,0.0,metastatic,True,g2
+6426,patient_id_6426,1966-09-18, iia,Colon,nan,r0,23.0,metastatic,nan,g2
+6427,patient_id_6427,1953-01-14, iva,Rectal,nan,r0,nan,neoadjuvant,False,g2
+6429,patient_id_6429,1948-02-03, iia,Colon,nan,r1,nan,adjuvant,nan,g2
+6433,patient_id_6433,2001-04-28,iva,Colon,nan,r0,13.0,metastatic,False,g3
+6436,patient_id_6436,1993-05-17,ivb,Colon,nan,r0,14.0,adjuvant,nan,g3
+6437,patient_id_6437,1959-02-06, i,Colon,nan,r0,nan,metastatic,False,g2
+6441,patient_id_6441,1965-12-09,iva,Colon,nan,r0,29.0,adjuvant,nan,g3
+6442,patient_id_6442,1997-02-27,nan,Rectal,nan,r0,22.0,metastatic,False,g1
+6447,patient_id_6447,1965-09-19, iva,Colon,nan,r0,12.0,neoadjuvant,True,g2
+6450,patient_id_6450,1996-06-13, iiic,Colon,nan,r0,13.0,metastatic,nan,g2
+6456,patient_id_6456,1961-11-28, iiib,Colon,nan,r0,nan,metastatic,True,g2
+6457,patient_id_6457,2020-12-25,nan,Rectal,nan,r0,nan,adjuvant,False,g3
+6463,patient_id_6463,1994-05-13, ivb,Colon,nan,r0,16.0,metastatic,False,g2
+6464,patient_id_6464,1958-03-25,iiib,Colon,nan,r0,nan,metastatic,False,g2
+6476,patient_id_6476,1985-02-08,i,Colon,nan,r0,nan,adjuvant,False,g3
+6479,patient_id_6479,1980-06-08, iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+6481,patient_id_6481,2008-03-07, ivb,Colon,nan,r0,18.0,adjuvant,False,g3
+6489,patient_id_6489,1961-10-24,nan,Rectal,nan,r0,nan,metastatic,nan,g3
+6494,patient_id_6494,1953-01-10,nan,Colon,nan,r0,13.0,neoadjuvant,False,g2
+6499,patient_id_6499,1967-12-07,nan,Colon,nan,r0,14.0,metastatic,False,g3
+6502,patient_id_6502,1998-02-20, iia,Rectal,nan,r0,nan,metastatic,False,g2
+6503,patient_id_6503,2008-06-14,iiia,Rectal,nan,r0,nan,metastatic,True,g3
+6517,patient_id_6517,1987-03-25,nan,Colon,nan,r0,nan,metastatic,False,g2
+6539,patient_id_6539,1996-12-01,iva,Colon,nan,r0,10.0,neoadjuvant,nan,g2
+6541,patient_id_6541,1986-08-22,nan,Colon,nan,r0,16.0,metastatic,False,g2
+6543,patient_id_6543,1984-09-27, iva,Colon,nan,r0,19.0,metastatic,nan,g2
+6545,patient_id_6545,2004-03-09,nan,Colon,nan,r0,nan,neoadjuvant,nan,g3
+6549,patient_id_6549,1979-05-13,iva,Colon,nan,r0,22.0,neoadjuvant,nan,g3
+6551,patient_id_6551,2013-08-03,iiia,Colon,nan,r0,15.0,metastatic,False,g2
+6556,patient_id_6556,1979-07-12, iva,Colon,nan,r0,nan,neoadjuvant,nan,g2
+6557,patient_id_6557,1990-01-01,nan,Colon,nan,r0,23.0,adjuvant,True,g2
+6558,patient_id_6558,1973-04-09,nan,Colon,nan,r0,17.0,adjuvant,False,g2
+6575,patient_id_6575,1972-09-07,iva,Colon,nan,r0,14.0,adjuvant,False,g2
+6580,patient_id_6580,1949-12-11, iiib,Rectal,nan,r0,nan,metastatic,True,g2
+6581,patient_id_6581,1973-11-07,ivb,Colon,nan,r0,nan,neoadjuvant,nan,g2
+6587,patient_id_6587,1992-02-11,nan,Colon,nan,r0,24.0,neoadjuvant,False,g1
+6588,patient_id_6588,1993-12-05,iia,Rectal,nan,r0,nan,metastatic,nan,g2
+6589,patient_id_6589,2001-07-18, iva,Colon,nan,r0,nan,metastatic,nan,g3
+6591,patient_id_6591,1963-05-22,iiic,Colon,nan,r0,6.0,adjuvant,False,g2
+6611,patient_id_6611,2011-02-11, iva,Rectal,nan,r0,nan,metastatic,False,g3
+6613,patient_id_6613,1950-07-03, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+6614,patient_id_6614,1989-03-23, i,Colon,nan,r0,22.0,metastatic,False,g2
+6616,patient_id_6616,1952-04-06,iia,Colon,nan,r0,nan,adjuvant,nan,g2
+6619,patient_id_6619,2012-11-22, ivb,Colon,nan,r0,nan,neoadjuvant,False,g3
+6622,patient_id_6622,2000-06-23,iva,Colon,nan,r0,19.0,neoadjuvant,False,g2
+6647,patient_id_6647,1970-02-10, iiib,Colon,nan,r0,nan,metastatic,False,g2
+6656,patient_id_6656,1983-09-28,iva,Colon,nan,r1,nan,neoadjuvant,False,g2
+6659,patient_id_6659,2004-11-08, iiib,Colon,nan,r0,nan,adjuvant,True,g3
+6666,patient_id_6666,2013-08-04,nan,Colon,nan,r0,22.0,metastatic,True,g1
+6668,patient_id_6668,2003-11-07, iva,Rectal,nan,r1,nan,adjuvant,False,g2
+6670,patient_id_6670,1951-07-25, i,Rectal,nan,r0,24.0,metastatic,True,g2
+6675,patient_id_6675,1967-01-02, ivb,Rectal,nan,r0,16.0,neoadjuvant,False,g2
+6681,patient_id_6681,1971-11-09, iia,Rectal,nan,r0,14.0,metastatic,False,g3
+6686,patient_id_6686,1994-11-26,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+6689,patient_id_6689,1974-02-09,iiia,Colon,nan,r0,nan,adjuvant,False,g2
+6691,patient_id_6691,1996-02-10,nan,Colon,nan,r0,nan,metastatic,False,g2
+6695,patient_id_6695,1952-05-09, iva,Rectal,nan,r0,nan,neoadjuvant,False,g3
+6698,patient_id_6698,1987-10-23, iia,Colon,nan,r0,nan,adjuvant,False,g2
+6703,patient_id_6703,1948-08-11,iva,Colon,nan,r0,14.0,metastatic,False,g2
+6716,patient_id_6716,1968-09-26, iiic,Colon,nan,r0,nan,adjuvant,False,g2
+6721,patient_id_6721,1984-06-09,iic,Colon,nan,r0,13.0,adjuvant,False,g2
+6739,patient_id_6739,2002-12-25,iiic,Colon,nan,r0,23.0,adjuvant,False,g3
+6741,patient_id_6741,2020-03-27,i,Colon,nan,r0,nan,metastatic,True,g2
+6744,patient_id_6744,2007-10-03, iva,Rectal,nan,r0,20.0,metastatic,True,g2
+6745,patient_id_6745,1949-04-08,iva,Rectal,nan,r0,nan,adjuvant,True,g2
+6749,patient_id_6749,1975-08-04, ivb,Colon,nan,r0,nan,neoadjuvant,nan,g2
+6752,patient_id_6752,1980-11-18,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+6755,patient_id_6755,1968-09-30, iiib,Colon,nan,r0,23.0,metastatic,nan,g3
+6773,patient_id_6773,2005-11-24,i,Colon,nan,r0,26.0,metastatic,nan,g2
+6777,patient_id_6777,1987-08-13, iva,Rectal,nan,r0,nan,adjuvant,False,g2
+6781,patient_id_6781,1969-11-15,nan,Colon,nan,r0,nan,metastatic,False,g2
+6782,patient_id_6782,1983-01-16, i,Colon,nan,r0,6.0,neoadjuvant,False,g2
+6786,patient_id_6786,1998-12-30, iva,Colon,nan,r0,19.0,neoadjuvant,True,g3
+6792,patient_id_6792,1950-02-25, iiib,Colon,nan,r0,13.0,metastatic,nan,g3
+6796,patient_id_6796,1988-06-08,iiic,Rectal,nan,r0,nan,adjuvant,False,g2
+6797,patient_id_6797,1960-09-18,iiib,Colon,nan,r0,nan,metastatic,False,g2
+6808,patient_id_6808,1951-06-05,iva,Colon,nan,r0,nan,metastatic,False,g3
+6810,patient_id_6810,2017-07-04, iiib,Colon,nan,r0,nan,neoadjuvant,True,g2
+6812,patient_id_6812,1990-05-18,nan,Rectal,nan,r0,nan,metastatic,nan,g2
+6820,patient_id_6820,1947-11-25,iva,Rectal,nan,r0,nan,metastatic,False,g2
+6823,patient_id_6823,1987-08-25,i,Rectal,nan,r0,nan,metastatic,False,g3
+6828,patient_id_6828,1964-03-15, iiib,Colon,nan,r0,nan,neoadjuvant,True,g2
+6832,patient_id_6832,2003-06-10, ivb,Colon,nan,r0,23.0,metastatic,False,g3
+6838,patient_id_6838,2006-04-26,iva,Colon,nan,r0,23.0,adjuvant,nan,g2
+6847,patient_id_6847,1978-07-14,iiib,Colon,nan,r0,12.0,metastatic,False,g3
+6849,patient_id_6849,1999-09-01, iiia,Rectal,nan,r0,nan,neoadjuvant,False,g2
+6850,patient_id_6850,1996-01-27,ivb,Colon,nan,r2,15.0,metastatic,False,g2
+6860,patient_id_6860,1987-09-07,nan,Colon,nan,r0,nan,adjuvant,nan,g3
+6867,patient_id_6867,1974-01-08,iiib,Colon,nan,r0,nan,adjuvant,True,g2
+6875,patient_id_6875,1958-12-25, iiib,Colon,nan,r0,23.0,neoadjuvant,True,g2
+6881,patient_id_6881,1956-06-02,iva,Colon,nan,r0,51.0,adjuvant,False,g2
+6884,patient_id_6884,2003-08-13,iia,Colon,nan,r0,nan,metastatic,False,g2
+6886,patient_id_6886,1950-03-05,nan,Colon,nan,r0,14.0,metastatic,False,g2
+6888,patient_id_6888,2013-01-27, iib,Colon,nan,r0,nan,adjuvant,False,g2
+6890,patient_id_6890,1954-10-28, i,Rectal,nan,r0,21.0,metastatic,True,g2
+6893,patient_id_6893,1960-09-03,nan,Rectal,nan,r2,nan,adjuvant,nan,g1
+6897,patient_id_6897,1974-03-24, i,Rectal,nan,r0,15.0,metastatic,False,g1
+6902,patient_id_6902,1990-04-18,nan,Colon,nan,r0,14.0,neoadjuvant,nan,g2
+6903,patient_id_6903,1999-05-21,i,Rectal,nan,r0,23.0,neoadjuvant,nan,g3
+6910,patient_id_6910,1966-10-25,nan,Colon,nan,r0,nan,adjuvant,False,g2
+6912,patient_id_6912,1969-09-09,nan,Colon,nan,r0,nan,metastatic,False,g2
+6919,patient_id_6919,1978-12-17,ivb,Colon,nan,r0,nan,neoadjuvant,False,g3
+6920,patient_id_6920,1980-12-27,iib,Rectal,nan,r0,nan,adjuvant,nan,g2
+6924,patient_id_6924,1960-07-27, iva,Colon,nan,r0,11.0,neoadjuvant,True,g2
+6930,patient_id_6930,1954-01-28,iva,Colon,nan,r0,nan,metastatic,nan,g3
+6932,patient_id_6932,1989-12-04,iva,Colon,nan,r0,26.0,adjuvant,True,g1
+6933,patient_id_6933,1946-03-25,nan,Rectal,nan,r0,24.0,metastatic,False,g2
+6937,patient_id_6937,1980-10-04,nan,Colon,nan,r0,15.0,adjuvant,nan,g1
+6938,patient_id_6938,2018-11-27,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+6940,patient_id_6940,2015-07-29,i,Colon,nan,r0,nan,metastatic,False,g2
+6941,patient_id_6941,1954-03-27,iiib,Colon,nan,r0,24.0,neoadjuvant,False,g2
+6946,patient_id_6946,1951-11-29,iva,Colon,nan,r0,nan,adjuvant,False,g2
+6947,patient_id_6947,2020-12-02, ivb,Colon,nan,r0,nan,metastatic,nan,g2
+6954,patient_id_6954,1975-05-04,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+6958,patient_id_6958,1966-04-04, iiib,Colon,nan,r0,28.0,metastatic,False,g1
+6961,patient_id_6961,1960-08-02,iiia,Colon,nan,r0,nan,metastatic,False,g2
+6990,patient_id_6990,2019-05-06,nan,Colon,nan,r1,18.0,adjuvant,True,g2
+6992,patient_id_6992,1999-12-17, ivb,Colon,nan,r0,21.0,neoadjuvant,False,g1
+6998,patient_id_6998,1979-03-27,iia,Colon,nan,r0,nan,neoadjuvant,False,g3
+7002,patient_id_7002,1956-10-09, iva,Colon,nan,r0,nan,metastatic,False,g2
+7008,patient_id_7008,1974-02-18, i,Colon,nan,r1,nan,metastatic,nan,g2
+7013,patient_id_7013,2001-02-06,iib,Colon,nan,r1,21.0,metastatic,False,g2
+7018,patient_id_7018,1958-07-13, iva,Colon,nan,r0,nan,metastatic,False,g2
+7029,patient_id_7029,2004-03-16,ivb,Rectal,nan,r0,nan,neoadjuvant,False,g2
+7044,patient_id_7044,2007-01-21,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+7045,patient_id_7045,1947-10-06,i,Colon,nan,r0,15.0,neoadjuvant,nan,g2
+7057,patient_id_7057,1984-08-10,i,Colon,nan,r0,14.0,adjuvant,True,g1
+7060,patient_id_7060,1959-11-26, iiia,Colon,nan,r0,nan,adjuvant,False,g2
+7062,patient_id_7062,1985-12-06, iiia,Colon,nan,r0,nan,adjuvant,False,g2
+7068,patient_id_7068,1976-02-22, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+7082,patient_id_7082,2017-08-08,nan,Rectal,nan,r0,0.0,neoadjuvant,False,g2
+7084,patient_id_7084,1975-07-17,iva,Colon,nan,r0,24.0,metastatic,False,g2
+7090,patient_id_7090,1969-04-06,iva,Colon,nan,r0,17.0,adjuvant,False,g2
+7092,patient_id_7092,1976-07-11,i,Rectal,nan,r0,15.0,adjuvant,nan,g2
+7093,patient_id_7093,2019-11-14,iva,Colon,nan,r0,nan,metastatic,True,g3
+7106,patient_id_7106,2016-03-18,i,Rectal,nan,r0,21.0,adjuvant,False,g3
+7114,patient_id_7114,2018-09-10, iva,Rectal,nan,r0,16.0,neoadjuvant,True,g2
+7116,patient_id_7116,1973-07-07,iiia,Colon,nan,r0,nan,adjuvant,True,g2
+7120,patient_id_7120,1949-01-13,iiib,Rectal,nan,r0,13.0,metastatic,False,g2
+7128,patient_id_7128,2014-02-06,iia,Colon,nan,r0,30.0,adjuvant,nan,g2
+7130,patient_id_7130,2010-12-16,ivb,Colon,nan,r0,nan,metastatic,False,g2
+7143,patient_id_7143,1954-10-21,nan,Colon,nan,r1,nan,adjuvant,False,g3
+7148,patient_id_7148,1956-11-27,nan,Colon,nan,r0,13.0,neoadjuvant,False,g1
+7166,patient_id_7166,1947-06-05,nan,Colon,nan,r0,27.0,metastatic,True,g1
+7170,patient_id_7170,1948-03-23,iva,Rectal,nan,r0,nan,neoadjuvant,False,g2
+7183,patient_id_7183,1948-12-01, iva,Colon,nan,r1,nan,metastatic,False,g2
+7187,patient_id_7187,1983-10-04, iiib,Colon,nan,r1,9.0,metastatic,False,g2
+7189,patient_id_7189,2018-09-26, iiib,Colon,nan,r0,19.0,adjuvant,False,g2
+7190,patient_id_7190,1973-05-26, iva,Colon,nan,r0,56.0,adjuvant,False,g2
+7191,patient_id_7191,1990-07-20,iiib,Rectal,nan,r0,16.0,metastatic,False,g2
+7192,patient_id_7192,1968-06-13,ivb,Colon,nan,r0,14.0,adjuvant,False,g2
+7196,patient_id_7196,2020-03-23,iia,Colon,nan,r0,nan,metastatic,nan,g2
+7199,patient_id_7199,1981-05-09,iva,Rectal,nan,r0,nan,adjuvant,False,g2
+7201,patient_id_7201,1968-05-09, iiib,Colon,nan,r0,21.0,neoadjuvant,False,g3
+7216,patient_id_7216,1996-11-18,nan,Rectal,nan,r1,14.0,adjuvant,False,g3
+7221,patient_id_7221,1976-10-29,nan,Colon,nan,r0,22.0,adjuvant,False,g2
+7228,patient_id_7228,1978-10-10, iiic,Colon,nan,r0,nan,metastatic,False,g2
+7231,patient_id_7231,1947-12-25, iva,Colon,nan,r0,nan,metastatic,False,g2
+7234,patient_id_7234,1950-07-27, iiib,Colon,nan,r1,nan,neoadjuvant,False,g2
+7249,patient_id_7249,1995-02-27,nan,Colon,nan,r0,nan,metastatic,False,g1
+7253,patient_id_7253,1992-04-08,iva,Colon,nan,r0,33.0,metastatic,False,g2
+7254,patient_id_7254,1947-01-17,iiia,Colon,nan,r0,nan,metastatic,False,g2
+7256,patient_id_7256,1971-11-21, iiib,Rectal,nan,r0,nan,adjuvant,False,g3
+7261,patient_id_7261,1978-01-25,nan,Rectal,nan,r0,nan,neoadjuvant,False,g2
+7268,patient_id_7268,1957-12-24,nan,Rectal,nan,r0,18.0,metastatic,nan,g3
+7271,patient_id_7271,1975-06-22,i,Colon,nan,r0,13.0,metastatic,False,g2
+7272,patient_id_7272,1977-05-11, iva,Colon,nan,r1,nan,adjuvant,True,g2
+7274,patient_id_7274,1984-03-25,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+7279,patient_id_7279,1955-09-13,iva,Colon,nan,r1,nan,neoadjuvant,False,g2
+7280,patient_id_7280,1995-12-24, iiib,Colon,nan,r0,18.0,neoadjuvant,nan,g1
+7293,patient_id_7293,2018-03-24,nan,Colon,nan,r0,23.0,metastatic,False,g2
+7295,patient_id_7295,1982-06-07,nan,Rectal,nan,r0,nan,adjuvant,nan,g2
+7308,patient_id_7308,1993-07-30,iiib,Colon,nan,r0,nan,metastatic,False,g2
+7318,patient_id_7318,2013-11-18,i,Colon,nan,r0,nan,neoadjuvant,False,g2
+7329,patient_id_7329,1959-03-01, iiib,Colon,nan,r0,nan,adjuvant,nan,g1
+7330,patient_id_7330,1978-10-12,iia,Colon,nan,r0,20.0,neoadjuvant,False,g2
+7332,patient_id_7332,1974-07-05, iiib,Rectal,nan,r0,nan,adjuvant,False,g2
+7336,patient_id_7336,2015-11-15,iia,Colon,nan,r0,nan,metastatic,False,g2
+7347,patient_id_7347,1953-09-26,i,Colon,nan,r1,nan,metastatic,False,g3
+7348,patient_id_7348,1964-02-24,nan,Colon,nan,r0,nan,metastatic,nan,g2
+7350,patient_id_7350,2017-09-06, iva,Colon,nan,r0,nan,metastatic,False,g2
+7351,patient_id_7351,1990-12-26, iiic,Colon,nan,r0,20.0,neoadjuvant,True,g2
+7358,patient_id_7358,1950-10-08, iib,Colon,nan,r0,0.0,neoadjuvant,False,g2
+7376,patient_id_7376,1994-08-07,nan,Colon,nan,r0,26.0,metastatic,nan,g2
+7382,patient_id_7382,1993-07-23,ivb,Rectal,nan,r0,22.0,metastatic,False,g3
+7383,patient_id_7383,1967-03-02,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+7384,patient_id_7384,2016-11-05, iiib,Colon,nan,r0,26.0,adjuvant,False,g2
+7390,patient_id_7390,1961-01-27, iiib,Colon,nan,r0,10.0,adjuvant,False,g2
+7396,patient_id_7396,2001-02-09, ivb,Colon,nan,r0,16.0,neoadjuvant,False,g2
+7397,patient_id_7397,2017-11-27,i,Colon,nan,r0,nan,neoadjuvant,False,g2
+7402,patient_id_7402,1948-06-22,iiic,Colon,nan,r0,21.0,metastatic,False,g3
+7403,patient_id_7403,1955-01-17,iva,Colon,nan,r0,nan,adjuvant,False,g2
+7405,patient_id_7405,2002-05-01, iva,Rectal,nan,r0,nan,metastatic,True,g2
+7407,patient_id_7407,1983-04-29,iva,Colon,nan,r0,15.0,metastatic,True,g2
+7412,patient_id_7412,1962-10-22,iva,Colon,nan,r0,nan,neoadjuvant,nan,g2
+7413,patient_id_7413,1957-11-15,i,Colon,nan,r0,15.0,adjuvant,False,g2
+7421,patient_id_7421,2008-08-20,i,Colon,nan,r0,25.0,adjuvant,False,g2
+7428,patient_id_7428,1962-09-18,iva,Rectal,nan,r0,nan,adjuvant,True,g3
+7438,patient_id_7438,1949-09-04,iia,Colon,nan,r0,nan,neoadjuvant,True,g3
+7440,patient_id_7440,1993-06-11, i,Colon,nan,r0,20.0,adjuvant,False,g2
+7447,patient_id_7447,1984-07-15,iiic,Colon,nan,r0,nan,adjuvant,False,g2
+7448,patient_id_7448,1947-03-12,ivb,Colon,nan,r0,21.0,metastatic,False,g3
+7454,patient_id_7454,1953-12-30,nan,Colon,nan,r0,12.0,adjuvant,False,g2
+7455,patient_id_7455,1968-07-15,iva,Rectal,nan,r0,nan,neoadjuvant,True,g2
+7456,patient_id_7456,2017-11-14, ivb,Colon,nan,r0,19.0,adjuvant,False,g1
+7459,patient_id_7459,1964-11-25,nan,Colon,nan,r0,14.0,adjuvant,False,g1
+7460,patient_id_7460,1957-10-23,iva,Rectal,nan,r0,41.0,neoadjuvant,False,g3
+7470,patient_id_7470,1988-08-31,i,Colon,nan,r0,nan,metastatic,False,g2
+7472,patient_id_7472,2006-06-07,iic,Colon,nan,r0,19.0,neoadjuvant,False,g2
+7473,patient_id_7473,1961-01-23, iiib,Colon,nan,r0,15.0,metastatic,False,g2
+7474,patient_id_7474,1973-08-12,ivb,Rectal,nan,r0,nan,metastatic,False,g2
+7483,patient_id_7483,1996-09-23,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+7485,patient_id_7485,2015-10-07, ivb,Colon,nan,r0,12.0,adjuvant,False,g3
+7487,patient_id_7487,1966-11-01,ivb,Colon,nan,r0,nan,metastatic,False,g2
+7489,patient_id_7489,1949-01-06, iib,Colon,nan,r0,28.0,metastatic,True,g2
+7491,patient_id_7491,1981-03-28,ivb,Colon,nan,r0,12.0,metastatic,False,g3
+7498,patient_id_7498,1956-08-20,iia,Rectal,nan,r0,18.0,neoadjuvant,False,g3
+7500,patient_id_7500,1976-10-05, iib,Colon,nan,r0,nan,adjuvant,False,g2
+7503,patient_id_7503,1977-12-15,nan,Colon,nan,r0,nan,metastatic,False,g2
+7508,patient_id_7508,1948-04-24,ivb,Rectal,nan,r0,nan,metastatic,True,g1
+7527,patient_id_7527,1981-12-28, iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+7528,patient_id_7528,2012-09-22, iva,Colon,nan,r0,nan,metastatic,False,g2
+7535,patient_id_7535,2018-03-16, iia,Colon,nan,r0,20.0,neoadjuvant,False,g2
+7536,patient_id_7536,1973-01-18, iva,Rectal,nan,r0,20.0,metastatic,False,g2
+7538,patient_id_7538,1950-06-09,iva,Colon,nan,r0,nan,adjuvant,False,g2
+7539,patient_id_7539,2005-02-27,nan,Rectal,nan,r0,20.0,adjuvant,False,g2
+7540,patient_id_7540,1976-04-14,nan,Colon,nan,r0,41.0,adjuvant,False,g2
+7544,patient_id_7544,1976-09-18,nan,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+7568,patient_id_7568,1947-08-06,iiib,Colon,nan,r0,13.0,metastatic,nan,g2
+7571,patient_id_7571,2013-05-19,iiib,Colon,nan,r0,nan,metastatic,False,g2
+7572,patient_id_7572,1975-02-15,nan,Colon,nan,r0,nan,metastatic,False,g2
+7578,patient_id_7578,2020-09-05, iiib,Colon,nan,r1,nan,metastatic,False,g1
+7581,patient_id_7581,1952-03-25,iva,Colon,nan,r0,14.0,neoadjuvant,nan,g2
+7600,patient_id_7600,2017-07-24, ivb,Colon,nan,r0,nan,metastatic,nan,g2
+7601,patient_id_7601,2013-12-08,iiic,Rectal,nan,r0,41.0,neoadjuvant,False,g2
+7609,patient_id_7609,1971-12-29, iva,Colon,nan,r0,nan,metastatic,False,g2
+7614,patient_id_7614,1973-10-11,iiic,Colon,nan,r0,nan,adjuvant,False,g3
+7615,patient_id_7615,1968-09-23,i,Colon,nan,r0,nan,metastatic,True,g3
+7618,patient_id_7618,1990-11-21,iic,Rectal,nan,r0,17.0,neoadjuvant,False,g2
+7619,patient_id_7619,2010-10-09,iva,Colon,nan,r0,15.0,metastatic,nan,g3
+7622,patient_id_7622,2020-02-05,iiib,Colon,nan,r0,nan,metastatic,False,g2
+7630,patient_id_7630,2020-01-27,iva,Colon,nan,r0,9.0,metastatic,nan,g3
+7643,patient_id_7643,1996-12-03,iib,Rectal,nan,r0,nan,adjuvant,nan,g3
+7650,patient_id_7650,1983-01-27,iva,Colon,nan,r0,12.0,metastatic,False,g2
+7653,patient_id_7653,1970-03-20,iva,Colon,nan,r2,nan,neoadjuvant,False,g2
+7655,patient_id_7655,1959-04-17,iva,Colon,nan,r0,nan,metastatic,False,g2
+7658,patient_id_7658,1988-04-03,iia,Colon,nan,r0,28.0,metastatic,False,g3
+7661,patient_id_7661,1999-01-30,nan,Colon,nan,r0,12.0,metastatic,False,g2
+7666,patient_id_7666,2018-08-01, iiib,Colon,nan,r0,0.0,neoadjuvant,nan,g3
+7670,patient_id_7670,2014-01-25,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+7676,patient_id_7676,2009-09-25, iva,Colon,nan,r0,13.0,adjuvant,nan,g2
+7677,patient_id_7677,1977-12-27, ivb,Colon,nan,r0,nan,metastatic,nan,g2
+7690,patient_id_7690,1977-02-11,iiic,Colon,nan,r0,nan,metastatic,False,g2
+7694,patient_id_7694,2007-03-28,iva,Colon,nan,r0,nan,adjuvant,False,g2
+7697,patient_id_7697,1965-07-17,iiic,Colon,nan,r0,15.0,metastatic,False,g3
+7710,patient_id_7710,1946-05-11,nan,Colon,nan,r0,nan,metastatic,False,g2
+7726,patient_id_7726,1985-07-29, iib,Rectal,nan,r0,14.0,adjuvant,False,g2
+7728,patient_id_7728,2001-02-19,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+7731,patient_id_7731,1993-04-02,nan,Colon,nan,r0,nan,metastatic,False,g2
+7735,patient_id_7735,2018-09-04, iva,Rectal,nan,r0,13.0,metastatic,False,g1
+7739,patient_id_7739,1988-02-27, iva,Colon,nan,r0,11.0,metastatic,False,g2
+7741,patient_id_7741,1974-03-27,iiib,Colon,nan,r0,24.0,metastatic,True,g3
+7742,patient_id_7742,2012-11-27,ivb,Colon,nan,r0,nan,metastatic,False,g2
+7751,patient_id_7751,2010-06-06,iva,Colon,nan,r0,30.0,neoadjuvant,False,g2
+7759,patient_id_7759,1957-04-15,iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+7763,patient_id_7763,1979-04-06, iia,Rectal,nan,r0,17.0,metastatic,False,g2
+7776,patient_id_7776,1978-10-08,nan,Colon,nan,r0,nan,metastatic,True,g2
+7779,patient_id_7779,1960-06-11,iiia,Colon,nan,r0,nan,metastatic,False,g2
+7781,patient_id_7781,1990-06-10,nan,Colon,nan,r0,nan,metastatic,False,g2
+7784,patient_id_7784,1994-04-16, iiib,Rectal,nan,r0,nan,neoadjuvant,False,g2
+7785,patient_id_7785,1965-02-12,nan,Rectal,nan,r0,nan,neoadjuvant,False,g3
+7787,patient_id_7787,1974-03-04,iva,Rectal,nan,r0,0.0,metastatic,True,g2
+7789,patient_id_7789,2008-02-07,iiic,Colon,nan,r0,nan,adjuvant,False,g2
+7791,patient_id_7791,1962-10-12, iiic,Colon,nan,r0,nan,adjuvant,True,g3
+7792,patient_id_7792,1973-11-03, iiib,Rectal,nan,r0,nan,metastatic,False,g2
+7794,patient_id_7794,1986-04-17,nan,Colon,nan,r1,nan,adjuvant,nan,g2
+7800,patient_id_7800,1965-03-06,nan,Colon,nan,r0,19.0,metastatic,False,g2
+7804,patient_id_7804,1983-04-25,nan,Colon,nan,r0,nan,metastatic,False,g2
+7832,patient_id_7832,2011-05-22,iva,Rectal,nan,r0,nan,adjuvant,False,g2
+7839,patient_id_7839,1951-03-10,nan,Colon,nan,r0,22.0,adjuvant,False,g3
+7841,patient_id_7841,1968-05-25,nan,Rectal,nan,r0,nan,adjuvant,nan,g1
+7844,patient_id_7844,1980-07-29, iva,Colon,nan,r0,8.0,adjuvant,False,g2
+7845,patient_id_7845,1946-01-03, iiib,Colon,nan,r0,nan,metastatic,False,g1
+7848,patient_id_7848,1968-03-13, iiib,Colon,nan,r0,nan,adjuvant,False,g3
+7854,patient_id_7854,2017-03-05,nan,Colon,nan,r0,24.0,adjuvant,False,g3
+7857,patient_id_7857,2004-01-16,iiib,Rectal,nan,r0,26.0,metastatic,nan,g1
+7861,patient_id_7861,2014-08-15,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+7876,patient_id_7876,2017-12-03,iiia,Colon,nan,r0,21.0,adjuvant,False,g3
+7877,patient_id_7877,1985-07-06,iiib,Colon,nan,r0,15.0,metastatic,False,g2
+7887,patient_id_7887,1958-01-19,iva,Colon,nan,r0,nan,metastatic,False,g2
+7888,patient_id_7888,1992-12-31, iia,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+7891,patient_id_7891,1948-01-04,ivb,Colon,nan,r0,nan,neoadjuvant,True,g2
+7893,patient_id_7893,1999-03-22, iiib,Rectal,nan,r2,nan,neoadjuvant,False,g2
+7897,patient_id_7897,1971-11-28,iva,Rectal,nan,r1,nan,metastatic,nan,g3
+7901,patient_id_7901,1992-08-22,ivb,Colon,nan,r0,12.0,adjuvant,False,g3
+7902,patient_id_7902,1971-02-01, ivb,Rectal,nan,r0,15.0,metastatic,False,g3
+7904,patient_id_7904,1980-06-10,iia,Colon,nan,r0,16.0,metastatic,False,g2
+7905,patient_id_7905,1992-06-05, iva,Colon,nan,r0,17.0,metastatic,False,g2
+7906,patient_id_7906,1968-11-07,i,Colon,nan,r1,21.0,adjuvant,False,g2
+7914,patient_id_7914,1977-12-24,nan,Colon,nan,r0,nan,neoadjuvant,True,g3
+7915,patient_id_7915,1951-01-02, i,Colon,nan,r0,nan,metastatic,False,g2
+7920,patient_id_7920,1999-02-17,nan,Colon,nan,r0,nan,neoadjuvant,False,g1
+7923,patient_id_7923,1966-06-24,iia,Colon,nan,r0,nan,metastatic,False,g3
+7928,patient_id_7928,1959-11-29, iva,Colon,nan,r1,11.0,metastatic,False,g3
+7939,patient_id_7939,1978-04-28,nan,Colon,nan,r0,nan,neoadjuvant,False,g3
+7940,patient_id_7940,2020-08-07,iiib,Colon,nan,r0,0.0,metastatic,False,g2
+7945,patient_id_7945,1981-10-10,iiic,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+7946,patient_id_7946,1967-03-10, iva,Colon,nan,r0,16.0,adjuvant,nan,g1
+7951,patient_id_7951,1983-05-14,nan,Colon,nan,r1,22.0,adjuvant,False,g3
+7954,patient_id_7954,2020-09-19,iiib,Colon,nan,r0,34.0,metastatic,nan,g2
+7956,patient_id_7956,1973-03-16,ivb,Rectal,nan,r0,nan,metastatic,False,g3
+7970,patient_id_7970,1977-01-26, ivb,Colon,nan,r0,16.0,adjuvant,True,g2
+7971,patient_id_7971,1986-04-15,iib,Colon,nan,r0,33.0,metastatic,False,g2
+7973,patient_id_7973,1966-06-23,iiib,Colon,nan,r0,16.0,metastatic,False,g2
+7981,patient_id_7981,1991-11-17,iiia,Colon,nan,r1,nan,metastatic,False,g3
+7984,patient_id_7984,2009-04-13,iiib,Colon,nan,r0,11.0,adjuvant,False,g2
+7985,patient_id_7985,1990-05-03,iiic,Colon,nan,r0,6.0,adjuvant,False,g3
+7993,patient_id_7993,1990-08-16,ivb,Colon,nan,r0,12.0,neoadjuvant,False,g2
+7994,patient_id_7994,1991-02-26,iiib,Colon,nan,r0,20.0,metastatic,False,g3
+8001,patient_id_8001,1972-10-20,iva,Colon,nan,r0,24.0,neoadjuvant,False,g3
+8004,patient_id_8004,1969-04-03,ivb,Colon,nan,r0,16.0,adjuvant,nan,g2
+8005,patient_id_8005,1960-08-23, iva,Colon,nan,r0,19.0,metastatic,False,g2
+8007,patient_id_8007,2002-09-26,nan,Colon,nan,r1,nan,adjuvant,True,g2
+8018,patient_id_8018,1998-12-15,iiib,Rectal,nan,r0,13.0,metastatic,False,g2
+8019,patient_id_8019,1965-01-24, i,Colon,nan,r0,10.0,neoadjuvant,False,g3
+8021,patient_id_8021,1959-05-14, iiic,Colon,nan,r1,nan,metastatic,True,g2
+8023,patient_id_8023,2007-10-27,nan,Colon,nan,r0,20.0,adjuvant,False,g2
+8026,patient_id_8026,1950-03-15, iva,Colon,nan,r0,nan,adjuvant,False,g2
+8027,patient_id_8027,2000-02-28,iiib,Rectal,nan,r0,14.0,metastatic,False,g2
+8040,patient_id_8040,1999-05-08,iva,Rectal,nan,r0,nan,neoadjuvant,False,g3
+8042,patient_id_8042,1968-01-16,iva,Colon,nan,r0,14.0,adjuvant,False,g2
+8043,patient_id_8043,1979-07-04,nan,Colon,nan,r0,22.0,adjuvant,False,g3
+8048,patient_id_8048,1973-05-07,iiic,Colon,nan,r1,15.0,metastatic,True,g2
+8050,patient_id_8050,1979-02-19,ivb,Colon,nan,r0,19.0,adjuvant,False,g1
+8061,patient_id_8061,1978-07-08,ivb,Colon,nan,r0,3.0,metastatic,False,g1
+8076,patient_id_8076,1982-05-14, iia,Colon,nan,r0,0.0,metastatic,True,g2
+8083,patient_id_8083,1977-04-13,iiib,Colon,nan,r0,15.0,metastatic,False,g2
+8092,patient_id_8092,1989-12-11,iiib,Colon,nan,r1,16.0,metastatic,False,g3
+8100,patient_id_8100,2015-08-26,iva,Colon,nan,r0,26.0,metastatic,False,g2
+8101,patient_id_8101,1963-12-24, ivb,Rectal,nan,r0,nan,metastatic,nan,g2
+8104,patient_id_8104,1946-04-20,ivb,Colon,nan,r0,nan,neoadjuvant,True,g2
+8122,patient_id_8122,2019-02-16, iiib,Colon,nan,r0,9.0,adjuvant,False,g2
+8125,patient_id_8125,1979-02-09,nan,Rectal,nan,r0,nan,neoadjuvant,False,g1
+8140,patient_id_8140,1962-08-11, iva,Colon,nan,r0,15.0,metastatic,False,g3
+8141,patient_id_8141,1970-12-21,i,Colon,nan,r0,nan,metastatic,False,g3
+8145,patient_id_8145,2017-10-09, iia,Colon,nan,r0,10.0,metastatic,nan,g1
+8147,patient_id_8147,2002-09-12, iiib,Colon,nan,r0,26.0,neoadjuvant,True,g3
+8148,patient_id_8148,1959-09-21, iiib,Colon,nan,r0,21.0,adjuvant,False,g2
+8153,patient_id_8153,1985-07-30,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+8155,patient_id_8155,2013-04-16, iva,Rectal,nan,r0,nan,metastatic,False,g2
+8156,patient_id_8156,1992-12-14, ivb,Colon,nan,r0,6.0,neoadjuvant,False,g2
+8160,patient_id_8160,1985-02-04,iia,Rectal,nan,r0,nan,metastatic,True,g2
+8184,patient_id_8184,2012-09-25,iva,Rectal,nan,r2,nan,neoadjuvant,False,g2
+8188,patient_id_8188,2018-02-02,nan,Rectal,nan,r0,20.0,adjuvant,False,g3
+8194,patient_id_8194,1963-06-14,iva,Colon,nan,r0,nan,metastatic,False,g3
+8201,patient_id_8201,1957-11-07, iiib,Colon,nan,r0,nan,neoadjuvant,False,g2
+8202,patient_id_8202,1956-12-25,nan,Colon,nan,r0,15.0,adjuvant,nan,g3
+8210,patient_id_8210,1965-12-16, iiic,Colon,nan,r0,46.0,neoadjuvant,nan,g2
+8212,patient_id_8212,1946-11-11,iia,Rectal,nan,r0,nan,neoadjuvant,False,g3
+8216,patient_id_8216,1970-12-17,iiib,Colon,nan,r0,23.0,adjuvant,False,g2
+8220,patient_id_8220,2016-07-13, iiib,Colon,nan,r0,17.0,metastatic,True,g2
+8224,patient_id_8224,1947-06-26, i,Colon,nan,r0,nan,neoadjuvant,False,g3
+8232,patient_id_8232,2006-01-02,iiic,Colon,nan,r0,15.0,metastatic,True,g2
+8242,patient_id_8242,1963-05-18,nan,Colon,nan,r0,18.0,adjuvant,False,g2
+8249,patient_id_8249,1947-01-08,i,Rectal,nan,r0,nan,neoadjuvant,False,g3
+8251,patient_id_8251,1964-12-11, i,Colon,nan,r1,nan,metastatic,False,g3
+8252,patient_id_8252,1977-12-04, iiib,Rectal,nan,r2,nan,metastatic,False,g2
+8254,patient_id_8254,2003-03-21,ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+8255,patient_id_8255,1960-01-03, iiia,Colon,nan,r0,nan,adjuvant,False,g2
+8256,patient_id_8256,1982-11-27,ivb,Colon,nan,r0,13.0,neoadjuvant,False,g2
+8261,patient_id_8261,1958-04-22,nan,Rectal,nan,r0,nan,metastatic,True,g3
+8262,patient_id_8262,1978-07-29, iva,Colon,nan,r1,18.0,adjuvant,False,g3
+8263,patient_id_8263,1966-01-21, iib,Colon,nan,r0,28.0,adjuvant,False,g3
+8271,patient_id_8271,1946-01-03, iiib,Colon,nan,r0,56.0,metastatic,True,g2
+8275,patient_id_8275,1986-07-14, iiia,Colon,nan,r0,nan,neoadjuvant,False,g3
+8285,patient_id_8285,1984-10-17,iva,Rectal,nan,r0,51.0,neoadjuvant,False,g1
+8286,patient_id_8286,2016-04-11, iia,Rectal,nan,r0,nan,metastatic,False,g1
+8293,patient_id_8293,1960-04-25, ivb,Rectal,nan,r0,0.0,adjuvant,nan,g2
+8299,patient_id_8299,2005-12-06,iva,Colon,nan,r0,23.0,metastatic,nan,g2
+8300,patient_id_8300,1988-08-02,nan,Rectal,nan,r1,17.0,neoadjuvant,False,g2
+8302,patient_id_8302,1973-02-09, iiib,Colon,nan,r0,24.0,adjuvant,False,g2
+8303,patient_id_8303,1965-03-03,nan,Colon,nan,r0,nan,adjuvant,False,g2
+8305,patient_id_8305,1999-02-09, ivb,Colon,nan,r0,19.0,neoadjuvant,False,g1
+8306,patient_id_8306,1946-05-11,iva,Rectal,nan,r0,nan,adjuvant,False,g2
+8332,patient_id_8332,1964-09-29, iiib,Rectal,nan,r2,14.0,adjuvant,False,g2
+8334,patient_id_8334,1973-03-07,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+8339,patient_id_8339,1948-04-09, iiib,Colon,nan,r0,8.0,adjuvant,False,g2
+8348,patient_id_8348,1973-08-12, iia,Colon,nan,r1,nan,adjuvant,nan,g3
+8349,patient_id_8349,1978-11-12, ivb,Colon,nan,r0,nan,adjuvant,False,g1
+8351,patient_id_8351,1978-06-05, i,Rectal,nan,r0,10.0,adjuvant,nan,g3
+8361,patient_id_8361,1962-08-16,iib,Colon,nan,r0,21.0,neoadjuvant,nan,g2
+8365,patient_id_8365,1985-04-27,nan,Colon,nan,r0,nan,metastatic,True,g3
+8378,patient_id_8378,1946-06-15, iib,Colon,nan,r0,13.0,metastatic,False,g2
+8392,patient_id_8392,1956-07-03, iva,Colon,nan,r0,20.0,adjuvant,False,g2
+8396,patient_id_8396,1950-03-08,iia,Colon,nan,r0,46.0,neoadjuvant,True,g2
+8397,patient_id_8397,1993-01-29,nan,Colon,nan,r0,0.0,adjuvant,nan,g3
+8400,patient_id_8400,2010-07-30,nan,Colon,nan,r0,nan,metastatic,False,g2
+8403,patient_id_8403,2004-04-02,nan,Colon,nan,r0,20.0,adjuvant,False,g2
+8404,patient_id_8404,1999-04-05,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+8408,patient_id_8408,1984-09-18, iva,Colon,nan,r0,nan,metastatic,False,g2
+8419,patient_id_8419,2010-07-26, iiia,Colon,nan,r0,nan,neoadjuvant,False,g3
+8432,patient_id_8432,1978-02-28, ivb,Rectal,nan,r0,30.0,neoadjuvant,False,g3
+8440,patient_id_8440,2012-01-27, iiib,Rectal,nan,r1,3.0,metastatic,False,g3
+8446,patient_id_8446,2020-07-12, iiia,Colon,nan,r0,0.0,adjuvant,False,g2
+8452,patient_id_8452,1971-05-16,iiib,Rectal,nan,r0,nan,metastatic,False,g2
+8453,patient_id_8453,1968-01-23,i,Colon,nan,r0,22.0,adjuvant,False,g2
+8455,patient_id_8455,2007-06-16, iiib,Colon,nan,r0,14.0,adjuvant,False,g2
+8465,patient_id_8465,1959-11-18, iva,Rectal,nan,r0,20.0,adjuvant,True,g2
+8486,patient_id_8486,1962-02-04, iiib,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+8496,patient_id_8496,1973-09-21, ivb,Colon,nan,r0,17.0,adjuvant,False,g2
+8499,patient_id_8499,2011-05-08, iiib,Rectal,nan,r0,19.0,adjuvant,False,g2
+8500,patient_id_8500,1999-10-22,iva,Colon,nan,r0,nan,neoadjuvant,nan,g3
+8501,patient_id_8501,2007-04-16, iia,Colon,nan,r0,12.0,neoadjuvant,False,g2
+8511,patient_id_8511,1989-02-27,i,Rectal,nan,r0,17.0,metastatic,True,g2
+8518,patient_id_8518,1975-09-14, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+8525,patient_id_8525,1995-05-06,iiic,Colon,nan,r0,nan,neoadjuvant,False,g2
+8528,patient_id_8528,2000-08-16,nan,Colon,nan,r0,33.0,neoadjuvant,nan,g2
+8541,patient_id_8541,2016-02-25,iic,Colon,nan,r1,25.0,neoadjuvant,nan,g2
+8544,patient_id_8544,2018-09-23,iia,Colon,nan,r1,24.0,adjuvant,False,g2
+8547,patient_id_8547,2011-05-30, iiib,Rectal,nan,r1,15.0,metastatic,False,g2
+8553,patient_id_8553,1980-04-10,iva,Colon,nan,r0,15.0,metastatic,False,g1
+8554,patient_id_8554,1993-06-14,iiic,Colon,nan,r0,12.0,adjuvant,nan,g3
+8555,patient_id_8555,1972-03-23, iiib,Colon,nan,r2,nan,adjuvant,nan,g2
+8557,patient_id_8557,1981-01-03,i,Colon,nan,r0,0.0,adjuvant,False,g3
+8569,patient_id_8569,1965-02-04, ivb,Rectal,nan,r0,21.0,adjuvant,False,g2
+8576,patient_id_8576,2015-11-12,ivb,Rectal,nan,r0,nan,neoadjuvant,nan,g2
+8589,patient_id_8589,1956-09-04,ivb,Rectal,nan,r0,12.0,adjuvant,False,g2
+8603,patient_id_8603,1983-09-26,nan,Rectal,nan,r0,17.0,adjuvant,False,g2
+8611,patient_id_8611,1993-06-18,ivb,Colon,nan,r0,9.0,metastatic,False,g2
+8612,patient_id_8612,1970-02-13, iva,Rectal,nan,r0,nan,metastatic,True,g2
+8615,patient_id_8615,1965-06-23, iiib,Colon,nan,r0,28.0,neoadjuvant,True,g2
+8616,patient_id_8616,1951-08-18, iia,Colon,nan,r0,7.0,metastatic,False,g2
+8632,patient_id_8632,1985-10-06,nan,Colon,nan,r0,0.0,adjuvant,False,g2
+8634,patient_id_8634,1974-04-04,i,Colon,nan,r0,24.0,neoadjuvant,False,g2
+8635,patient_id_8635,1968-12-22,iia,Colon,nan,r0,nan,neoadjuvant,True,g2
+8637,patient_id_8637,2020-09-03,nan,Rectal,nan,r0,nan,adjuvant,False,g3
+8640,patient_id_8640,2001-10-13,nan,Colon,nan,r0,13.0,neoadjuvant,False,g3
+8641,patient_id_8641,2012-03-08,nan,Rectal,nan,r0,10.0,metastatic,False,g2
+8646,patient_id_8646,2003-05-27,iva,Colon,nan,r0,30.0,neoadjuvant,nan,g2
+8649,patient_id_8649,1998-11-04,nan,Colon,nan,r0,6.0,neoadjuvant,nan,g1
+8651,patient_id_8651,1949-09-22,nan,Colon,nan,r1,nan,adjuvant,False,g2
+8656,patient_id_8656,2005-12-29,nan,Rectal,nan,r0,nan,neoadjuvant,False,g2
+8657,patient_id_8657,1992-11-09,nan,Colon,nan,r0,10.0,adjuvant,False,g3
+8676,patient_id_8676,1958-02-17,iiic,Colon,nan,r0,nan,neoadjuvant,True,g2
+8681,patient_id_8681,1949-11-21,i,Colon,nan,r0,33.0,adjuvant,False,g2
+8692,patient_id_8692,1959-12-06,ivb,Rectal,nan,r2,17.0,metastatic,False,g2
+8693,patient_id_8693,1955-02-09, iva,Rectal,nan,r0,14.0,neoadjuvant,nan,g2
+8696,patient_id_8696,2015-08-28, iia,Colon,nan,r0,11.0,metastatic,nan,g2
+8699,patient_id_8699,1988-05-04, iia,Rectal,nan,r0,12.0,neoadjuvant,False,g2
+8702,patient_id_8702,2009-05-17,iia,Colon,nan,r0,nan,neoadjuvant,True,g3
+8716,patient_id_8716,1955-05-30,nan,Colon,nan,r0,24.0,neoadjuvant,False,g2
+8722,patient_id_8722,1964-12-26,iia,Colon,nan,r2,nan,metastatic,False,g2
+8724,patient_id_8724,1948-09-21,iiib,Colon,nan,r0,17.0,adjuvant,False,g1
+8729,patient_id_8729,2006-06-07,iiic,Rectal,nan,r0,6.0,neoadjuvant,False,g1
+8731,patient_id_8731,1975-08-07,nan,Rectal,nan,r2,0.0,adjuvant,False,g2
+8744,patient_id_8744,1956-10-01, iva,Rectal,nan,r0,nan,neoadjuvant,True,g2
+8745,patient_id_8745,2019-08-20, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+8746,patient_id_8746,1968-10-12, iva,Rectal,nan,r0,16.0,adjuvant,False,g2
+8747,patient_id_8747,1975-11-12, iiic,Colon,nan,r0,nan,adjuvant,False,g3
+8752,patient_id_8752,1990-10-06, iiib,Rectal,nan,r0,0.0,neoadjuvant,nan,g1
+8754,patient_id_8754,1964-06-13,iia,Colon,nan,r0,16.0,metastatic,nan,g2
+8759,patient_id_8759,2010-12-19, iiic,Colon,nan,r0,nan,neoadjuvant,False,g2
+8773,patient_id_8773,2010-01-30,iia,Rectal,nan,r1,18.0,adjuvant,False,g3
+8775,patient_id_8775,1996-09-30,ivb,Colon,nan,r0,18.0,neoadjuvant,False,g1
+8778,patient_id_8778,1976-05-01,iiib,Colon,nan,r0,nan,adjuvant,True,g2
+8792,patient_id_8792,1950-09-26,nan,Rectal,nan,r0,17.0,adjuvant,False,g2
+8796,patient_id_8796,1965-06-22,nan,Colon,nan,r0,0.0,neoadjuvant,nan,g3
+8797,patient_id_8797,2004-05-12, iva,Rectal,nan,r1,14.0,adjuvant,False,g2
+8799,patient_id_8799,2012-02-24,iia,Rectal,nan,r0,24.0,metastatic,False,g3
+8804,patient_id_8804,1974-04-18,nan,Colon,nan,r0,12.0,neoadjuvant,True,g3
+8811,patient_id_8811,2010-07-28, iva,Colon,nan,r1,29.0,metastatic,False,g3
+8812,patient_id_8812,1972-07-30, iiia,Rectal,nan,r0,12.0,neoadjuvant,nan,g2
+8814,patient_id_8814,2010-12-16,nan,Colon,nan,r0,nan,neoadjuvant,True,g2
+8820,patient_id_8820,1966-05-18,iiia,Colon,nan,r0,nan,adjuvant,False,g2
+8831,patient_id_8831,1970-01-20,i,Colon,nan,r0,21.0,metastatic,nan,g3
+8841,patient_id_8841,1946-09-05, iva,Rectal,nan,r0,nan,neoadjuvant,False,g3
+8846,patient_id_8846,2017-07-01, iva,Colon,nan,r0,9.0,adjuvant,nan,g2
+8850,patient_id_8850,1991-02-27,nan,Colon,nan,r0,10.0,adjuvant,False,g2
+8851,patient_id_8851,2004-07-23,iva,Colon,nan,r0,nan,neoadjuvant,True,g2
+8852,patient_id_8852,2017-09-30,iiib,Rectal,nan,r0,nan,metastatic,False,g3
+8853,patient_id_8853,1960-07-04,nan,Colon,nan,r0,18.0,neoadjuvant,False,g3
+8855,patient_id_8855,1957-07-08,i,Colon,nan,r0,10.0,neoadjuvant,True,g2
+8856,patient_id_8856,2013-02-24,iva,Colon,nan,r0,nan,adjuvant,True,g2
+8858,patient_id_8858,2004-10-18, iia,Colon,nan,r0,18.0,metastatic,False,g2
+8860,patient_id_8860,1987-11-07,nan,Colon,nan,r0,24.0,neoadjuvant,False,g2
+8869,patient_id_8869,1953-04-03,nan,Rectal,nan,r0,nan,metastatic,nan,g3
+8873,patient_id_8873,1967-12-30, iiic,Colon,nan,r0,0.0,adjuvant,nan,g2
+8905,patient_id_8905,1951-06-02,ivb,Colon,nan,r0,nan,metastatic,nan,g2
+8911,patient_id_8911,1987-06-30, iia,Colon,nan,r0,nan,neoadjuvant,True,g2
+8913,patient_id_8913,1995-09-22,nan,Colon,nan,r0,23.0,adjuvant,False,g3
+8914,patient_id_8914,1960-07-25,nan,Colon,nan,r0,10.0,neoadjuvant,False,g3
+8919,patient_id_8919,1965-05-18, iia,Colon,nan,r0,16.0,adjuvant,False,g2
+8933,patient_id_8933,1986-12-19,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+8935,patient_id_8935,2019-01-29, iia,Colon,nan,r0,18.0,neoadjuvant,False,g2
+8951,patient_id_8951,2009-01-10,nan,Colon,nan,r0,25.0,neoadjuvant,False,g1
+8952,patient_id_8952,1949-07-13,iva,Rectal,nan,r0,nan,neoadjuvant,False,g2
+8961,patient_id_8961,1991-09-08, ivb,Colon,nan,r0,20.0,metastatic,False,g2
+8966,patient_id_8966,2001-04-01,ivb,Colon,nan,r0,nan,adjuvant,False,g3
+8974,patient_id_8974,2018-01-24, iva,Colon,nan,r0,28.0,metastatic,nan,g3
+8979,patient_id_8979,2016-09-26,iiib,Colon,nan,r0,18.0,neoadjuvant,nan,g2
+8984,patient_id_8984,1995-05-03, iva,Rectal,nan,r0,8.0,neoadjuvant,nan,g2
+8988,patient_id_8988,1985-10-15,iva,Colon,nan,r0,46.0,metastatic,False,g2
+8989,patient_id_8989,2011-03-18, iiib,Colon,nan,r0,nan,adjuvant,nan,g3
+8990,patient_id_8990,1995-03-09,nan,Colon,nan,r0,13.0,metastatic,nan,g3
+8993,patient_id_8993,1951-04-20, iib,Rectal,nan,r0,24.0,metastatic,nan,g2
+9003,patient_id_9003,1973-02-13,nan,Colon,nan,r0,nan,adjuvant,False,g2
+9006,patient_id_9006,2009-01-12,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+9013,patient_id_9013,1988-09-26,nan,Rectal,nan,r0,nan,neoadjuvant,False,g2
+9027,patient_id_9027,1995-04-16,nan,Colon,nan,r0,0.0,adjuvant,False,g3
+9031,patient_id_9031,1986-05-12,iia,Rectal,nan,r0,17.0,metastatic,False,g2
+9032,patient_id_9032,1959-02-10,iia,Rectal,nan,r0,nan,adjuvant,False,g2
+9036,patient_id_9036,1980-10-13, iva,Rectal,nan,r0,nan,metastatic,False,g2
+9038,patient_id_9038,1964-01-23,iia,Colon,nan,r0,nan,metastatic,False,g2
+9041,patient_id_9041,1985-03-27,nan,Colon,nan,r0,0.0,neoadjuvant,nan,g2
+9054,patient_id_9054,1974-10-13,nan,Colon,nan,r0,nan,metastatic,False,g2
+9064,patient_id_9064,1957-05-30,ivb,Colon,nan,r0,28.0,neoadjuvant,False,g2
+9075,patient_id_9075,1962-12-29, iva,Colon,nan,r0,19.0,adjuvant,nan,g2
+9078,patient_id_9078,1974-06-02, iiia,Colon,nan,r0,18.0,adjuvant,False,g2
+9080,patient_id_9080,1988-10-27, iia,Colon,nan,r0,7.0,neoadjuvant,False,g1
+9087,patient_id_9087,2010-01-22,nan,Rectal,nan,r1,13.0,metastatic,nan,g2
+9098,patient_id_9098,2010-06-13, ivb,Colon,nan,r0,18.0,metastatic,nan,g3
+9112,patient_id_9112,1975-06-04, iiib,Colon,nan,r0,13.0,adjuvant,True,g1
+9114,patient_id_9114,1968-03-10,i,Colon,nan,r0,nan,adjuvant,nan,g3
+9116,patient_id_9116,1973-07-25, iiia,Colon,nan,r0,9.0,neoadjuvant,True,g2
+9126,patient_id_9126,1977-04-01, iva,Colon,nan,r1,0.0,metastatic,False,g3
+9129,patient_id_9129,1965-02-12,nan,Colon,nan,r0,nan,metastatic,False,g3
+9131,patient_id_9131,1975-09-03, iiic,Colon,nan,r0,19.0,neoadjuvant,nan,g3
+9134,patient_id_9134,1968-10-25,iva,Rectal,nan,r0,nan,neoadjuvant,nan,g3
+9135,patient_id_9135,1965-12-16, iva,Colon,nan,r0,nan,neoadjuvant,True,g2
+9142,patient_id_9142,1981-04-18,nan,Rectal,nan,r0,12.0,metastatic,False,g2
+9143,patient_id_9143,2002-04-24,iiib,Colon,nan,r0,nan,adjuvant,False,g3
+9145,patient_id_9145,2011-09-15,iva,Colon,nan,r0,nan,neoadjuvant,False,g3
+9146,patient_id_9146,1966-10-15,iva,Colon,nan,r0,15.0,neoadjuvant,nan,g2
+9149,patient_id_9149,1987-11-09, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+9155,patient_id_9155,1957-10-22,iiib,Colon,nan,r0,14.0,metastatic,False,g3
+9156,patient_id_9156,1996-10-04,ivb,Colon,nan,r0,nan,metastatic,False,g2
+9169,patient_id_9169,2018-04-01, i,Colon,nan,r0,15.0,metastatic,False,g2
+9170,patient_id_9170,1995-05-04,nan,Colon,nan,r1,nan,adjuvant,False,g2
+9179,patient_id_9179,1976-06-20,iiic,Colon,nan,r0,20.0,neoadjuvant,True,g1
+9185,patient_id_9185,1954-08-15, i,Colon,nan,r0,nan,neoadjuvant,False,g2
+9186,patient_id_9186,1994-04-25,ivb,Colon,nan,r0,16.0,metastatic,True,g2
+9189,patient_id_9189,1999-09-21,iic,Colon,nan,r0,18.0,metastatic,False,g3
+9191,patient_id_9191,2007-08-21,iiia,Rectal,nan,r0,nan,metastatic,False,g3
+9192,patient_id_9192,2004-06-10, iva,Rectal,nan,r0,11.0,neoadjuvant,False,g2
+9194,patient_id_9194,1982-09-07,ivb,Colon,nan,r2,nan,adjuvant,nan,g2
+9197,patient_id_9197,2020-01-11,nan,Colon,nan,r0,nan,adjuvant,nan,g2
+9199,patient_id_9199,1952-03-16, iiia,Colon,nan,r0,nan,adjuvant,nan,g3
+9202,patient_id_9202,1968-04-22,nan,Colon,nan,r0,30.0,neoadjuvant,False,g2
+9205,patient_id_9205,1956-10-29,ivb,Rectal,nan,r0,18.0,adjuvant,nan,g2
+9206,patient_id_9206,1954-12-25,iia,Rectal,nan,r0,26.0,metastatic,False,g2
+9214,patient_id_9214,1957-10-03, iiib,Colon,nan,r0,16.0,metastatic,True,g2
+9223,patient_id_9223,1981-09-22,ivb,Colon,nan,r0,nan,metastatic,False,g2
+9229,patient_id_9229,1990-06-13, iiib,Colon,nan,r1,12.0,neoadjuvant,nan,g2
+9230,patient_id_9230,2018-12-07, iiia,Rectal,nan,r0,20.0,metastatic,False,g3
+9231,patient_id_9231,1976-01-26, iia,Rectal,nan,r0,11.0,metastatic,nan,g2
+9233,patient_id_9233,1966-12-25, iiib,Rectal,nan,r0,22.0,adjuvant,False,g2
+9237,patient_id_9237,1957-05-02,nan,Colon,nan,r0,15.0,adjuvant,nan,g2
+9249,patient_id_9249,1987-08-18,iva,Colon,nan,r0,13.0,adjuvant,True,g3
+9254,patient_id_9254,1997-01-23,nan,Colon,nan,r0,0.0,adjuvant,False,g2
+9259,patient_id_9259,1996-05-03,iia,Colon,nan,r0,nan,metastatic,False,g2
+9265,patient_id_9265,1962-11-22,nan,Rectal,nan,r0,18.0,neoadjuvant,False,g2
+9268,patient_id_9268,1986-08-20,iia,Rectal,nan,r0,17.0,neoadjuvant,nan,g2
+9269,patient_id_9269,2000-12-10, iva,Colon,nan,r0,nan,neoadjuvant,False,g3
+9272,patient_id_9272,2011-10-26,nan,Colon,nan,r0,18.0,metastatic,nan,g3
+9293,patient_id_9293,1991-04-03, iia,Colon,nan,r0,nan,metastatic,True,g2
+9295,patient_id_9295,1989-10-05,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+9298,patient_id_9298,1989-05-11,nan,Rectal,nan,r0,nan,adjuvant,False,g1
+9302,patient_id_9302,1957-12-12,ivb,Rectal,nan,r0,14.0,neoadjuvant,nan,g2
+9303,patient_id_9303,1965-07-31,nan,Colon,nan,r0,nan,neoadjuvant,False,g3
+9305,patient_id_9305,1980-09-07, ivb,Colon,nan,r0,nan,adjuvant,nan,g2
+9309,patient_id_9309,2003-06-07, iiib,Colon,nan,r0,nan,adjuvant,False,g2
+9313,patient_id_9313,1987-08-20,iiia,Rectal,nan,r0,0.0,neoadjuvant,False,g2
+9322,patient_id_9322,2016-04-08,iiia,Colon,nan,r0,0.0,adjuvant,nan,g2
+9328,patient_id_9328,1994-09-28,nan,Colon,nan,r0,nan,metastatic,False,g3
+9342,patient_id_9342,1954-03-03, iva,Colon,nan,r0,nan,neoadjuvant,nan,g2
+9345,patient_id_9345,1970-04-12,nan,Rectal,nan,r0,18.0,metastatic,False,g2
+9346,patient_id_9346,1957-05-03,iiia,Rectal,nan,r0,14.0,adjuvant,False,g3
+9360,patient_id_9360,1967-12-23,nan,Colon,nan,r0,nan,neoadjuvant,nan,g2
+9363,patient_id_9363,2006-02-05, iva,Colon,nan,r0,nan,metastatic,False,g2
+9365,patient_id_9365,1970-11-11,i,Colon,nan,r0,23.0,adjuvant,False,g2
+9371,patient_id_9371,2001-01-25,iva,Colon,nan,r0,29.0,neoadjuvant,False,g2
+9375,patient_id_9375,1995-05-02,iia,Colon,nan,r0,0.0,metastatic,False,g3
+9384,patient_id_9384,2001-08-07, iva,Colon,nan,r0,nan,adjuvant,False,g2
+9390,patient_id_9390,2010-05-21, iia,Colon,nan,r0,nan,adjuvant,False,g2
+9391,patient_id_9391,1974-09-17, i,Colon,nan,r0,30.0,neoadjuvant,False,g2
+9398,patient_id_9398,2016-04-02,iiib,Colon,nan,r0,52.0,metastatic,True,g2
+9401,patient_id_9401,1978-04-30, ivb,Rectal,nan,r0,23.0,neoadjuvant,False,g2
+9403,patient_id_9403,2012-07-20,i,Colon,nan,r0,nan,neoadjuvant,False,g2
+9405,patient_id_9405,2004-02-07,iiib,Colon,nan,r0,24.0,neoadjuvant,False,g2
+9408,patient_id_9408,1959-04-16,iva,Colon,nan,r0,nan,metastatic,True,g2
+9413,patient_id_9413,1967-03-01,iiia,Colon,nan,r0,nan,adjuvant,False,g2
+9419,patient_id_9419,1987-01-07, iva,Rectal,nan,r0,20.0,metastatic,nan,g3
+9437,patient_id_9437,1979-08-28, iiib,Colon,nan,r0,0.0,metastatic,True,g3
+9445,patient_id_9445,2007-07-28,iia,Colon,nan,r0,nan,neoadjuvant,False,g2
+9449,patient_id_9449,2018-01-17,nan,Colon,nan,r0,21.0,adjuvant,False,g2
+9452,patient_id_9452,1957-10-17, ivb,Colon,nan,r0,nan,neoadjuvant,False,g2
+9453,patient_id_9453,2000-02-07, iia,Colon,nan,r0,30.0,adjuvant,False,g3
+9461,patient_id_9461,2019-05-09,nan,Colon,nan,r0,nan,neoadjuvant,True,g3
+9469,patient_id_9469,1952-07-20,iia,Colon,nan,r0,9.0,adjuvant,nan,g2
+9472,patient_id_9472,1969-12-14,iia,Colon,nan,r0,17.0,neoadjuvant,False,g2
+9477,patient_id_9477,1977-06-20,ivb,Colon,nan,r0,nan,neoadjuvant,nan,g2
+9482,patient_id_9482,2000-07-07,nan,Colon,nan,r0,10.0,adjuvant,True,g3
+9491,patient_id_9491,1981-08-07, iib,Rectal,nan,r0,23.0,metastatic,False,g2
+9504,patient_id_9504,1990-04-23, iiic,Rectal,nan,r0,6.0,neoadjuvant,False,g2
+9506,patient_id_9506,1983-02-19,iia,Colon,nan,r0,nan,metastatic,False,g2
+9508,patient_id_9508,1970-01-22, iva,Colon,nan,r0,9.0,adjuvant,False,g2
+9510,patient_id_9510,1970-07-23, i,Rectal,nan,r0,nan,metastatic,nan,g2
+9513,patient_id_9513,1961-02-26, iiib,Colon,nan,r0,17.0,neoadjuvant,False,g3
+9515,patient_id_9515,1953-05-13,iiib,Colon,nan,r0,nan,metastatic,nan,g3
+9525,patient_id_9525,2002-12-05,nan,Colon,nan,r0,nan,adjuvant,False,g3
+9531,patient_id_9531,1969-07-17, i,Colon,nan,r0,nan,adjuvant,False,g2
+9532,patient_id_9532,1946-05-31,i,Colon,nan,r0,22.0,adjuvant,False,g2
+9534,patient_id_9534,1997-11-19,ivb,Colon,nan,r0,0.0,metastatic,False,g2
+9541,patient_id_9541,1967-04-14,nan,Colon,nan,r0,nan,neoadjuvant,nan,g2
+9547,patient_id_9547,1985-12-07, iva,Colon,nan,r0,0.0,neoadjuvant,False,g1
+9552,patient_id_9552,1966-09-17,iia,Rectal,nan,r0,14.0,adjuvant,False,g2
+9560,patient_id_9560,2010-08-15,iiia,Colon,nan,r0,nan,adjuvant,True,g2
+9563,patient_id_9563,1998-09-25,i,Colon,nan,r0,9.0,neoadjuvant,True,g3
+9578,patient_id_9578,1949-10-15,iia,Rectal,nan,r0,nan,metastatic,False,g1
+9580,patient_id_9580,1962-01-19, iva,Colon,nan,r0,24.0,metastatic,nan,g2
+9585,patient_id_9585,1998-06-30, iva,Colon,nan,r0,nan,adjuvant,True,g2
+9588,patient_id_9588,1977-08-04,iia,Colon,nan,r0,19.0,metastatic,nan,g3
+9605,patient_id_9605,1986-08-19, iiib,Rectal,nan,r0,nan,adjuvant,True,g3
+9610,patient_id_9610,2017-01-29, i,Rectal,nan,r0,nan,metastatic,nan,g2
+9624,patient_id_9624,1956-12-20,iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+9634,patient_id_9634,2017-02-28, iva,Colon,nan,r0,24.0,neoadjuvant,nan,g2
+9638,patient_id_9638,2013-03-05,nan,Colon,nan,r0,nan,metastatic,False,g2
+9646,patient_id_9646,1979-01-13, ivb,Rectal,nan,r0,nan,metastatic,nan,g3
+9651,patient_id_9651,1968-06-14,ivb,Rectal,nan,r0,24.0,adjuvant,False,g1
+9656,patient_id_9656,1956-03-19, iva,Colon,nan,r0,34.0,metastatic,True,g2
+9659,patient_id_9659,1979-09-07,nan,Colon,nan,r0,nan,neoadjuvant,False,g2
+9666,patient_id_9666,1991-12-22, iia,Colon,nan,r0,9.0,adjuvant,False,g2
+9684,patient_id_9684,2015-01-04,iva,Rectal,nan,r0,26.0,adjuvant,False,g2
+9689,patient_id_9689,1963-09-23,iia,Colon,nan,r0,14.0,neoadjuvant,False,g1
+9694,patient_id_9694,1972-09-27,iva,Colon,nan,r0,10.0,metastatic,False,g2
+9696,patient_id_9696,1955-05-27, iva,Rectal,nan,r0,nan,neoadjuvant,True,g3
+9697,patient_id_9697,2016-02-10,iiib,Rectal,nan,r0,nan,neoadjuvant,False,g3
+9709,patient_id_9709,1990-10-09,i,Colon,nan,r0,21.0,neoadjuvant,False,g2
+9716,patient_id_9716,1974-12-04,ivb,Colon,nan,r0,10.0,adjuvant,True,g3
+9725,patient_id_9725,1986-02-21, iib,Colon,nan,r0,nan,metastatic,True,g3
+9745,patient_id_9745,2020-05-11, iva,Colon,nan,r0,27.0,adjuvant,False,g2
+9754,patient_id_9754,1962-06-05,nan,Colon,nan,r0,33.0,adjuvant,True,g2
+9755,patient_id_9755,1988-06-05,nan,Colon,nan,r1,0.0,neoadjuvant,False,g3
+9761,patient_id_9761,1947-07-11, iiib,Rectal,nan,r0,nan,metastatic,False,g2
+9762,patient_id_9762,1958-10-03,nan,Colon,nan,r0,nan,metastatic,nan,g2
+9765,patient_id_9765,2011-01-10, iiib,Rectal,nan,r0,nan,metastatic,True,g2
+9767,patient_id_9767,1980-05-22,iva,Colon,nan,r0,nan,adjuvant,True,g3
+9768,patient_id_9768,2001-05-07, iva,Colon,nan,r0,nan,neoadjuvant,False,g2
+9772,patient_id_9772,1959-03-27,ivb,Colon,nan,r0,26.0,adjuvant,False,g2
+9773,patient_id_9773,1949-07-23,nan,Colon,nan,r0,11.0,metastatic,False,g2
+9780,patient_id_9780,2004-06-14,ivb,Colon,nan,r0,0.0,neoadjuvant,False,g2
+9785,patient_id_9785,1984-08-27,nan,Colon,nan,r0,nan,metastatic,True,g2
+9786,patient_id_9786,1959-10-04, iiia,Colon,nan,r0,nan,metastatic,False,g2
+9798,patient_id_9798,1983-02-17, iva,Colon,nan,r0,11.0,adjuvant,True,g2
+9799,patient_id_9799,1959-11-29,iiib,Colon,nan,r1,23.0,neoadjuvant,True,g3
+9803,patient_id_9803,2013-07-25, i,Colon,nan,r1,27.0,metastatic,False,g3
+9836,patient_id_9836,2010-01-18,iva,Colon,nan,r0,nan,metastatic,False,g2
+9837,patient_id_9837,1989-11-01,nan,Colon,nan,r0,nan,neoadjuvant,nan,g2
+9845,patient_id_9845,1947-04-14, iiia,Colon,nan,r0,17.0,neoadjuvant,False,g3
+9852,patient_id_9852,2016-10-02, iiib,Colon,nan,r0,16.0,adjuvant,False,g2
+9853,patient_id_9853,2010-12-30,iia,Colon,nan,r1,nan,neoadjuvant,False,g2
+9861,patient_id_9861,1953-05-18, iiib,Colon,nan,r0,nan,adjuvant,nan,g2
+9863,patient_id_9863,1978-06-28,iiib,Colon,nan,r0,nan,adjuvant,False,g3
+9864,patient_id_9864,1980-05-11, iva,Colon,nan,r0,34.0,neoadjuvant,False,g2
+9869,patient_id_9869,1980-09-09,nan,Colon,nan,r1,13.0,neoadjuvant,False,g2
+9870,patient_id_9870,1966-07-30,nan,Colon,nan,r1,10.0,neoadjuvant,False,g1
+9872,patient_id_9872,2001-10-17, iva,Colon,nan,r0,nan,adjuvant,False,g2
+9876,patient_id_9876,1979-04-30,i,Colon,nan,r0,33.0,adjuvant,False,g2
+9880,patient_id_9880,1993-03-27,iva,Colon,nan,r0,16.0,adjuvant,False,g3
+9881,patient_id_9881,1983-03-01,ivb,Colon,nan,r0,27.0,neoadjuvant,True,g3
+9882,patient_id_9882,2007-07-29,nan,Colon,nan,r1,12.0,adjuvant,nan,g2
+9891,patient_id_9891,2006-09-04,iia,Colon,nan,r0,nan,neoadjuvant,nan,g2
+9893,patient_id_9893,2016-06-11,ivb,Colon,nan,r0,nan,metastatic,True,g2
+9895,patient_id_9895,1957-01-29, iva,Colon,nan,r2,nan,adjuvant,False,g2
+9897,patient_id_9897,1986-04-27,iva,Colon,nan,r0,nan,metastatic,False,g2
+9909,patient_id_9909,2014-11-03,nan,Colon,nan,r0,16.0,adjuvant,False,g2
+9918,patient_id_9918,1957-06-26,ivb,Colon,nan,r0,18.0,neoadjuvant,nan,g3
+9924,patient_id_9924,1949-11-27,nan,Rectal,nan,r0,nan,metastatic,False,g2
+9928,patient_id_9928,2012-02-28,nan,Colon,nan,r0,nan,adjuvant,nan,g3
+9933,patient_id_9933,2018-10-05,ivb,Colon,nan,r0,nan,metastatic,False,g1
+9935,patient_id_9935,1985-06-30,nan,Colon,nan,r0,nan,metastatic,False,g1
+9941,patient_id_9941,1996-01-18, iia,Colon,nan,r0,11.0,neoadjuvant,False,g3
+9954,patient_id_9954,1991-11-29,nan,Colon,nan,r2,nan,metastatic,False,g3
+9956,patient_id_9956,1973-07-22, iva,Colon,nan,r0,nan,neoadjuvant,nan,g2
+9957,patient_id_9957,1966-04-29,nan,Colon,nan,r1,14.0,neoadjuvant,nan,g2
+9962,patient_id_9962,1987-01-18,ivb,Rectal,nan,r2,13.0,metastatic,False,g2
+9967,patient_id_9967,1978-03-07,ivb,Colon,nan,r0,nan,neoadjuvant,False,g3
+9969,patient_id_9969,1960-06-28,nan,Colon,nan,r0,nan,metastatic,False,g2
+9975,patient_id_9975,1961-01-05,nan,Rectal,nan,r0,23.0,neoadjuvant,False,g2
+9977,patient_id_9977,1954-05-25,iia,Colon,nan,r0,21.0,neoadjuvant,False,g2
+9978,patient_id_9978,1976-03-25,iiib,Colon,nan,r0,nan,adjuvant,False,g2
+9979,patient_id_9979,2011-05-24,nan,Rectal,nan,r0,nan,metastatic,False,g2
+9987,patient_id_9987,1970-11-11, iiib,Colon,nan,r0,18.0,metastatic,True,g3
+9988,patient_id_9988,1971-09-21, iiib,Colon,nan,r2,nan,metastatic,False,g2
+9995,patient_id_9995,1964-12-10, ivb,Colon,nan,r0,10.0,neoadjuvant,False,g3
